@@ -1,0 +1,38 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day ,year
+baltimorecounty,baltimorecounty,Baltimore County_Maryland,39.299236,-76.609383,293,April,20,1974
+carney,carney1,Baltimore County_Maryland_Carney and Long Green,39.45,-76.4833,108,April,25,1970
+carney,carney2,Baltimore County_Maryland_Carney and Long Green,39.45,-76.4833,108,April,25,1970
+carney,carney3,Baltimore County_Maryland_Carney and Long Green,39.45,-76.4833,108,April,25,1970
+cockeysville,cockeysville,Baltimore County_Maryland_Cockeysville,39.481217,-76.64386,94,May,12,1970
+owingmills,owingmills,Baltimore County_Maryland_Owing Mills,39.41955,-76.780253,152,June,23,1977
+phoenix,phoenix,Baltimore County_Maryland_Phoenix,39.516495,-76.616081,167,April,29,1981
+reistertown,reistertown,Baltimore County_Maryland_Reistertown,39.469549,-76.829421,219,April,26,1980
+rosedale,rosedale,Baltimore County_Maryland_Rosedale,39.335527,-76.492634,6,April,5,1991
+timomium,timomium,Baltimore County_Maryland_Timomium,39.447748,-76.572499,122,June,5,1976
+townson,townson1,Baltimore County_Maryland_Towson,39.4,-76.6,151,April,30,1980
+townson,townson2,Baltimore County_Maryland_Towson,39.4,-76.6,151,April,24,1980
+townson,townson3,Baltimore County_Maryland_Towson,39.39554,-76.566225,151,April,29,1981
+harmony,harmony,Caroline County_Maryland_Harmony,38.779003,-75.880491,14,November,27,2010
+preston,preston1,Caroline County_Maryland_Preston,38.712615,-75.909936,12,December,12,2004
+preston,preston2,Caroline County_Maryland_Preston,38.712615,-75.909936,12,December,2,2015
+laplata,laplata,Charles County_Maryland_La Plata,38.529288,-76.975251,57,March,28,1952
+eastnewmarket,eastnewmarket,Dorchester County_Maryland_East New Market,38.59695,-75.916717,12,April,24,2005
+galestown,galestown,Dorchester County_Maryland_Galestown,38.56788,-75.71265,4,April,21,2015
+waddellscorner,waddellscorner,Dorchester County_Maryland_Waddells Corner,38.65,-75.9,13,April,15,2005
+lilypons,lilypons,Frederick County_Maryland_Lilypons,39.295103,-77.431097,68,April,21,1980
+thumont,thumont,Frederick County_Maryland_Thurmont,39.647867,-77.466375,158,April,29,1973
+ellicottcity,ellicottcity,Howard County_Maryland_Ellicott City,39.267328,-76.798307,55,N/A,N/A,1964
+kennedyville,kennedyville,Kent County_Maryland_Kennedyville,39.356642,-76.02962,21,May,4,1965
+ashland,ashland,Mayland_Ashland,39.493995,-76.6341372,167,May ,1,1973
+gaithersburg,gaithersburg,Montgomery County_ Maryland_Gaithersburg,39.211004,-77,106,May,9,1981
+northbesthesda,northbesthesda,Montgomery County_Maryland_North Bethesda,39.025258,-77.096199,120,April,12,1973
+silverspring,silverspring1,Montgomery County_Maryland_Silver Spring,39.003443,-77.037755,104,April,10,1910
+silverspring,silverspring2,Montgomery County_Maryland_Silver Spring,39.010735,-77.028655,104,May,6,1977
+accokeek,accokeek,Prince Georges County_Maryland_Accokeek,38.695394,-77.06581,59,April,20,1985
+collegepark,collegepark,Prince Georges County_Maryland_College Park,38.980666,-76.936919,21,April,18,1990
+uppermarlboro,uppermarlboro,Prince Georges County_Maryland_Upper Marlboro,38.815947,-76.749691,7,March,29,1990
+easton,easton,Talbot County_Maryland_Easton,38.7667,-76.0667,11,March,27,2010
+newcomb,newcomb,Talbot County_Maryland_Newcomb,38.756325,-76.186894,2,March,29,2013
+mandelasprings,mandelasprings,Wicomico County_Maryland_Mandela Springs,38.474722,-75.711972,8,May,1,2007
+snowhill,snowhill1,Worcester County_Maryland_Snow Hill,38.177063,-75.392696,5,April,2,2006
+snowhill,snowhill2,Worcester County_Maryland_Snow Hill,38.177063,-75.392696,5,April,2,2006

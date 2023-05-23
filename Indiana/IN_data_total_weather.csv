@@ -1,0 +1,184 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,prcp,tmax,tmin,tavg
+1,9/20/1929,bloomingdale,bloomingdale,"Bloomingdale, Parke County, Indiana",39.83,-87.25,196,9,20,1929,3/31/1929,USC00127522,0,178,89,133.5
+2,9/20/1929,bloomingdale,bloomingdale,"Bloomingdale, Parke County, Indiana",39.83,-87.25,196,9,20,1929,3/31/1929,USC00129040,0,189,89,139
+3,9/20/1929,bloomingdale,bloomingdale,"Bloomingdale, Parke County, Indiana",39.83,-87.25,196,9,20,1929,3/31/1929,USC00121841,3,#N/A,#N/A,#N/A
+4,9/20/1929,bloomingdale,bloomingdale,"Bloomingdale, Parke County, Indiana",39.83,-87.25,196,9,20,1929,3/31/1929,USC00123513,0,194,89,141.5
+5,9/20/1929,bloomingdale,bloomingdale,"Bloomingdale, Parke County, Indiana",39.83,-87.25,196,9,20,1929,3/31/1929,USC00121882,0,222,78,150
+6,9/20/1929,bloomingdale,bloomingdale,"Bloomingdale, Parke County, Indiana",39.83,-87.25,196,9,20,1929,3/31/1929,USC00116610,0,167,78,122.5
+7,9/20/1929,bloomingdale,bloomingdale,"Bloomingdale, Parke County, Indiana",39.83,-87.25,196,9,20,1929,3/31/1929,USC00112140,0,183,100,141.5
+8,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00129690,0,189,39,114
+9,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00121734,0,#N/A,#N/A,#N/A
+10,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00123418,0,178,11,94.5
+11,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00127482,0,183,33,108
+12,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00127028,0,183,22,102.5
+13,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00120076,0,189,22,105.5
+14,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00124176,0,183,28,105.5
+15,5/17/1932,warsaw,warsaw,"Warsaw, Kosciusko County, Indiana",41.24,-85.85,251,5,17,1932,11/30/1931,USC00129138,13,189,28,108.5
+16,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00126580,33,133,56,94.5
+17,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00129605,15,#N/A,#N/A,#N/A
+18,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00120784,0,144,78,111
+19,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00126705,46,117,61,89
+20,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00122605,20,167,72,119.5
+21,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00128036,18,128,61,94.5
+22,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00123960,109,128,61,94.5
+23,4/17/1933,bedford,bedford2,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,4,17,1933,10/31/1932,USC00127755,221,100,61,80.5
+24,4/27/1935,southport,southport1,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00127999,30,239,139,189
+25,4/27/1935,southport,southport1,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00123527,43,267,133,200
+26,4/27/1935,southport,southport1,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00127999,30,239,139,189
+27,4/27/1935,southport,southport1,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00123527,43,267,133,200
+28,4/27/1935,southport,southport2,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00127999,30,239,139,189
+29,4/27/1935,southport,southport2,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00123527,43,267,133,200
+30,4/27/1935,southport,southport2,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00127999,30,239,139,189
+31,4/27/1935,southport,southport2,"Southport, Marion County, Indiana",39.66,-86.12,228,4,27,1935,10/31/1934,USC00123527,43,267,133,200
+32,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00124176,0,233,78,155.5
+33,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00129138,0,233,67,150
+34,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00121734,0,#N/A,#N/A,#N/A
+35,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00120831,0,250,83,166.5
+36,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00125337,0,211,72,141.5
+37,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00123024,0,228,100,164
+38,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00123022,0,#N/A,#N/A,#N/A
+39,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00129690,0,244,78,161
+40,5/8/1937,huntington,huntington1," Huntington, Huntington County, Indiana",40.88,-85.5,228,5,8,1937,11/30/1936,USC00122096,0,#N/A,#N/A,#N/A
+41,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00122733,0,#N/A,#N/A,#N/A
+42,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00126151,0,#N/A,#N/A,#N/A
+43,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00121998,0,#N/A,#N/A,#N/A
+44,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00120852,0,#N/A,#N/A,#N/A
+45,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00126001,0,289,117,203
+46,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00124407,0,294,111,202.5
+47,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00126179,0,300,133,216.5
+48,4/12/1941,evansville,evansville,"Evansville, Vanderburgh County, Indiana",37.98,-87.55,118,4,12,1941,10/31/1940,USC00127125,0,300,128,214
+49,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00123022,135,#N/A,#N/A,#N/A
+50,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USW00014827,135,239,106,172.5
+51,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00125815,23,#N/A,#N/A,#N/A
+52,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00121734,203,267,156,211.5
+53,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00122096,86,#N/A,#N/A,#N/A
+54,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00124176,216,250,100,175
+55,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00120076,79,239,144,191.5
+56,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00120831,81,244,144,194
+57,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00129271,130,244,172,208
+58,5/3/1942,allencounty,allencounty,"Allen County, Indiana",41.09,-85.14,277,5,3,1942,11/30/1941,USC00336465,51,278,144,211
+59,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00124176,10,144,-39,52.5
+60,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USW00014827,5,139,-28,55.5
+61,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00129138,0,150,-11,69.5
+62,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00121734,0,161,-6,77.5
+63,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00120831,5,183,17,100
+64,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00125337,0,150,-11,69.5
+65,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00123022,5,#N/A,#N/A,#N/A
+66,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00129690,13,150,-17,66.5
+67,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00122096,0,#N/A,#N/A,#N/A
+68,4/28/1946,huntington,huntington2,"Huntington, Huntington County, Indiana",40.88,-85.5,228,4,28,1946,10/31/1945,USC00126864,0,#N/A,#N/A,#N/A
+69,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00120545,0,228,72,150
+70,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00120550,0,#N/A,#N/A,#N/A
+71,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00126580,15,228,78,153
+72,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00129605,0,#N/A,#N/A,#N/A
+73,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00121869,0,294,194,244
+74,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00120784,18,289,100,194.5
+75,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00129381,10,289,67,178
+76,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00126705,5,294,67,180.5
+77,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00126710,0,#N/A,#N/A,#N/A
+78,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00122605,3,300,89,194.5
+79,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00128036,5,294,72,183
+80,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00126131,10,#N/A,#N/A,#N/A
+81,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00127755,43,222,144,183
+82,5/4/1951,bedford,bedford1,"Bedford, Lawrence County, Indiana",38.87,-86.51,209,5,4,1951,11/30/1950,USC00126056,10,#N/A,#N/A,#N/A
+83,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00120784,0,239,106,172.5
+84,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00120786,86,#N/A,#N/A,#N/A
+85,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00128290,117,222,106,164
+86,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00125407,173,189,94,141.5
+87,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00126056,0,#N/A,#N/A,#N/A
+88,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00126580,10,244,117,180.5
+89,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00120545,10,244,117,180.5
+90,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00121402,203,#N/A,#N/A,#N/A
+91,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00120550,130,#N/A,#N/A,#N/A
+92,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00122605,91,233,111,172
+93,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00122645,28,#N/A,#N/A,#N/A
+94,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00121869,25,239,111,175
+95,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00129605,191,#N/A,#N/A,#N/A
+96,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00126131,20,#N/A,#N/A,#N/A
+97,4/23/1961,bloomington,bloomington,"Bloomington, Monroe County, Indiana",39.17,-86.54,235,4,23,1961,10/31/1960,USC00120877,0,#N/A,#N/A,#N/A
+98,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00120676,0,100,39,69.5
+99,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00120824,51,189,39,114
+100,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USW00014827,0,111,28,69.5
+101,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00338609,0,156,44,100
+102,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00123027,3,#N/A,#N/A,#N/A
+103,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00336465,41,167,17,92
+104,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00331390,13,150,56,103
+105,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00333421,64,#N/A,#N/A,#N/A
+106,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00127069,0,#N/A,#N/A,#N/A
+107,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00124176,5,128,28,78
+108,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00127747,10,150,56,103
+109,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00122096,23,#N/A,#N/A,#N/A
+110,5/1/1966,decatur,decatur1,"Decatur, Adams County, Indiana",40.83,-84.93,244,5,1,1966,11/30/1965,USC00125815,43,#N/A,#N/A,#N/A
+111,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USC00124176,0,328,222,275
+112,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USW00014827,0,328,233,280.5
+113,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USC00129138,0,289,78,183.5
+114,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USC00121739,0,311,161,236
+115,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USC00120829,0,300,217,258.5
+116,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USC00125337,0,322,189,255.5
+117,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USC00123027,0,#N/A,#N/A,#N/A
+118,6/26/1969,huntington,huntington3,"Huntington, Huntington County, Indiana",40.88,-85.5,228,6,26,1969,12/31/1968,USC00122096,0,#N/A,#N/A,#N/A
+119,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00127370,0,261,144,202.5
+120,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00338990,18,#N/A,#N/A,#N/A
+121,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00332485,15,217,128,172.5
+122,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00121229,94,217,133,175
+123,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00125050,56,256,150,203
+124,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00121777,107,217,133,175
+125,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00333375,15,206,139,172.5
+126,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00129678,0,#N/A,#N/A,#N/A
+127,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00126164,66,211,139,175
+128,4/20/1973,richmond,richmond,"Richmond, Wayne County, Indiana",39.83,-84.89,299,4,20,1973,10/31/1972,USC00121030,61,233,133,183
+129,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00128528,0,183,-11,86
+130,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00116558,0,189,6,97.5
+131,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00114317,0,#N/A,#N/A,#N/A
+132,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00122549,0,111,17,64
+133,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00129112,117,94,17,55.5
+134,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00122605,0,156,-11,72.5
+135,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00114957,170,#N/A,#N/A,#N/A
+136,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00115380,0,178,6,92
+137,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00128723,0,144,6,75
+138,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00129253,0,189,22,105.5
+139,4/17/1974,sulivan,sulivan,"Sullivan, Sullivan County, Indiana",39.05,-87.42,161,4,17,1974,10/31/1973,USC00120877,0,#N/A,#N/A,#N/A
+140,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00127646,0,306,189,247.5
+141,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00124642,0,#N/A,#N/A,#N/A
+142,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00123547,8,289,233,261
+143,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00127999,0,306,189,247.5
+144,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00126164,0,306,194,250
+145,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00123527,0,306,183,244.5
+146,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00121229,0,300,167,233.5
+147,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00121030,0,311,172,241.5
+148,5/11/1979,rushville,rushville,"Rushville, Rush County, Indiana ",39.61,-85.45,292,5,11,1979,11/30/1978,USC00125050,0,#N/A,#N/A,#N/A
+149,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00127522,0,72,6,39
+150,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00123513,198,139,17,78
+151,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00128723,168,217,17,117
+152,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00116610,0,67,6,36.5
+153,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00121882,122,144,33,88.5
+154,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00121843,56,#N/A,6,#N/A
+155,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00120877,203,#N/A,#N/A,#N/A
+156,10/25/1980,rockville,rockville,"Rockville, Parke County, Indiana",39.76,-87.23,217,10,25,1980,4/30/1980,USC00112145,76,#N/A,#N/A,#N/A
+157,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,USC00126001,18,200,83,141.5
+158,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,USC00128967,3,222,128,175
+159,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INPS0006,33,#N/A,#N/A,#N/A
+160,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INPS0007,46,#N/A,#N/A,#N/A
+161,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0037,18,#N/A,#N/A,#N/A
+162,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INPS0005,74,#N/A,#N/A,#N/A
+163,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0009,51,#N/A,#N/A,#N/A
+164,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0031,30,#N/A,#N/A,#N/A
+165,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INPS0004,81,#N/A,#N/A,#N/A
+166,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1ILWH0004,89,#N/A,#N/A,#N/A
+167,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0040,56,#N/A,#N/A,#N/A
+168,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,USC00122731,13,200,100,150
+169,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,USC00111302,48,194,78,136
+170,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INPS0001,109,#N/A,#N/A,#N/A
+171,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0042,#N/A,#N/A,#N/A,#N/A
+172,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0038,23,#N/A,#N/A,#N/A
+173,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0034,38,#N/A,#N/A,#N/A
+174,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,USW00093817,18,211,83,147
+175,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0030,48,#N/A,#N/A,#N/A
+176,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0041,36,#N/A,#N/A,#N/A
+177,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INVN0036,0,#N/A,#N/A,#N/A
+178,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1ILGL0004,0,#N/A,#N/A,#N/A
+179,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INWK0026,41,#N/A,#N/A,#N/A
+180,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INWK0025,25,#N/A,#N/A,#N/A
+181,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INWK0019,38,#N/A,#N/A,#N/A
+182,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,USC00126151,8,189,94,141.5
+183,4/11/2021,mountvernon,mountvernon,"Mount Vernon, Posey County, Indiana",37.93,-87.9,121,4,11,2021,10/31/2020,US1INWK0022,43,#N/A,#N/A,#N/A

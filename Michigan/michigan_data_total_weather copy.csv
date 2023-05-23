@@ -1,0 +1,222 @@
+﻿,date,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,prcp,tmax,tmin,tavg
+1,5/17/1916,Ypsilanti,"Ypsilanti, Washtenaw County, Michigan",42.24115,-83.612994,3530,5,17,1916,11/30/1915,USC00203796,0,#N/A,#N/A,#N/A
+2,5/17/1916,Ypsilanti,"Ypsilanti, Washtenaw County, Michigan",42.24115,-83.612994,3530,5,17,1916,11/30/1915,USC00208725,0,117,#N/A,#N/A
+3,5/17/1916,Ypsilanti,"Ypsilanti, Washtenaw County, Michigan",42.24115,-83.612994,3530,5,17,1916,11/30/1915,USC00200230,5,94,44,69
+4,5/17/1916,Ypsilanti,"Ypsilanti, Washtenaw County, Michigan",42.24115,-83.612994,3530,5,17,1916,11/30/1915,USC00203362,0,128,56,92
+5,5/17/1916,Ypsilanti,"Ypsilanti, Washtenaw County, Michigan",42.24115,-83.612994,3530,5,17,1916,11/30/1915,USC00203947,0,89,50,69.5
+6,5/17/1916,Ypsilanti,"Ypsilanti, Washtenaw County, Michigan",42.24115,-83.612994,3530,5,17,1916,11/30/1915,USC00200032,0,106,44,75
+7,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00202140,0,#N/A,#N/A,#N/A
+8,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00209006,0,#N/A,#N/A,#N/A
+9,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00202393,0,167,6,86.5
+10,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00206690,0,#N/A,#N/A,#N/A
+11,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00201476,0,189,-11,89
+12,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00208746,0,178,0,89
+13,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00202437,0,#N/A,#N/A,#N/A
+14,5/13/1938,EastLansing,"East Lansing, Ingham County, Michigan",42.736979,-84.483865,6906,5,13,1938,11/30/1937,USC00206300,0,183,-22,80.5
+15,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USC00203858,0,111,28,69.5
+16,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USC00200128,0,133,28,80.5
+17,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USC00204939,0,#N/A,#N/A,#N/A
+18,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USC00204944,0,#N/A,#N/A,#N/A
+19,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USW00014840,0,78,11,44.5
+20,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USC00203337,0,83,33,58
+21,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USW00014830,0,83,11,47
+22,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USC00204320,0,#N/A,#N/A,#N/A
+23,5/7/1954,Hudsonville1,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,#N/A,5,7,1954,11/30/1953,USC00203290,8,111,22,66.5
+24,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USC00207097,0,#N/A,#N/A,#N/A
+25,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USC00206658,0,228,111,169.5
+26,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USW00014804,13,206,117,161.5
+27,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USC00206680,0,211,106,158.5
+28,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USC00209188,0,#N/A,#N/A,#N/A
+29,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USW00014822,152,217,139,178
+30,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USC00204655,0,211,78,144.5
+31,6/18/1958,Richmond,"Richmond, Macomb County, Michigan",42.844196,-82.884372,1134,6,18,1958,12/31/1957,USC00203477,30,228,133,180.5
+32,6/26/1958,BeaverIsland,"Beaver Island, Charlevoix County, Michigan",45.613809,-85.593344,5421,6,26,1958,12/31/1957,USC00201896,13,#N/A,#N/A,#N/A
+33,6/26/1958,BeaverIsland,"Beaver Island, Charlevoix County, Michigan",45.613809,-85.593344,5421,6,26,1958,12/31/1957,USC00201468,0,#N/A,#N/A,#N/A
+34,6/26/1958,BeaverIsland,"Beaver Island, Charlevoix County, Michigan",45.613809,-85.593344,5421,6,26,1958,12/31/1957,USC00206686,51,#N/A,#N/A,#N/A
+35,6/26/1958,BeaverIsland,"Beaver Island, Charlevoix County, Michigan",45.613809,-85.593344,5421,6,26,1958,12/31/1957,USC00207277,41,156,106,131
+36,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USW00094860,0,156,67,111.5
+37,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USC00204320,0,#N/A,#N/A,#N/A
+38,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USC00204078,3,150,67,108.5
+39,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USC00203429,0,167,67,117
+40,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USC00203661,0,150,89,119.5
+41,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USC00204075,10,250,83,166.5
+42,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USC00204939,3,#N/A,#N/A,#N/A
+43,5/17/1965,GrandRapids2,"Grand Rapids, Kent County, Michigan",42.930028,-85.587526,84,5,17,1965,11/30/1964,USC00204944,0,#N/A,#N/A,#N/A
+44,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USC00204320,0,#N/A,#N/A,#N/A
+45,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USW00094860,0,256,72,164
+46,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USC00203661,0,256,44,150
+47,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USC00203290,0,233,72,152.5
+48,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USC00200128,0,228,61,144.5
+49,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USC00203858,0,256,44,150
+50,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USC00204939,#N/A,#N/A,#N/A,#N/A
+51,5/22/1966,Wyoming,"Wyoming, Kent County, Michigan",42.877255,-85.713922,969,5,22,1966,11/30/1965,USC00204944,0,#N/A,#N/A,#N/A
+52,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00204075,8,183,78,130.5
+53,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00204320,0,#N/A,#N/A,#N/A
+54,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00204939,#N/A,#N/A,#N/A,#N/A
+55,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00200128,0,189,83,136
+56,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00204944,5,#N/A,#N/A,#N/A
+57,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00203661,10,128,72,100
+58,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00204078,0,144,72,108
+59,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USC00203429,0,156,56,106
+60,5/15/1967,GrandRapids4,"Grand Rapids, Kent County, Michigan",42.906695,-85.635583,813,5,15,1967,11/30/1966,USW00094860,0,133,22,77.5
+61,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USC00204320,0,#N/A,#N/A,#N/A
+62,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USC00204939,#N/A,#N/A,#N/A,#N/A
+63,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USC00204944,0,#N/A,#N/A,#N/A
+64,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USC00203858,0,194,67,130.5
+65,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USW00014840,0,189,67,128
+66,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USC00203290,0,156,78,117
+67,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USW00094860,0,206,61,133.5
+68,5/17/1967,Hudsonville2,"Hudsonville, Ottowa County, Michigan",42.979592,-85.894584,969,5,17,1967,11/30/1966,USC00200128,0,172,56,114
+69,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USC00204939,56,#N/A,#N/A,#N/A
+70,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USW00094860,0,222,100,161
+71,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USC00203429,3,222,117,169.5
+72,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USC00204944,0,#N/A,#N/A,#N/A
+73,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USC00204078,61,211,122,166.5
+74,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USC00204320,0,#N/A,#N/A,#N/A
+75,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USC00200128,53,183,78,130.5
+76,5/16/1972,GrandRapids3,"Grand Rapids, Kent County, Michigan",42.96333,-85.66806,10661,5,16,1972,11/30/1971,USC00203661,0,206,100,153
+77,4/8/1973,Kalamazoo,"Kalamazoo, Kalamazoo County, Michigan",42.307596,-85.536451,8586,4,8,1973,10/31/1972,USC00200864,0,172,17,94.5
+78,4/8/1973,Kalamazoo,"Kalamazoo, Kalamazoo County, Michigan",42.307596,-85.536451,8586,4,8,1973,10/31/1972,USC00203504,0,150,6,78
+79,4/8/1973,Kalamazoo,"Kalamazoo, Kalamazoo County, Michigan",42.307596,-85.536451,8586,4,8,1973,10/31/1972,USC00200552,0,83,6,44.5
+80,4/8/1973,Kalamazoo,"Kalamazoo, Kalamazoo County, Michigan",42.307596,-85.536451,8586,4,8,1973,10/31/1972,USC00208184,0,144,22,83
+81,4/8/1973,Kalamazoo,"Kalamazoo, Kalamazoo County, Michigan",42.307596,-85.536451,8586,4,8,1973,10/31/1972,USC00204244,0,144,17,80.5
+82,4/8/1973,Kalamazoo,"Kalamazoo, Kalamazoo County, Michigan",42.307596,-85.536451,8586,4,8,1973,10/31/1972,USC00203661,0,100,6,53
+83,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USC00203429,0,228,61,144.5
+84,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USC00204320,0,#N/A,#N/A,#N/A
+85,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USC00204078,0,250,39,144.5
+86,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USC00204939,#N/A,#N/A,#N/A,#N/A
+87,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USC00200128,0,211,94,152.5
+88,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USC00203661,0,206,72,139
+89,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USC00204944,0,#N/A,#N/A,#N/A
+90,5/9/1975,GrandRapids1,"Grand Rapids, Kent County, Michigan",42.981139,-85.59225,84,5,9,1975,11/30/1974,USW00094860,0,233,61,147
+91,5/8/1976,Muskegon,"Muskegon, Muskegon County, Michigan",43.246402,-86.328117,647,5,8,1976,11/30/1975,USC00203632,0,172,-28,72
+92,5/8/1976,Muskegon,"Muskegon, Muskegon County, Michigan",43.246402,-86.328117,647,5,8,1976,11/30/1975,USC00203290,0,128,22,75
+93,5/8/1976,Muskegon,"Muskegon, Muskegon County, Michigan",43.246402,-86.328117,647,5,8,1976,11/30/1975,USC00204320,0,#N/A,#N/A,#N/A
+94,5/8/1976,Muskegon,"Muskegon, Muskegon County, Michigan",43.246402,-86.328117,647,5,8,1976,11/30/1975,USW00014840,0,128,-28,50
+95,5/8/1976,Muskegon,"Muskegon, Muskegon County, Michigan",43.246402,-86.328117,647,5,8,1976,11/30/1975,USC00203769,3,94,-56,19
+96,5/8/1976,Muskegon,"Muskegon, Muskegon County, Michigan",43.246402,-86.328117,647,5,8,1976,11/30/1975,USC00205567,0,128,-39,44.5
+97,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00208417,13,111,6,58.5
+98,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00203096,30,94,50,72
+99,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00202381,76,122,22,72
+100,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00206507,25,111,50,80.5
+101,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00201468,132,#N/A,#N/A,#N/A
+102,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USW00014841,33,83,6,44.5
+103,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00200343,30,117,28,72.5
+104,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00206184,0,122,44,83
+105,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00200925,36,117,17,67
+106,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00201492,5,89,11,50
+107,10/5/1985,CharlevoixCounty," Charlevoix County, Michigan",45.282128,-84.742863,969,10,5,1985,4/30/1985,USC00201896,76,117,61,89
+108,5/12/1992,TawasCity,"Tawas City, Iosco County, Michigan",44.420293,-83.330801,2358,5,12,1992,11/30/1991,USC00202423,0,239,139,189
+109,5/12/1992,TawasCity,"Tawas City, Iosco County, Michigan",44.420293,-83.330801,2358,5,12,1992,11/30/1991,USC00203529,0,283,122,202.5
+110,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00200552,137,272,100,186
+111,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00203504,142,294,128,211
+112,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00203661,48,300,150,225
+113,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00200094,140,#N/A,#N/A,#N/A
+114,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00201476,127,289,156,222.5
+115,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00201675,109,239,94,166.5
+116,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00204244,122,144,111,127.5
+117,4/27/1994,Springfield,"Springfield, Kalamazoo County, Michigan",42.340113,-85.30764,969,4,27,1994,10/31/1993,USC00200128,124,289,144,216.5
+118,9/18/1997,Mt.Pleasant,"Mt. Pleasant, Isabella County, Michigan",43.604809,-84.897843,969,9,18,1997,3/31/1997,USC00200632,33,#N/A,#N/A,#N/A
+119,9/18/1997,Mt.Pleasant,"Mt. Pleasant, Isabella County, Michigan",43.604809,-84.897843,969,9,18,1997,3/31/1997,USC00208468,5,#N/A,#N/A,#N/A
+120,9/18/1997,Mt.Pleasant,"Mt. Pleasant, Isabella County, Michigan",43.604809,-84.897843,969,9,18,1997,3/31/1997,USC00200146,74,250,94,172
+121,9/18/1997,Mt.Pleasant,"Mt. Pleasant, Isabella County, Michigan",43.604809,-84.897843,969,9,18,1997,3/31/1997,USC00208869,30,#N/A,#N/A,#N/A
+122,9/18/1997,Mt.Pleasant,"Mt. Pleasant, Isabella County, Michigan",43.604809,-84.897843,969,9,18,1997,3/31/1997,USC00200779,3,272,89,180.5
+123,5/4/1998,BigRapids1,"Big Rapids, Mecosta County, Michigan",43.706456,-85.355542,969,5,4,1998,11/30/1997,USC00203429,0,239,67,153
+124,5/4/1998,BigRapids1,"Big Rapids, Mecosta County, Michigan",43.706456,-85.355542,969,5,4,1998,11/30/1997,USC00208890,0,#N/A,#N/A,#N/A
+125,5/4/1998,BigRapids1,"Big Rapids, Mecosta County, Michigan",43.706456,-85.355542,969,5,4,1998,11/30/1997,USC00200779,0,250,61,155.5
+126,5/4/1998,BigRapids1,"Big Rapids, Mecosta County, Michigan",43.706456,-85.355542,969,5,4,1998,11/30/1997,USC00200446,0,211,106,158.5
+127,5/11/2002,BigRapids2,"Big Rapids, Mecosta County, Michigan",43.519496,-85.333183,969,5,11,2002,11/30/2001,USC00200446,#N/A,#N/A,#N/A,#N/A
+128,5/11/2002,BigRapids2,"Big Rapids, Mecosta County, Michigan",43.519496,-85.333183,969,5,11,2002,11/30/2001,USC00205662,0,#N/A,#N/A,#N/A
+129,5/11/2002,BigRapids2,"Big Rapids, Mecosta County, Michigan",43.519496,-85.333183,969,5,11,2002,11/30/2001,USC00203429,56,139,11,75
+130,5/11/2002,BigRapids2,"Big Rapids, Mecosta County, Michigan",43.519496,-85.333183,969,5,11,2002,11/30/2001,USC00200779,41,122,-44,39
+131,5/26/2003,Hart,"Hart, Oceana County, Michigan",43.566299,-86.447777,969,5,26,2003,11/30/2002,USC00204954,0,233,72,152.5
+132,5/26/2003,Hart,"Hart, Oceana County, Michigan",43.566299,-86.447777,969,5,26,2003,11/30/2002,USC00205567,0,217,67,142
+133,5/26/2003,Hart,"Hart, Oceana County, Michigan",43.566299,-86.447777,969,5,26,2003,11/30/2002,USC00203632,0,206,83,144.5
+134,5/26/2003,Hart,"Hart, Oceana County, Michigan",43.566299,-86.447777,969,5,26,2003,11/30/2002,USC00203769,0,183,67,125
+135,5/26/2003,Hart,"Hart, Oceana County, Michigan",43.566299,-86.447777,969,5,26,2003,11/30/2002,USW00014840,0,211,67,139
+136,5/1/2006,Fremont,"Fremont, Oceana County, Michigan",43.474954,-86.069349,969,5,1,2006,11/30/2005,USR0000MBAL,#N/A,189,111,150
+137,5/1/2006,Fremont,"Fremont, Oceana County, Michigan",43.474954,-86.069349,969,5,1,2006,11/30/2005,USC00205567,64,189,122,155.5
+138,5/1/2006,Fremont,"Fremont, Oceana County, Michigan",43.474954,-86.069349,969,5,1,2006,11/30/2005,USC00203632,#N/A,161,117,139
+139,5/1/2006,Fremont,"Fremont, Oceana County, Michigan",43.474954,-86.069349,969,5,1,2006,11/30/2005,USW00014840,58,194,117,155.5
+140,5/1/2006,Fremont,"Fremont, Oceana County, Michigan",43.474954,-86.069349,969,5,1,2006,11/30/2005,USC00208890,38,#N/A,#N/A,#N/A
+141,5/1/2006,Fremont,"Fremont, Oceana County, Michigan",43.474954,-86.069349,969,5,1,2006,11/30/2005,USC00203769,71,167,111,139
+142,5/1/2006,Fremont,"Fremont, Oceana County, Michigan",43.474954,-86.069349,969,5,1,2006,11/30/2005,USC00204320,66,#N/A,#N/A,#N/A
+143,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIVB0008,0,#N/A,#N/A,#N/A
+144,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0093,#N/A,#N/A,#N/A,#N/A
+145,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIOW0002,0,#N/A,#N/A,#N/A
+146,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0068,0,#N/A,#N/A,#N/A
+147,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0016,0,#N/A,#N/A,#N/A
+148,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0086,0,#N/A,#N/A,#N/A
+149,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIOW0044,0,#N/A,#N/A,#N/A
+150,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0014,0,#N/A,#N/A,#N/A
+151,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0025,0,#N/A,#N/A,#N/A
+152,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIBR0009,#N/A,#N/A,#N/A,#N/A
+153,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0018,0,#N/A,#N/A,#N/A
+154,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USC00203925,#N/A,311,133,222
+155,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USC00200864,0,317,172,244.5
+156,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0014,0,#N/A,#N/A,#N/A
+157,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKZ0011,#N/A,#N/A,#N/A,#N/A
+158,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIVB0004,0,#N/A,#N/A,#N/A
+159,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0001,0,#N/A,#N/A,#N/A
+160,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKZ0018,#N/A,#N/A,#N/A,#N/A
+161,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIVB0002,0,#N/A,#N/A,#N/A
+162,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKZ0001,#N/A,#N/A,#N/A,#N/A
+163,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USC00203504,0,317,206,261.5
+164,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USW00094815,0,322,200,261
+165,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0015,#N/A,#N/A,#N/A,#N/A
+166,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0008,#N/A,#N/A,#N/A,#N/A
+167,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIAN0004,0,#N/A,#N/A,#N/A
+168,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIVB0007,0,#N/A,#N/A,#N/A
+169,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIBR0013,#N/A,#N/A,#N/A,#N/A
+170,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USC00200552,0,322,172,247
+171,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USC00203661,0,306,144,225
+172,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0043,0,#N/A,#N/A,#N/A
+173,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USW00014815,0,328,200,264
+174,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USW00004839,0,317,233,275
+175,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0094,#N/A,#N/A,#N/A,#N/A
+176,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0089,0,#N/A,#N/A,#N/A
+177,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MICN0013,0,#N/A,#N/A,#N/A
+178,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIVB0010,#N/A,#N/A,#N/A,#N/A
+179,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,USC00207690,#N/A,#N/A,#N/A,#N/A
+180,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0017,#N/A,#N/A,#N/A,#N/A
+181,6/11/2017,Otsego,"Otsego, Allegan County, Michigan",42.45689,-85.73323,969,6,11,2017,12/31/2016,US1MIKN0092,0,#N/A,#N/A,#N/A
+182,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00202328,20,178,89,133.5
+183,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00206300,20,183,78,130.5
+184,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00202437,0,178,72,125
+185,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MISW0005,8,#N/A,#N/A,#N/A
+186,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MICT0008,0,#N/A,#N/A,#N/A
+187,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MILV0030,0,#N/A,#N/A,#N/A
+188,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00201476,0,#N/A,#N/A,#N/A
+189,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIGN0033,71,#N/A,#N/A,#N/A
+190,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USW00014833,0,244,78,161
+191,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIOK0063,33,#N/A,#N/A,#N/A
+192,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIJC0007,#N/A,#N/A,#N/A,#N/A
+193,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00208972,8,183,72,127.5
+194,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MICT0002,8,#N/A,#N/A,#N/A
+195,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0050,10,#N/A,#N/A,#N/A
+196,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIET0015,#N/A,#N/A,#N/A,#N/A
+197,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0006,#N/A,#N/A,#N/A,#N/A
+198,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MICT0001,0,#N/A,#N/A,#N/A
+199,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0045,10,#N/A,#N/A,#N/A
+200,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0046,#N/A,#N/A,#N/A,#N/A
+201,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0047,3,#N/A,#N/A,#N/A
+202,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MICT0018,0,#N/A,#N/A,#N/A
+203,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIWS0049,0,#N/A,#N/A,#N/A
+204,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0032,0,#N/A,#N/A,#N/A
+205,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0052,46,#N/A,#N/A,#N/A
+206,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0034,#N/A,#N/A,#N/A,#N/A
+207,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MICT0011,0,#N/A,#N/A,#N/A
+208,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIWS0053,33,#N/A,#N/A,#N/A
+209,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MILV0020,#N/A,#N/A,#N/A,#N/A
+210,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00201502,5,183,61,122
+211,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MILV0024,46,#N/A,#N/A,#N/A
+212,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MILV0026,25,#N/A,#N/A,#N/A
+213,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MILV0008,48,#N/A,#N/A,#N/A
+214,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00203306,0,#N/A,#N/A,#N/A
+215,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00204793,48,167,83,125
+216,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USC00207280,0,#N/A,#N/A,#N/A
+217,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MICT0003,#N/A,#N/A,#N/A,#N/A
+218,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,USW00014836,0,244,100,172
+219,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIIH0027,#N/A,#N/A,#N/A,#N/A
+220,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIET0018,#N/A,#N/A,#N/A,#N/A
+221,9/26/2021,Williamston,"Williamston, Ingham County, Michigan",42.688924,-84.283024,2591,9,26,2021,3/31/2021,US1MIET0001,#N/A,#N/A,#N/A,#N/A

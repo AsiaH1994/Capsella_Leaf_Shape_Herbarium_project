@@ -1,0 +1,16 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+fairbury,fairbury,"Fairbury, Livingston County, Illinois",40.75,-88.51,208,May,2,1999
+parkridge,parkridge,"Park Ridge , Cook County, Illinois",42.02,-87.86,192,May,15,1907
+momence,momence,"Momence, Kankakee County, Illinois",41.16,-87.60,189,September,15,1975
+starkcounty,starkcounty,"Stark County, Illinois",41.09,-89.80,267,May,26,1907
+lacon,lacon,"Lacon, Marshall County, Illinois",41.02,-89.41,148,April,27,1981
+joilet,joilet,"Joliet, Will County, Illinois",41.52,-88.15,187,May,10,1975
+champaign,champaign,"Champaign, Champaign County, Illinois",40.12,-88.24,233,May,15,1966
+naperville,naperville1,"Naperville, Will County, Illinois",41.75,-88.19,215,May,2,1998
+naperville,naperville2,"Naperville, Du Page County, Illinois",41.75,-88.19,215,April,24,1970
+charleston,charleston1,"Charleston, Coles County, Illinois",39.49,-88.19,212,May,10,1965
+chicago,chicago1,"Chicago, Cook County, Illinois",41.74,-87.55,182,June,2,1967
+charleston,charleston2,"Charleston, Coles County, Illinois",39.49,-88.19,212,April,7,1946
+chicago,chicago2,"Chicago, Cook County, Illinois",41.74,-87.55,182,June,22,1960
+dekalb,dekalb,"DeKalb, DeKalb County, Illinois",41.93,-88.76,268,May,10,1895
+chicago,chicago3,"Chicago, Cook County, Illinois",41.74,-87.55,182,May,12,1898
