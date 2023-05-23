@@ -1,0 +1,189 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,prcp,tmax,tmin,tavg
+1,5/10/1927,browkenbow,browkenbow,Custer County_Nebraska_Broken Bow,41.405562,-99.644835,755,5,10,1927,11/30/1926,USC00251200,0,222,11,116.5
+2,5/10/1927,browkenbow,browkenbow,Custer County_Nebraska_Broken Bow,41.405562,-99.644835,755,5,10,1927,11/30/1926,USC00255250,0,#N/A,#N/A,#N/A
+3,5/10/1927,browkenbow,browkenbow,Custer County_Nebraska_Broken Bow,41.405562,-99.644835,755,5,10,1927,11/30/1926,USC00250320,0,#N/A,#N/A,#N/A
+4,5/10/1927,browkenbow,browkenbow,Custer County_Nebraska_Broken Bow,41.405562,-99.644835,755,5,10,1927,11/30/1926,USC00258455,0,#N/A,#N/A,#N/A
+5,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00351857,0,#N/A,#N/A,#N/A
+6,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00356614,0,#N/A,#N/A,#N/A
+7,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00351862,0,128,17,72.5
+8,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00350078,0,100,-11,44.5
+9,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00351877,0,#N/A,#N/A,#N/A
+10,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00358271,0,#N/A,#N/A,#N/A
+11,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00354238,#N/A,#N/A,#N/A,#N/A
+12,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00358182,0,#N/A,#N/A,#N/A
+13,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00359083,0,#N/A,#N/A,#N/A
+14,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00353678,0,#N/A,#N/A,#N/A
+15,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00352800,0,89,-11,39
+16,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00354603,0,122,17,69.5
+17,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00352112,3,89,-39,25
+18,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USW00024232,0,122,11,66.5
+19,3/19/1943,corvallis,corvallis,Benton County_Oregon_Corvallis,44.56472,-123.26083,71,3,19,1943,9/30/1942,USC00353971,10,#N/A,#N/A,#N/A
+20,9/25/1952,pocatello,pocatello,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,9,25,1952,3/31/1952,USW00024156,0,306,56,181
+21,9/25/1952,pocatello,pocatello,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,9,25,1952,3/31/1952,USC00103297,0,306,39,172.5
+22,9/25/1952,pocatello,pocatello,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,9,25,1952,3/31/1952,USC00108626,0,322,28,175
+23,9/25/1952,pocatello,pocatello,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,9,25,1952,3/31/1952,USC00105716,0,306,28,167
+24,9/25/1952,pocatello,pocatello,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,9,25,1952,3/31/1952,USC00100010,0,294,22,158
+25,9/25/1952,pocatello,pocatello,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,9,25,1952,3/31/1952,USC00100227,0,300,39,169.5
+26,9/25/1952,pocatello,pocatello,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,9,25,1952,3/31/1952,USC00100915,0,311,44,177.5
+27,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00101380,0,211,6,108.5
+28,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00106300,0,222,61,141.5
+29,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00102444,0,183,106,144.5
+30,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00105841,0,211,94,152.5
+31,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00106844,0,222,94,158
+32,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00102942,0,206,83,144.5
+33,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00105038,0,211,100,155.5
+34,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00350041,0,239,111,175
+35,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USW00024131,0,172,61,116.5
+36,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00355160,0,211,100,155.5
+37,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00356405,0,178,122,150
+38,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00356294,0,222,94,158
+39,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00102451,0,94,6,50
+40,4/2/1959,caldwell,caldwell,Canyon County_Idaho_Caldwell,43.683665,-116.67794,723,4,2,1959,10/31/1958,USC00106891,0,194,100,147
+41,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USW00024160,0,228,111,169.5
+42,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USW00094103,0,228,122,175
+43,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00459200,0,222,106,164
+44,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00455377,0,#N/A,#N/A,#N/A
+45,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00355593,0,222,156,189
+46,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00358985,0,167,22,94.5
+47,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00359219,0,#N/A,#N/A,#N/A
+48,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00358550,0,72,28,50
+49,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00452030,0,211,89,150
+50,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00356540,0,200,117,158.5
+51,3/21/1963,wallawalla,wallawalla,Walla Walla County_Washington_Walla Walla,46.067745,-118.288712,381,3,21,1963,9/30/1962,USC00453883,0,217,39,128
+52,3/12/1965,pullman,pullman,Whitman County_Washington_Pullman,46.740671,-117.161613,716.9,3,12,1965,9/30/1964,USC00456789,0,83,6,44.5
+53,3/12/1965,pullman,pullman,Whitman County_Washington_Pullman,46.740671,-117.161613,716.9,3,12,1965,9/30/1964,USC00106152,0,83,6,44.5
+54,3/12/1965,pullman,pullman,Whitman County_Washington_Pullman,46.740671,-117.161613,716.9,3,12,1965,9/30/1964,USC00459024,0,133,39,86
+55,3/12/1965,pullman,pullman,Whitman County_Washington_Pullman,46.740671,-117.161613,716.9,3,12,1965,9/30/1964,USC00451586,51,78,6,42
+56,3/12/1965,pullman,pullman,Whitman County_Washington_Pullman,46.740671,-117.161613,716.9,3,12,1965,9/30/1964,USC00107301,0,83,6,44.5
+57,3/12/1965,pullman,pullman,Whitman County_Washington_Pullman,46.740671,-117.161613,716.9,3,12,1965,9/30/1964,USW00024149,0,117,0,58.5
+58,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USW00024157,8,183,44,113.5
+59,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USW00024114,5,172,50,111
+60,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USC00457933,8,206,56,131
+61,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USC00457180,0,194,44,119
+62,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USC00457956,0,222,50,136
+63,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USC00452706,0,#N/A,#N/A,#N/A
+64,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USC00457267,0,211,28,119.5
+65,4/15/1965,cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,4,15,1965,10/31/1964,USC00458348,0,#N/A,#N/A,#N/A
+66,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USW00024255,61,139,100,119.5
+67,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00450176,86,200,106,153
+68,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00455676,81,233,111,172
+69,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00455678,58,144,106,125
+70,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00451783,91,139,89,114
+71,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00456096,135,150,117,133.5
+72,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00457507,18,244,61,152.5
+73,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00456678,109,178,94,136
+74,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00450564,127,194,117,155.5
+75,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USW00024217,104,161,100,130.5
+76,6/11/1965,anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,6,11,1965,12/31/1964,USC00457538,114,178,94,136
+77,6/9/1970,chadron,chadron5,Dawes County_Nebraska_Chadron,42.829419,-102.999907,1030,6,9,1970,12/31/1969,USC00251575,51,300,133,216.5
+78,6/9/1970,chadron,chadron5,Dawes County_Nebraska_Chadron,42.829419,-102.999907,1030,6,9,1970,12/31/1969,USC00253710,0,294,111,202.5
+79,6/9/1970,chadron,chadron5,Dawes County_Nebraska_Chadron,42.829419,-102.999907,1030,6,9,1970,12/31/1969,USC00253015,0,300,139,219.5
+80,6/9/1970,chadron,chadron5,Dawes County_Nebraska_Chadron,42.829419,-102.999907,1030,6,9,1970,12/31/1969,USC00257415,0,#N/A,#N/A,#N/A
+81,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USC00454835,0,150,56,103
+82,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USC00456789,5,89,-11,39
+83,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USC00451586,38,111,0,55.5
+84,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USC00106152,0,94,-11,41.5
+85,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USC00456610,0,150,6,78
+86,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USW00024149,0,139,11,75
+87,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USC00107301,0,94,-11,41.5
+88,4/20/1975,almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,4,20,1975,10/31/1974,USC00454338,0,133,-6,63.5
+89,6/6/1975,alliance,alliance,Box Butte County_Nebraska_Alliance,42.105761,-102.869407,1209,6,6,1975,12/31/1974,USC00250130,0,289,106,197.5
+90,6/6/1975,alliance,alliance,Box Butte County_Nebraska_Alliance,42.105761,-102.869407,1209,6,6,1975,12/31/1974,USC00251045,0,267,89,178
+91,6/6/1975,alliance,alliance,Box Butte County_Nebraska_Alliance,42.105761,-102.869407,1209,6,6,1975,12/31/1974,USC00253755,0,267,106,186.5
+92,6/6/1975,alliance,alliance,Box Butte County_Nebraska_Alliance,42.105761,-102.869407,1209,6,6,1975,12/31/1974,USC00252645,0,#N/A,#N/A,#N/A
+93,6/6/1975,alliance,alliance,Box Butte County_Nebraska_Alliance,42.105761,-102.869407,1209,6,6,1975,12/31/1974,USC00253715,0,294,61,177.5
+94,5/17/1976,gering,gering,Scottsbluff County_Nebraska_Gering,41.820718,-103.655928,1192,5,17,1976,11/30/1975,USW00024028,0,244,22,133
+95,5/17/1976,gering,gering,Scottsbluff County_Nebraska_Gering,41.820718,-103.655928,1192,5,17,1976,11/30/1975,USC00255590,0,167,22,94.5
+96,5/17/1976,gering,gering,Scottsbluff County_Nebraska_Gering,41.820718,-103.655928,1192,5,17,1976,11/30/1975,USC00253605,0,156,-6,75
+97,5/17/1976,gering,gering,Scottsbluff County_Nebraska_Gering,41.820718,-103.655928,1192,5,17,1976,11/30/1975,USC00255020,0,#N/A,#N/A,#N/A
+98,5/17/1976,gering,gering,Scottsbluff County_Nebraska_Gering,41.820718,-103.655928,1192,5,17,1976,11/30/1975,USC00251145,0,233,-11,111
+99,6/22/1976,chadron,chadron4,Dawes County_Nebraska_Chadron,42.8167,-103,1030,6,22,1976,12/31/1975,USC00251575,61,306,117,211.5
+100,6/22/1976,chadron,chadron4,Dawes County_Nebraska_Chadron,42.8167,-103,1030,6,22,1976,12/31/1975,USC00253710,0,289,122,205.5
+101,6/22/1976,chadron,chadron4,Dawes County_Nebraska_Chadron,42.8167,-103,1030,6,22,1976,12/31/1975,USC00253015,#N/A,261,111,186
+102,6/22/1976,chadron,chadron4,Dawes County_Nebraska_Chadron,42.8167,-103,1030,6,22,1976,12/31/1975,USC00257415,513,#N/A,#N/A,#N/A
+103,4/16/1977,chadron,chadron2,Dawes County_Nebraska_Chadron,42.836815,-102.998662,1030,4,16,1977,10/31/1976,USC00251575,15,189,83,136
+104,4/16/1977,chadron,chadron2,Dawes County_Nebraska_Chadron,42.836815,-102.998662,1030,4,16,1977,10/31/1976,USC00253710,0,167,61,114
+105,4/16/1977,chadron,chadron2,Dawes County_Nebraska_Chadron,42.836815,-102.998662,1030,4,16,1977,10/31/1976,USC00253015,0,206,61,133.5
+106,4/16/1977,chadron,chadron2,Dawes County_Nebraska_Chadron,42.836815,-102.998662,1030,4,16,1977,10/31/1976,USC00257415,0,#N/A,#N/A,#N/A
+107,6/3/1977,albin,albin,Banner County_Nebraska_Albin,41.417829,-104.02116,540,6,3,1977,12/31/1976,USC00253605,0,322,128,225
+108,6/3/1977,albin,albin,Banner County_Nebraska_Albin,41.417829,-104.02116,540,6,3,1977,12/31/1976,USC00254440,0,333,122,227.5
+109,5/15/1978,crawford,crawford,Sioux County_Nebraska_Crawford,42.915424,-103.637345,1121,5,15,1978,11/30/1977,USC00253615,0,289,78,183.5
+110,5/15/1978,crawford,crawford,Sioux County_Nebraska_Crawford,42.915424,-103.637345,1121,5,15,1978,11/30/1977,USC00251575,0,328,150,239
+111,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00253660,0,228,128,178
+112,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00251684,3,200,100,150
+113,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00250961,8,#N/A,#N/A,#N/A
+114,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00252306,0,#N/A,#N/A,#N/A
+115,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00251680,0,#N/A,#N/A,#N/A
+116,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USW00014935,0,261,106,183.5
+117,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00250445,0,228,100,164
+118,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00255565,10,250,94,172
+119,6/3/1978,hastings,hastings,Adams County_Nebraska_Hastings,40.586125,-98.388393,587,6,3,1978,12/31/1977,USC00258735,10,#N/A,#N/A,#N/A
+120,3/14/1983,chadron,chadron1,Dawes County_Nebraska_Chadron,42.8167,-103,1030,3,14,1983,9/30/1982,USC00251575,0,178,-11,83.5
+121,3/14/1983,chadron,chadron1,Dawes County_Nebraska_Chadron,42.8167,-103,1030,3,14,1983,9/30/1982,USC00253710,0,167,6,86.5
+122,3/14/1983,chadron,chadron1,Dawes County_Nebraska_Chadron,42.8167,-103,1030,3,14,1983,9/30/1982,USC00253015,0,178,0,89
+123,4/10/1985,mullen,mullen1,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,4,10,1985,10/31/1984,USC00255700,0,250,17,133.5
+124,4/10/1985,mullen,mullen1,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,4,10,1985,10/31/1984,USC00255702,0,194,17,105.5
+125,4/10/1985,mullen,mullen1,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,4,10,1985,10/31/1984,USC00251213,0,172,-6,83
+126,4/28/1985,bannercounty,bannercounty,Banner County_Nebraska,41.495982,-103.561276,1628,4,28,1985,10/31/1984,USC00254440,0,189,17,103
+127,4/28/1985,bannercounty,bannercounty,Banner County_Nebraska,41.495982,-103.561276,1628,4,28,1985,10/31/1984,USC00253605,0,189,-6,91.5
+128,4/28/1985,bannercounty,bannercounty,Banner County_Nebraska,41.495982,-103.561276,1628,4,28,1985,10/31/1984,USC00256880,0,#N/A,#N/A,#N/A
+129,4/28/1985,bannercounty,bannercounty,Banner County_Nebraska,41.495982,-103.561276,1628,4,28,1985,10/31/1984,USW00024028,0,267,22,144.5
+130,4/28/1985,bannercounty,bannercounty,Banner County_Nebraska,41.495982,-103.561276,1628,4,28,1985,10/31/1984,USC00251145,0,267,17,142
+131,5/29/1986,mullen,mullen2,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,5,29,1986,11/30/1985,USC00255700,0,211,78,144.5
+132,5/29/1986,mullen,mullen2,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,5,29,1986,11/30/1985,USC00255702,89,172,56,114
+133,5/29/1986,mullen,mullen2,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,5,29,1986,11/30/1985,USC00251213,38,183,61,122
+134,5/2/1987,longpine,longpine,Banner County_Nebraska_Long Pine,41.415769,-103.532268,732,5,2,1987,11/30/1986,USC00254440,23,261,89,175
+135,5/2/1987,longpine,longpine,Banner County_Nebraska_Long Pine,41.415769,-103.532268,732,5,2,1987,11/30/1986,USC00256880,8,#N/A,#N/A,#N/A
+136,5/2/1987,longpine,longpine,Banner County_Nebraska_Long Pine,41.415769,-103.532268,732,5,2,1987,11/30/1986,USC00253605,10,267,78,172.5
+137,5/2/1987,longpine,longpine,Banner County_Nebraska_Long Pine,41.415769,-103.532268,732,5,2,1987,11/30/1986,USC00251145,13,289,117,203
+138,5/2/1987,longpine,longpine,Banner County_Nebraska_Long Pine,41.415769,-103.532268,732,5,2,1987,11/30/1986,USC00252145,0,267,117,192
+139,5/2/1987,longpine,longpine,Banner County_Nebraska_Long Pine,41.415769,-103.532268,732,5,2,1987,11/30/1986,USC00257830,0,272,78,175
+140,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00250961,86,#N/A,#N/A,#N/A
+141,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00252306,89,#N/A,#N/A,#N/A
+142,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00251684,58,122,72,97
+143,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00253660,94,111,67,89
+144,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00255840,23,#N/A,#N/A,#N/A
+145,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00251680,76,#N/A,#N/A,#N/A
+146,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00253485,53,#N/A,#N/A,#N/A
+147,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00257070,142,122,78,100
+148,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00258735,25,#N/A,#N/A,#N/A
+149,5/21/1990,littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,5,21,1990,11/30/1989,USC00258320,69,233,83,158
+150,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00104670,3,150,28,89
+151,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00109293,3,150,39,94.5
+152,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00108380,0,178,22,100
+153,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00101220,0,122,39,80.5
+154,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00109303,3,139,28,83.5
+155,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USW00024142,#N/A,189,28,108.5
+156,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00104140,5,183,39,111
+157,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00103932,38,178,28,103
+158,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00101551,8,172,28,100
+159,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00104295,#N/A,144,22,83
+160,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00107673,28,144,0,72
+161,5/8/1995,jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,5,8,1995,11/30/1994,USC00101002,0,194,33,113.5
+162,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10dawe001,0,#N/A,#N/A,#N/A
+163,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10dawe002,0,#N/A,#N/A,#N/A
+164,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,USC00251578,0,217,33,125
+165,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,USC00251575,0,178,22,100
+166,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10dawe007,#N/A,#N/A,#N/A,#N/A
+167,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10dawe003,0,#N/A,#N/A,#N/A
+168,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,USW00024017,0,222,17,119.5
+169,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10sher002,0,#N/A,#N/A,#N/A
+170,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10dawe010,0,#N/A,#N/A,#N/A
+171,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10dawe012,5,#N/A,#N/A,#N/A
+172,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,USC00253015,0,283,28,155.5
+173,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,USC00257415,0,167,39,103
+174,5/16/2007,chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,5,16,2007,11/30/2006,US10sher007,0,#N/A,#N/A,#N/A
+175,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,US1MTVL0013,386,#N/A,#N/A,#N/A
+176,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,USW00094008,231,89,44,66.5
+177,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,USC00243555,231,#N/A,#N/A,#N/A
+178,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,USC00243557,#N/A,94,72,83
+179,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,US1MTVL0007,#N/A,#N/A,#N/A,#N/A
+180,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,US1MTVL0014,279,#N/A,#N/A,#N/A
+181,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,US1MTVL0003,224,#N/A,#N/A,#N/A
+182,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,US1MTVL0005,272,#N/A,#N/A,#N/A
+183,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,USC00245983,345,100,72,86
+184,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,US1MTVL0004,335,#N/A,#N/A,#N/A
+185,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,USW00094010,229,78,56,67
+186,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,US1MTVL0008,#N/A,#N/A,#N/A,#N/A
+187,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,USC00243176,500,100,61,80.5
+188,5/10/2011,glasgow,glasgow,Valley County_Montana_Glasgow,48.1974,-106.6198,637,5,10,2011,11/30/2010,USC00244180,#N/A,156,0,78

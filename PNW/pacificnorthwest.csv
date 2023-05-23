@@ -1,0 +1,25 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,yeat
+ashford,ashford,Pierce County_Washington_Ashford,46.841638,-121.78154,537.1,September,31,1962
+pullman,pullman,Whitman County_Washington_Pullman,46.740671,-117.161613,716.9,March,12,1965
+boise,boise,Ada County_Idaho_Boise,43.6135,-116.20345,2880,May,6,1911
+anacortes,anacortes,Skagit County_Washignton_Anacortes,48.419547,-122.664339,7,June,11,1965
+pocatell,pocatell,Bannock County_Idaho_Pocatello,42.8667,-112.4333,1360,September,25,1952
+cheney,cheney,Spokane County_Washington_Cheney,47.48739,-117.575762,716,April,15,1965
+chadron,chadron1,Dawes County_Nebraska_Chadron,42.8167,-103,1030,March,14,1983
+chadron,chadron2,Dawes County_Nebraska_Chadron,42.836815,-102.998662,1030,April ,16,1977
+chadron,chadron3,Dawes County_Nebraska_Chadron,42.817778,-130.0052778,1030,May,16,2007
+mullen,mullen1,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,April ,10,1985
+mullen,mullen2,Hooker County_Nebraska_Mullen,42.037859,-101.046102,979,May,29,1986
+gering,gering,Scottsbluff County_Nebraska_Gering,41.820718,-103.655928,1192,May,17,1976
+crawford,crawford,Sioux County_Nebraska_Crawford,42.915424,-103.637345,1121,May,15,1978
+littlebluetownship,littlebluetownship,Adams County_Nebraska_Little Blue Township,40.4,-98.3333,565,May,21,1990
+brokenbow,brokenbow,Custer County_Nebraska_Broken Bow,41.405562,-99.644835,755,May,10,1927
+jerome,jerome,Jerome County_Idaho_Jerome,42.741001,-114.506036,1162,May,8,1995
+neligh,neligh,Antelope County_Nebraska_Neligh,42.128618,-98.029789,534,May,2,1896
+bannercounty,bannercounty,Banner County_Nebraska,41.495982,-103.561276,1628,April,28,1985
+almotacreek,almotacreek,Whitman County_Washington_Almota Creek,46.642916,-117.289611,197,April,20,1975
+longpine,longpine,Banner County_Nebraska_Long Pine,41.415769,-103.532268,732,May,2,1987
+albin,albin,Banner County_Nebraska_Albin,41.417829,-104.02116,540,June,3,1977
+alliance,alliance,Box Butte County_Nebraska_Alliance,42.105761,-102.869407,1209,June,6,1975
+chadron,chadron4,Dawes County_Nebraska_Chadron,42.8167,-103,1030,June,22,1976
+chadron,chadron5,Dawes County_Nebraska_Chadron,42.829419,-102.999907,1030,June,9,1970

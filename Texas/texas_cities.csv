@@ -1,0 +1,78 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+Abilene,Abilene1,"Abilene, Texas",32.45,-99.73,524,March,3,1970
+Abilene,Abilene2,"Abilene, Texas",32.45,-99.73,524,April,4,1964
+Abilene,Abilene3,"Abilene, Texas",32.45,-99.73,524,December,22,2001
+Abilene,Abilene4,"Abilene, Texas",32.45,-99.73,524,April ,5,1990
+Abilene,Abilene5,"Abilene, Texas",32.45,-99.73,524,April,8,1946
+Alpine,Alpine1,"Alpine, Texas",30.36,-103.66,1364,March,19,2015
+Alpine,Alpine2,"Alpine, Texas",30.36,-103.66,1364,February,20,1950
+Arlington,Arlington1,"Arlington, Texas",32.74,-97.11,183,March ,19,1971
+Arlington,Arlington2,"Arlington, Texas",32.74,-97.11,183,March,7,1974
+Arlington,Arlington3,"Arlington, Texas",32.74,-97.11,183,February,22,1973
+Arlington,Arlington5,"Arlington, Texas",32.74,-97.11,183,February,22,1973
+Austin,Austin1,"Austin, Texas",30.27,30.27,149,February,11,1975
+Austin,Austin2,"Austin, Texas",30.27,30.27,149,February,23,1957
+Austin,Austin3,"Austin, Texas",30.27,30.27,149,February,23,1957
+Austin,Austin5,"Austin, Texas",30.27,30.27,149,March,5,1961
+Austin,Austin6,"Austin, Texas",30.27,30.27,149,March,5,1961
+Austin,Austin7,"Austin, Texas",30.28,-97.74,149,February,23,1957
+Brady,Brady1,"Brady, Texas",31.14,-99.33,505,February,8,2016
+Brownwood,Brownwood,"Brownwood, Texas",31.71,-98.99,414,November ,14,1964
+Bryan,Bryan1,"Bryan, Texas",30.67,-96.37,113,March ,8,1977
+Bryan,Bryan3,"Bryan, Texas",30.67,-96.37,113,February,25,1977
+Burkburnett,Burkburnett,"Burkburnett, Texas",34.1,-98.57,322,March ,18,1944
+Calallen,Calallen,"Calallen, Texas",27.87,-97.62,22,February,3,1997
+Callahan,Callahan,"Callahan, Texas",32.24,-99.57,610,March,31,2019
+Coleman,Coleman1,"Coleman, Texas",31.83,-99.43,518,February,18,1994
+CollegeStation,CollegeStation1,"College Station, Texas",30.63,-96.33,102,November,18,1975
+CollegeStation,CollegeStation2,"College Station, Texas",30.63,-96.33,102,February,22,1977
+CollegeStation,CollegeStation3,"College Station, Texas",30.63,-96.33,102,February,25,2008
+CollegeStation,CollegeStation4,"College Station, Texas",30.63,-96.33,102,February,22,1977
+CollegeStation,CollegeStation5,"College Station, Texas",30.63,-96.33,102,February,25,2008
+Dallas,Dallas1,"Dallas, Texas",32.78,-96.81,128,March ,14,1973
+Dallas,Dallas3,"Dallas, Texas",32.78,-96.81,128,March ,27,1973
+Dallas,Dallas6,"Dallas, Texas",32.78,-96.81,128,April ,12,1944
+Denton,Denton,"Denton, Texas",33.21,-97.13,200,April,4,1970
+Eden,Eden,"Eden, Texas",31.21,-99.85,622,February,10,2016
+Fannin,Fannin,"Fannin, Texas",28.7,-97.24,42,April ,5,1978
+FortWorth,FortWorth1,"Fort Worth, Texas",32.73,-97.32,198,April,1,1926
+FortWorth,FortWorth12,"Fort Worth, Texas",32.73,-97.32,198,March ,11,1979
+FortWorth,FortWorth2,"Fort Worth, Texas",32.73,-97.32,198,February,25,1974
+FortWorth,FortWorth4,"Fort Worth, Texas",32.73,-97.32,198,November,20,1991
+FortWorth,FortWorth5,"Fort Worth, Texas",32.73,-97.32,198,February,25,1974
+FortWorth,FortWorth7,"Fort Worth, Texas",32.73,-97.32,198,November,20,1991
+FortWorth,FortWorth8,"Fort Worth, Texas",32.73,-97.32,198,April ,6,1999
+FortWorth,FortWorth9,"Fort Worth, Texas",32.73,-97.32,198,March,11,1993
+FortWorth,FortWorth10,"Fort Worth, Texas",32.73,-97.32,198,February,2,1985
+FortWorth,FortWorth11,"Fort Worth, Texas",32.73,-97.32,198,February,25,1974
+Franklin,Franklin1,"Franklin, Texas",31.03,-96.49,137,February,20,1982
+Franklin,Franklin2,"Franklin, Texas",31.03,-96.49,137,February,20,1982
+Fredericksburg,Fredericksburg1,"Fredericksburg, Texas",30.28,-98.87,514,Janurary,3,1993
+Fredericksburg,Fredericksburg2,"Fredericksburg, Texas",30.28,-98.87,514,Janurary,3,1993
+Ganado,Ganado,"Ganado, Texas",29.04,-96.51,19,April,11,1960
+Georgetown,Georgetown,"Georgetown, Texas",30.54,-97.83,290,March,26,2011
+Grapevine,Grapevine,"Grapevine, Texas",32.93,-97.08,194,April ,29,1947
+Gunter,Gunter1,"Gunter, Texas",33.45,-96.75,214,April ,2,1935
+Hamilton,Hamilton,"Hamilton, Texas",31.7,-98.12,355,March ,26,1948
+Hondo,Hondo1,"Hondo, Texas",29.35,-99.14,271,March ,26,1970
+Houston,Houston1,"Houston, Texas",29.76,-95.36,11,November,14,1961
+Houston,Houston2,"Houston, Texas",29.76,-95.36,11,April,4,1990
+Llano,Llano1,"Llano, Texas",30.76,-96.68,99,February,11,2016
+Llano,Llano2,"Llano, Texas",30.76,-96.68,99,February,11,2016
+Mason,Mason,"Mason, Texas",30.75,-99.23,468,March ,19,1994
+Rockwall,Rockwall,"Rockwall, Texas",32.93,-96.46,179,March,27,1947
+Saginaw,Saginaw,"Saginaw, Texas",32.86,-97.36,183,March,28,1964
+SanAngelo,SanAngelo1,"San Angelo, Texas",31.46,-100.44,561,February,25,2002
+SanAngelo,SanAngelo2,"San Angelo, Texas",31.27,-100.28,579,March,7,2012
+SanAntonio,SanAntonio1,"San Antonio, Texas",29.18,-98.48,208,March,7,1932
+SanAntonio,SanAntonio2,"San Antonio, Texas",29.45,-98.52,205,May ,1,1904
+Santo,Santo,"Santo, Texas",32.6,-98.22,252,Janurary,31,2005
+Sonora,Sonora1,"Sonora, Texas",30.57,-100.64,649,March ,15,1992
+Terrell,Terrell,"Terrell, Texas",32.74,-96.28,154,April ,6,1969
+Vernon,Vernon,"Vernon, Texas",34.15,-99.27,361,April ,12,1963
+Voca,Voca,"Voca, Texas",31.01,-99.18,473,April ,17,1977
+Waco,Waco1,"Waco, Texas",31.55,-97.15,142,February,15,1982
+Waco,Waco3,"Waco, Texas",31.55,-97.15,142,February,22,1982
+Waco,Waco4,"Waco, Texas",31.55,-97.15,142,March ,21,1990
+Waco,Waco5,"Waco, Texas",31.55,-97.15,142,March ,21,1990
+Waxahachie,Waxahachie,"Waxahachie, Texas",32.39,-96.85,169,February,22,1973

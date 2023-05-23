@@ -1,0 +1,9 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+hamilton,hamilton1,"Hamilton, Butler County, Ohio",39.368536,-84.65591,3004,April,5,1990
+columbus,columbus,"Columbus, Franklin County, Ohio",40.006944,-83.040555,222,May,5,2005
+coshocton,coshocton,"Coshocton, Coshocton County, Ohio",40.364235,-81.791519,301,April,8,1942
+hamilton,hamilton2,"Hamilton, Butler County, Ohio",39.368536,-84.65591,3004,April,5,1990
+lebanon,lebanon,"Lebanon, Warren County, Ohio",39.450894,-84.096045,301,April,27,1992
+ironton,ironton,"Ironton, Lawrence County, Ohio",38.602757,-82.643268,301,April,27,1984
+oxford,oxford,"Oxford, Butler County, Ohio",39.481907,-84.686424,281,May,4,1958
+stclairsville,stclairsville,"St. Clairsville, Belmont County, Ohio",40.107293,-80.841199,301,April,29,1x79

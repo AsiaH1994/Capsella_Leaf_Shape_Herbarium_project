@@ -1,0 +1,838 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,id.y,prcp,tmax,tmin,tavg
+1,5/9/1930,hopewell,hopewell2,"Hopewell, Fanquier County, Virginia",37.304315,-77.2872,15,5,9,1930,USC00444101,0,333,183,258
+2,5/9/1930,hopewell,hopewell2,"Hopewell, Fanquier County, Virginia",37.304315,-77.2872,15,5,9,1930,USC00449146,0,322,172,247
+3,5/9/1930,hopewell,hopewell2,"Hopewell, Fanquier County, Virginia",37.304315,-77.2872,15,5,9,1930,USC00447196,0,#N/A,#N/A,#N/A
+4,5/9/1930,hopewell,hopewell2,"Hopewell, Fanquier County, Virginia",37.304315,-77.2872,15,5,9,1930,USW00013780,20,283,183,233
+5,4/23/1931,richmond,richmond7,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,4,23,1931,USC00446906,0,#N/A,#N/A,#N/A
+6,4/23/1931,richmond,richmond7,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,4,23,1931,USC00444101,10,161,39,100
+7,4/23/1931,richmond,richmond7,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,4,23,1931,USW00013780,0,144,44,94
+8,5/20/1931,richmond,richmond8,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,5,20,1931,USC00446906,28,#N/A,#N/A,#N/A
+9,5/20/1931,richmond,richmond8,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,5,20,1931,USC00444101,0,289,178,233.5
+10,5/20/1931,richmond,richmond8,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,5,20,1931,USW00013780,0,278,178,228
+11,4/1/1932,richmond,richmond7.5,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,1,1932,USW00013780,0,144,39,91.5
+12,4/1/1932,richmond,richmond7.5,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,1,1932,USC00446906,0,#N/A,#N/A,#N/A
+13,4/1/1932,richmond,richmond7.5,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,1,1932,USC00444101,20,183,28,105.5
+14,4/25/1932,richmond,richmond5,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,4,25,1932,USC00446906,10,#N/A,#N/A,#N/A
+15,4/25/1932,richmond,richmond5,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,4,25,1932,USC00444101,0,267,94,180.5
+16,4/25/1932,richmond,richmond5,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,4,25,1932,USW00013780,0,239,89,164
+17,4/29/1932,middlesexcounty,middlesexcounty,"N/A. Middlesex County, Virginia",37.6334553,-76.55146282,9,4,29,1932,USC00441690,0,244,67,155.5
+18,4/29/1932,middlesexcounty,middlesexcounty,"N/A. Middlesex County, Virginia",37.6334553,-76.55146282,9,4,29,1932,USC00448331,0,272,44,158
+19,4/29/1932,middlesexcounty,middlesexcounty,"N/A. Middlesex County, Virginia",37.6334553,-76.55146282,9,4,29,1932,USC00449146,0,256,72,164
+20,3/29/1935,richmond,richmond6,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,3,29,1935,USW00013780,0,167,39,103
+21,3/29/1935,richmond,richmond6,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,3,29,1935,USC00448829,0,161,6,83.5
+22,3/29/1935,richmond,richmond6,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,3,29,1935,USC00444101,0,189,33,111
+23,3/29/1935,richmond,richmond6,"Richmond, Henrico County, Virginia",37.54129,-77.434769,50.7,3,29,1935,USC00446906,0,#N/A,#N/A,#N/A
+24,10/11/1935,exmore,exmore,"Exmore, Northamptom County, Virginia",37.352637,-75.945765,986,10,11,1935,USC00446362,0,261,122,191.5
+25,10/11/1935,exmore,exmore,"Exmore, Northamptom County, Virginia",37.352637,-75.945765,986,10,11,1935,USW00013702,0,267,122,194.5
+26,5/22/1938,pocomokecity,pocomokecity,"Pocomoke City, Accomac County, Virginia",38.068904,-75.561718,2,5,22,1938,USC00187330,107,267,144,205.5
+27,5/22/1938,pocomokecity,pocomokecity,"Pocomoke City, Accomac County, Virginia",38.068904,-75.561718,2,5,22,1938,USC00188380,102,267,161,214
+28,5/22/1938,pocomokecity,pocomokecity,"Pocomoke City, Accomac County, Virginia",38.068904,-75.561718,2,5,22,1938,USC00446362,25,267,139,203
+29,5/22/1938,pocomokecity,pocomokecity,"Pocomoke City, Accomac County, Virginia",38.068904,-75.561718,2,5,22,1938,USC00182205,28,283,156,219.5
+30,5/22/1938,pocomokecity,pocomokecity,"Pocomoke City, Accomac County, Virginia",38.068904,-75.561718,2,5,22,1938,USC00188000,152,294,178,236
+31,2/20/1939,williamsburg,williamsburg4,"Williamsburg, James City County, Virginia",37.270702,-76.707457,301,2,20,1939,USC00449146,30,233,167,200
+32,2/20/1939,williamsburg,williamsburg4,"Williamsburg, James City County, Virginia",37.270702,-76.707457,301,2,20,1939,USW00013702,43,244,156,200
+33,2/20/1939,williamsburg,williamsburg4,"Williamsburg, James City County, Virginia",37.270702,-76.707457,301,2,20,1939,USC00441690,0,228,161,194.5
+34,2/20/1939,williamsburg,williamsburg4,"Williamsburg, James City County, Virginia",37.270702,-76.707457,301,2,20,1939,USC00444101,0,228,172,200
+35,4/6/1939,franlkin,franlkin,"Franklin, Southampton County, Virginia",36.716261,-77.06802,2069,4,6,1939,USC00444044,0,200,67,133.5
+36,4/6/1939,franlkin,franlkin,"Franklin, Southampton County, Virginia",36.716261,-77.06802,2069,4,6,1939,USC00442790,142,#N/A,#N/A,#N/A
+37,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00441729,0,#N/A,#N/A,#N/A
+38,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00181995,0,300,44,172
+39,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00181685,0,300,78,189
+40,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00188715,0,317,83,200
+41,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00181710,0,233,78,155.5
+42,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00186770,0,294,100,197
+43,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00446979,0,317,83,200
+44,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00184485,0,300,111,205.5
+45,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00188300,#N/A,300,83,191.5
+46,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00183850,0,294,67,180.5
+47,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00183675,0,294,39,166.5
+48,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00185111,0,294,89,191.5
+49,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00185080,0,300,72,186
+50,4/24/1939,alexandria,alexandria1,"Alexandria, Arlington County, Virginia",38.82045,-77.050552,54,4,24,1939,USC00445208,0,#N/A,#N/A,#N/A
+51,5/3/1942,richmond,richmond3,"RIchmond, Nottoway County, Virginia",37.54129,-77.434769,50.7,5,3,1942,USC00444101,0,328,167,247.5
+52,5/3/1942,richmond,richmond3,"RIchmond, Nottoway County, Virginia",37.54129,-77.434769,50.7,5,3,1942,USC00448054,25,#N/A,#N/A,#N/A
+53,5/3/1942,richmond,richmond3,"RIchmond, Nottoway County, Virginia",37.54129,-77.434769,50.7,5,3,1942,USC00448829,0,317,156,236.5
+54,5/3/1942,richmond,richmond3,"RIchmond, Nottoway County, Virginia",37.54129,-77.434769,50.7,5,3,1942,USW00013780,0,317,183,250
+55,5/3/1942,richmond,richmond3,"RIchmond, Nottoway County, Virginia",37.54129,-77.434769,50.7,5,3,1942,USW00013740,0,317,156,236.5
+56,5/3/1942,richmond,richmond3,"RIchmond, Nottoway County, Virginia",37.54129,-77.434769,50.7,5,3,1942,USC00446906,66,#N/A,#N/A,#N/A
+57,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USW00013750,0,256,33,144.5
+58,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00442368,0,94,28,61
+59,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USW00013737,0,261,17,139
+60,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00442504,0,#N/A,#N/A,#N/A
+61,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00446054,0,261,-6,127.5
+62,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00441362,0,272,39,155.5
+63,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USW00013769,0,289,33,161
+64,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USW00013702,5,250,28,139
+65,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00448192,0,261,17,139
+66,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00447864,0,#N/A,#N/A,#N/A
+67,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USW00093735,0,250,33,141.5
+68,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00448837,0,#N/A,#N/A,#N/A
+69,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00440385,0,250,50,150
+70,4/1/1966,norfolk,norfolk8,"Norfolk, Norfolk County, Virginia",36.891447,-76.315355,301,4,1,1966,USC00444044,8,111,-6,52.5
+71,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USW00013769,10,189,133,161
+72,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USW00013737,5,189,122,155.5
+73,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USC00442368,356,261,78,169.5
+74,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USC00440385,36,206,122,164
+75,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USC00441362,5,183,122,152.5
+76,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USW00013750,13,178,122,150
+77,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USC00448837,160,#N/A,#N/A,#N/A
+78,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USW00013702,3,183,106,144.5
+79,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USC00448192,25,244,144,194
+80,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USC00442504,30,#N/A,#N/A,#N/A
+81,4/23/1966,virginiabeach,virginiabeach2,"Virginia Beach, Princess Anne, Virginia",36.765371,-76.156214,301,4,23,1966,USC00446054,13,194,106,150
+82,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00442504,8,#N/A,#N/A,#N/A
+83,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USW00013702,0,117,39,78
+84,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00448803,0,167,-11,78
+85,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00444101,0,167,28,97.5
+86,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00449151,0,122,0,61
+87,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USW00093735,0,117,39,78
+88,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00447864,0,#N/A,#N/A,#N/A
+89,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USW00013742,0,133,28,80.5
+90,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00440835,3,117,28,72.5
+91,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00446054,0,139,50,94.5
+92,4/13/1967,williamsburg,williamsburg2,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,4,13,1967,USC00449025,0,139,-6,66.5
+93,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00442368,178,117,28,72.5
+94,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00446054,64,78,-6,36
+95,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USW00013750,89,72,0,36
+96,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00444044,0,133,22,77.5
+97,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00448192,330,89,-11,39
+98,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USW00013737,216,83,6,44.5
+99,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00442504,163,#N/A,#N/A,#N/A
+100,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USW00013702,69,67,6,36.5
+101,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00441362,79,56,11,33.5
+102,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USW00013769,97,67,0,33.5
+103,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00440385,53,61,17,39
+104,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USW00093735,56,72,11,41.5
+105,3/9/1969,norfolk,norfolk3,"Norfolk City, Norfolk County, Virginia",36.887689,-76.305101,301,3,9,1969,USC00448837,0,#N/A,#N/A,#N/A
+106,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00442729,0,283,67,175
+107,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00442009,0,267,56,161.5
+108,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USW00013773,0,256,100,178
+109,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00443192,0,283,94,188.5
+110,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00448829,0,283,67,175
+111,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00441913,0,278,56,167
+112,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00446533,0,244,22,133
+113,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00185080,0,289,72,180.5
+114,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00446979,0,256,100,178
+115,4/9/1969,fredericksburg,fredericksburg1,"Fredericksburg, Norfolk County, Virginia",38.309875,-77.466316,41,4,9,1969,USC00442155,0,278,39,158.5
+116,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00181032,0,183,33,108
+117,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00448737,0,#N/A,#N/A,#N/A
+118,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00187272,8,#N/A,#N/A,#N/A
+119,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00448396,0,#N/A,#N/A,#N/A
+120,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00445851,0,111,28,69.5
+121,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00181170,0,#N/A,#N/A,#N/A
+122,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00448938,3,139,111,125
+123,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00189502,8,133,50,91.5
+124,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00180986,8,106,44,75
+125,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00181125,0,#N/A,#N/A,#N/A
+126,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00189030,0,122,56,89
+127,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00187705,0,122,44,83
+128,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USW00013730,0,117,61,89
+129,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00445213,0,139,56,97.5
+130,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00183355,0,#N/A,#N/A,#N/A
+131,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00440670,0,128,56,92
+132,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00442922,0,156,44,100
+133,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00182325,0,139,22,80.5
+134,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USC00444909,0,133,50,91.5
+135,4/24/1969,leesburg,leesburg,"Leesburg, Loudoun County, Virginia",39.1055,-77.5547,104,4,24,1969,USW00093738,0,144,17,80.5
+136,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013750,0,200,67,133.5
+137,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442368,0,178,50,114
+138,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013737,0,200,44,122
+139,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442504,0,#N/A,#N/A,#N/A
+140,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00446054,0,206,72,139
+141,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013769,0,200,61,130.5
+142,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013702,0,194,56,125
+143,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448192,0,206,56,131
+144,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00093735,0,206,56,131
+145,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448837,0,#N/A,#N/A,#N/A
+146,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00440385,0,206,78,142
+147,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00444044,0,178,22,100
+148,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00446054,0,206,72,139
+149,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013769,0,200,61,130.5
+150,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013702,0,194,56,125
+151,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448192,0,206,56,131
+152,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00093735,0,206,56,131
+153,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448837,0,#N/A,#N/A,#N/A
+154,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00440385,0,206,78,142
+155,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00444044,0,178,22,100
+156,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013737,0,200,44,122
+157,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442504,0,#N/A,#N/A,#N/A
+158,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013750,0,200,67,133.5
+159,4/4/1970,norfolk,norfolk4,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442368,0,178,50,114
+160,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013750,0,200,67,133.5
+161,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442368,0,178,50,114
+162,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013737,0,200,44,122
+163,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442504,0,#N/A,#N/A,#N/A
+164,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00446054,0,206,72,139
+165,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013769,0,200,61,130.5
+166,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013702,0,194,56,125
+167,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448192,0,206,56,131
+168,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00093735,0,206,56,131
+169,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448837,0,#N/A,#N/A,#N/A
+170,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00440385,0,206,78,142
+171,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00444044,0,178,22,100
+172,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00446054,0,206,72,139
+173,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013769,0,200,61,130.5
+174,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013702,0,194,56,125
+175,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448192,0,206,56,131
+176,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00093735,0,206,56,131
+177,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00448837,0,#N/A,#N/A,#N/A
+178,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00440385,0,206,78,142
+179,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00444044,0,178,22,100
+180,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013737,0,200,44,122
+181,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442504,0,#N/A,#N/A,#N/A
+182,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USW00013750,0,200,67,133.5
+183,4/4/1970,norfolk,norfolk5,"Norfolk City, N/A, Virginia",36.934563,-76.236818,301,4,4,1970,USC00442368,0,178,50,114
+184,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013740,0,328,139,233.5
+185,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00444101,0,328,156,242
+186,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448054,0,#N/A,#N/A,#N/A
+187,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00443127,0,333,156,244.5
+188,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448829,0,322,111,216.5
+189,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013721,0,300,167,233.5
+190,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013740,0,328,139,233.5
+191,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00444101,0,328,156,242
+192,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448054,0,#N/A,#N/A,#N/A
+193,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00443127,0,333,156,244.5
+194,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448829,0,322,111,216.5
+195,5/9/1970,richmond,richmond1," Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013721,0,300,167,233.5
+196,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013740,0,328,139,233.5
+197,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00444101,0,328,156,242
+198,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448054,0,#N/A,#N/A,#N/A
+199,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00443127,0,333,156,244.5
+200,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448829,0,322,111,216.5
+201,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013721,0,300,167,233.5
+202,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013740,0,328,139,233.5
+203,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00444101,0,328,156,242
+204,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448054,0,#N/A,#N/A,#N/A
+205,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00443127,0,333,156,244.5
+206,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USC00448829,0,322,111,216.5
+207,5/9/1970,richmond,richmond14,"Richmond, New Kent County, Virginia",37.54129,-77.434769,50.7,5,9,1970,USW00013721,0,300,167,233.5
+208,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00187272,0,#N/A,#N/A,#N/A
+209,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00182325,0,294,56,175
+210,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00180700,0,239,17,128
+211,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00448396,0,#N/A,#N/A,#N/A
+212,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00444909,0,222,6,114
+213,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00181170,0,#N/A,#N/A,#N/A
+214,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00187705,0,278,6,142
+215,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00445213,0,306,44,175
+216,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00181032,0,283,72,177.5
+217,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00189035,0,289,67,178
+218,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00189502,0,278,17,147.5
+219,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USW00013743,0,272,72,172
+220,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00186350,0,278,44,161
+221,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00181995,0,289,28,158.5
+222,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00180705,0,250,17,133.5
+223,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00448737,0,#N/A,#N/A,#N/A
+224,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USW00093738,0,300,33,166.5
+225,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00183675,0,283,11,147
+226,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00188656,0,239,56,147.5
+227,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00181125,0,#N/A,#N/A,#N/A
+228,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00185111,0,272,56,164
+229,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00448888,0,261,56,158.5
+230,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00181862,0,267,6,136.5
+231,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00183355,0,#N/A,#N/A,#N/A
+232,4/13/1971,reston,reston,"Reston, Fairfax County, Virginia",38.968721,-77.341096,6343,4,13,1971,USC00445851,0,228,117,172.5
+233,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00445050,0,222,83,152.5
+234,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USW00013721,0,167,89,128
+235,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00448172,0,#N/A,#N/A,#N/A
+236,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00447033,0,#N/A,#N/A,#N/A
+237,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USW00013740,0,222,61,141.5
+238,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00440327,0,222,72,147
+239,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00444101,0,211,72,141.5
+240,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00448829,0,206,50,128
+241,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00440993,0,#N/A,#N/A,#N/A
+242,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00446004,0,233,100,166.5
+243,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00441598,0,239,111,175
+244,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00448054,0,#N/A,#N/A,#N/A
+245,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00443213,0,#N/A,#N/A,#N/A
+246,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00447904,0,#N/A,#N/A,#N/A
+247,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00448902,0,183,78,130.5
+248,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00441593,0,233,89,161
+249,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00446712,0,217,78,147.5
+250,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USW00093736,0,194,83,138.5
+251,4/29/1971,charoltesville,charoltesville1,"Charlotesville, Goochland County, Virginia",38.033554,-78.50798,149,4,29,1971,USC00443466,0,#N/A,#N/A,#N/A
+252,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00445050,0,222,83,152.5
+253,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USW00013721,0,167,89,128
+254,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00448172,0,#N/A,#N/A,#N/A
+255,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00447033,0,#N/A,#N/A,#N/A
+256,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USW00013740,0,222,61,141.5
+257,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00440327,0,222,72,147
+258,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00444101,0,211,72,141.5
+259,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00448829,0,206,50,128
+260,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00440993,0,#N/A,#N/A,#N/A
+261,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00446004,0,233,100,166.5
+262,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00441598,0,239,111,175
+263,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00448054,0,#N/A,#N/A,#N/A
+264,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00443213,0,#N/A,#N/A,#N/A
+265,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00447904,0,#N/A,#N/A,#N/A
+266,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00448902,0,183,78,130.5
+267,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00441593,0,233,89,161
+268,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00446712,0,217,78,147.5
+269,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USW00093736,0,194,83,138.5
+270,4/29/1971,richmond,richmond13,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,29,1971,USC00443466,0,#N/A,#N/A,#N/A
+271,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00443213,0,#N/A,#N/A,#N/A
+272,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00447904,0,#N/A,#N/A,#N/A
+273,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USW00093736,0,217,39,128
+274,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00443466,0,#N/A,#N/A,#N/A
+275,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00446712,0,183,44,113.5
+276,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00440993,0,222,22,122
+277,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00446004,0,206,-6,100
+278,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00448902,0,217,11,114
+279,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00441593,0,183,61,122
+280,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00445050,0,233,28,130.5
+281,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00448172,0,#N/A,#N/A,#N/A
+282,5/1/1971,charoltesville,charoltesville3,"Charlottesville, Orange County, Virginia",38.033554,-78.50798,149,5,1,1971,USC00447033,0,#N/A,#N/A,#N/A
+283,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00445851,122,128,72,100
+284,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00440720,104,206,56,131
+285,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00444909,104,222,100,161
+286,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00440670,142,206,94,150
+287,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00449186,170,206,100,153
+288,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00181032,231,156,100,128
+289,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00445096,53,161,83,122
+290,5/8/1971,winchester,winchester3,"Winchester, Frederick County, Virginia",39.071834,-78.323513,301,5,8,1971,USC00448396,74,#N/A,#N/A,#N/A
+291,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00189502,0,206,17,111.5
+292,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USW00013743,0,233,67,150
+293,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00440090,0,183,11,97
+294,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00188656,0,161,39,100
+295,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00186350,0,228,61,144.5
+296,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00180705,0,167,6,86.5
+297,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00189195,0,228,17,122.5
+298,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00189070,0,172,61,116.5
+299,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00180700,0,167,0,83.5
+300,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00183675,0,222,17,119.5
+301,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00446979,0,217,28,122.5
+302,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00181686,0,222,50,136
+303,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00187272,0,#N/A,#N/A,#N/A
+304,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00185111,0,217,56,136.5
+305,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00189035,0,233,67,150
+306,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00182325,0,233,-17,108
+307,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00181170,0,#N/A,#N/A,#N/A
+308,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00181995,0,233,33,133
+309,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00448737,0,#N/A,#N/A,#N/A
+310,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00445213,0,233,11,122
+311,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00183230,0,228,28,128
+312,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00181125,0,#N/A,#N/A,#N/A
+313,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USW00013773,0,217,28,122.5
+314,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00186770,0,222,-11,105.5
+315,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00185080,0,239,56,147.5
+316,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00181862,0,211,0,105.5
+317,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USW00093738,0,233,33,133
+318,4/6/1972,alexandriacity,alexandriacity,"Alexandria City, N/A, Virginia",38.82045,-77.050552,85,4,6,1972,USC00187705,0,228,22,125
+319,4/13/1973,richmond,richmond12,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,13,1973,USW00013740,0,128,-11,58.5
+320,4/13/1973,richmond,richmond12,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,13,1973,USC00440327,0,122,-17,52.5
+321,4/13/1973,richmond,richmond12,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,13,1973,USC00448054,0,#N/A,#N/A,#N/A
+322,4/13/1973,richmond,richmond12,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,13,1973,USW00013721,0,128,39,83.5
+323,4/13/1973,richmond,richmond12,"Richmond City, N/A, Virginia",37.54129,-77.434769,50.7,4,13,1973,USC00448829,0,128,-28,50
+324,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013702,0,117,22,69.5
+325,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448192,0,139,22,80.5
+326,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+327,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00440385,0,128,39,83.5
+328,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00444044,122,194,11,102.5
+329,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013750,0,111,44,77.5
+330,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442368,183,167,33,100
+331,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013750,0,111,44,77.5
+332,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442368,183,167,33,100
+333,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013737,0,111,28,69.5
+334,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+335,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00446054,0,144,#N/A,#N/A
+336,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013769,0,94,28,61
+337,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013702,0,117,22,69.5
+338,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448192,0,139,22,80.5
+339,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+340,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00440385,0,128,39,83.5
+341,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00444044,122,194,11,102.5
+342,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013737,0,111,28,69.5
+343,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+344,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013750,0,111,44,77.5
+345,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442368,183,167,33,100
+346,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+347,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00440385,0,128,39,83.5
+348,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00446054,0,144,#N/A,#N/A
+349,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013769,0,94,28,61
+350,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+351,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00446054,0,144,#N/A,#N/A
+352,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00444044,122,194,11,102.5
+353,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013737,0,111,28,69.5
+354,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448192,0,139,22,80.5
+355,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013769,0,94,28,61
+356,3/31/1975,norfolk,norfolk1,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013702,0,117,22,69.5
+357,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013702,0,117,22,69.5
+358,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448192,0,139,22,80.5
+359,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+360,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00440385,0,128,39,83.5
+361,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00444044,122,194,11,102.5
+362,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013750,0,111,44,77.5
+363,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442368,183,167,33,100
+364,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013750,0,111,44,77.5
+365,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442368,183,167,33,100
+366,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013737,0,111,28,69.5
+367,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+368,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00446054,0,144,#N/A,#N/A
+369,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013769,0,94,28,61
+370,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013702,0,117,22,69.5
+371,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448192,0,139,22,80.5
+372,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+373,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00440385,0,128,39,83.5
+374,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00444044,122,194,11,102.5
+375,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013737,0,111,28,69.5
+376,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+377,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013750,0,111,44,77.5
+378,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442368,183,167,33,100
+379,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+380,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00440385,0,128,39,83.5
+381,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00446054,0,144,#N/A,#N/A
+382,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013769,0,94,28,61
+383,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+384,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00446054,0,144,#N/A,#N/A
+385,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00444044,122,194,11,102.5
+386,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013737,0,111,28,69.5
+387,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USC00448192,0,139,22,80.5
+388,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013769,0,94,28,61
+389,3/31/1975,norfolk,norfolk2,"Norfolk City, N/A, Virginia",36.891413,-76.300174,301,3,31,1975,USW00013702,0,117,22,69.5
+390,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013702,0,117,22,69.5
+391,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00448192,0,139,22,80.5
+392,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+393,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00440385,0,128,39,83.5
+394,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00444044,122,194,11,102.5
+395,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013750,0,111,44,77.5
+396,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00442368,183,167,33,100
+397,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013750,0,111,44,77.5
+398,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00442368,183,167,33,100
+399,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013737,0,111,28,69.5
+400,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+401,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00446054,0,144,#N/A,#N/A
+402,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013769,0,94,28,61
+403,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013702,0,117,22,69.5
+404,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00448192,0,139,22,80.5
+405,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+406,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00440385,0,128,39,83.5
+407,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00444044,122,194,11,102.5
+408,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013737,0,111,28,69.5
+409,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+410,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013750,0,111,44,77.5
+411,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00442368,183,167,33,100
+412,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00448837,104,#N/A,#N/A,#N/A
+413,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00440385,0,128,39,83.5
+414,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00446054,0,144,#N/A,#N/A
+415,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013769,0,94,28,61
+416,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00442504,0,#N/A,#N/A,#N/A
+417,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00446054,0,144,#N/A,#N/A
+418,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00444044,122,194,11,102.5
+419,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013737,0,111,28,69.5
+420,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USC00448192,0,139,22,80.5
+421,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013769,0,94,28,61
+422,3/31/1975,norfolk,norfolk1,"Norfolk, N/A., Virginia",36.850769,-76.285873,2.134,3,31,1975,USW00013702,0,117,22,69.5
+423,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USC00440835,0,250,167,208.5
+424,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USC00444101,0,261,156,208.5
+425,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USC00442504,0,#N/A,#N/A,#N/A
+426,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USC00448803,0,289,161,225
+427,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USC00449025,3,272,156,214
+428,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USC00446054,0,261,206,233.5
+429,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USW00013702,0,233,178,205.5
+430,5/26/1975,williamsburg,williamsburg3,"Williamsburg, York Country, Virginia",37.2707,-76.7075,85,5,26,1975,USC00449151,0,278,161,219.5
+431,3/8/1976,richmond,richmond2,"Richmond, Powhatan County, Virginia",37.54129,-77.434769,50.7,3,8,1976,USC00440327,0,150,-11,69.5
+432,3/8/1976,richmond,richmond2,"Richmond, Powhatan County, Virginia",37.54129,-77.434769,50.7,3,8,1976,USW00013740,0,172,-11,80.5
+433,3/8/1976,richmond,richmond2,"Richmond, Powhatan County, Virginia",37.54129,-77.434769,50.7,3,8,1976,USC00444101,0,161,11,86
+434,3/8/1976,richmond,richmond2,"Richmond, Powhatan County, Virginia",37.54129,-77.434769,50.7,3,8,1976,USC00448054,0,#N/A,#N/A,#N/A
+435,3/8/1976,richmond,richmond2,"Richmond, Powhatan County, Virginia",37.54129,-77.434769,50.7,3,8,1976,USC00448829,0,156,-39,58.5
+436,3/8/1976,richmond,richmond2,"Richmond, Powhatan County, Virginia",37.54129,-77.434769,50.7,3,8,1976,USW00013721,0,122,28,75
+437,4/7/1976,harrisonburg,harrisonburg9,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,7,1976,USC00442208,0,178,17,97.5
+438,4/7/1976,harrisonburg,harrisonburg9,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,7,1976,USC00448448,0,172,17,94.5
+439,4/7/1976,harrisonburg,harrisonburg9,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,7,1976,USC00448062,0,194,-33,80.5
+440,4/7/1976,harrisonburg,harrisonburg9,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,7,1976,USC00446199,0,#N/A,#N/A,#N/A
+441,4/7/1976,harrisonburg,harrisonburg9,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,7,1976,USC00443213,0,#N/A,#N/A,#N/A
+442,4/7/1976,harrisonburg,harrisonburg9,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,7,1976,USC00440720,0,128,17,72.5
+443,4/7/1976,harrisonburg,harrisonburg9,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,7,1976,USC00448172,0,#N/A,#N/A,#N/A
+444,4/20/1976,harrisonburg,harrisonburg6,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,20,1976,USC00442208,0,322,106,214
+445,4/20/1976,harrisonburg,harrisonburg6,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,20,1976,USC00448448,0,328,106,217
+446,4/20/1976,harrisonburg,harrisonburg6,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,20,1976,USC00448062,0,311,100,205.5
+447,4/20/1976,harrisonburg,harrisonburg6,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,20,1976,USC00446199,0,#N/A,#N/A,#N/A
+448,4/20/1976,harrisonburg,harrisonburg6,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,20,1976,USC00443213,0,#N/A,#N/A,#N/A
+449,4/20/1976,harrisonburg,harrisonburg6,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,20,1976,USC00440720,0,256,128,192
+450,4/20/1976,harrisonburg,harrisonburg6,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,20,1976,USC00448172,0,#N/A,#N/A,#N/A
+451,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USW00013769,0,167,61,114
+452,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USW00013737,0,178,72,125
+453,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USC00442368,0,239,78,158.5
+454,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USC00440385,0,217,72,144.5
+455,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USW00013750,0,167,67,117
+456,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USC00448837,0,#N/A,#N/A,#N/A
+457,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USW00013702,0,172,78,125
+458,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USC00448192,0,194,56,125
+459,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USC00442504,0,#N/A,#N/A,#N/A
+460,3/22/1978,virginiabeach,virginiabeach1,"Virginia Beach, N/A, Virginia",36.852926,-75.977985,301,3,22,1978,USC00446054,0,183,33,108
+461,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USW00013750,0,172,28,100
+462,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00442368,0,89,28,58.5
+463,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USW00013737,0,167,33,100
+464,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00442504,0,#N/A,#N/A,#N/A
+465,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00446054,0,183,44,113.5
+466,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USW00013769,0,161,11,86
+467,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USW00013702,0,156,44,100
+468,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00448192,0,194,17,105.5
+469,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00448837,0,#N/A,#N/A,#N/A
+470,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00440385,0,156,11,83.5
+471,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00446456,0,144,56,100
+472,3/31/1978,norfolk,norfolk6,"Norfolk City, N/A, Virginia",36.880981,-76.307719,301,3,31,1978,USC00444044,0,250,17,133.5
+473,4/2/1978,richmond,richmond4,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,2,1978,USC00444101,0,306,156,231
+474,4/2/1978,richmond,richmond4,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,2,1978,USC00440327,0,267,133,200
+475,4/2/1978,richmond,richmond4,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,2,1978,USC00442142,0,294,150,222
+476,4/2/1978,richmond,richmond4,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,2,1978,USW00013740,0,217,94,155.5
+477,4/2/1978,richmond,richmond4,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,2,1978,USW00013721,0,228,100,164
+478,4/2/1978,richmond,richmond4,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,2,1978,USC00448829,0,272,128,200
+479,4/16/1978,richmond,richmond11,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,16,1978,USC00444101,0,222,39,130.5
+480,4/16/1978,richmond,richmond11,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,16,1978,USC00448829,0,178,6,92
+481,4/16/1978,richmond,richmond11,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,16,1978,USW00013721,0,117,44,80.5
+482,4/16/1978,richmond,richmond11,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,16,1978,USC00440327,0,144,0,72
+483,4/16/1978,richmond,richmond11,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,16,1978,USW00013740,0,156,28,92
+484,4/16/1978,richmond,richmond11,"Richmond, Hanover County, Virginia",37.54129,-77.434769,50.7,4,16,1978,USC00442142,0,211,22,116.5
+485,4/17/1978,hopewell,hopewell1,"Hopewell, Charles City County, Virginia",37.304315,-77.2872,15,4,17,1978,USC00444101,0,167,61,114
+486,4/17/1978,hopewell,hopewell1,"Hopewell, Charles City County, Virginia",37.304315,-77.2872,15,4,17,1978,USW00013740,0,156,67,111.5
+487,4/17/1978,hopewell,hopewell1,"Hopewell, Charles City County, Virginia",37.304315,-77.2872,15,4,17,1978,USC00448129,0,144,56,100
+488,4/30/1978,fredericksburg,fredericksburg3," Fredericksburg, Caroline County, Virginia",38.171797,-77.191088,506,4,30,1978,USC00442009,0,233,133,183
+489,4/30/1978,fredericksburg,fredericksburg3," Fredericksburg, Caroline County, Virginia",38.171797,-77.191088,506,4,30,1978,USC00443192,0,228,117,172.5
+490,4/30/1978,fredericksburg,fredericksburg3," Fredericksburg, Caroline County, Virginia",38.171797,-77.191088,506,4,30,1978,USC00442729,0,217,111,164
+491,4/30/1978,fredericksburg,fredericksburg3," Fredericksburg, Caroline County, Virginia",38.171797,-77.191088,506,4,30,1978,USC00441913,0,244,150,197
+492,4/30/1978,fredericksburg,fredericksburg3," Fredericksburg, Caroline County, Virginia",38.171797,-77.191088,506,4,30,1978,USC00185080,0,217,111,164
+493,4/30/1978,fredericksburg,fredericksburg3," Fredericksburg, Caroline County, Virginia",38.171797,-77.191088,506,4,30,1978,USC00442155,0,228,100,164
+494,4/30/1978,fredericksburg,fredericksburg3," Fredericksburg, Caroline County, Virginia",38.171797,-77.191088,506,4,30,1978,USC00448829,0,222,122,172
+495,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00443213,0,#N/A,#N/A,#N/A
+496,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USW00093736,0,217,89,153
+497,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00443466,0,#N/A,#N/A,#N/A
+498,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00446712,0,183,22,102.5
+499,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00440993,0,#N/A,#N/A,#N/A
+500,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00448902,0,183,28,105.5
+501,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00441593,0,194,56,125
+502,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00445050,0,200,17,108.5
+503,5/3/1978,charoltesville,charoltesville2,"Charlottesville, Madison County, Virginia",38.280965,-78.140835,301,5,3,1978,USC00447033,0,#N/A,#N/A,#N/A
+504,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00440135,0,#N/A,#N/A,#N/A
+505,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00446046,0,#N/A,#N/A,#N/A
+506,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00446955,0,200,39,119.5
+507,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00440766,0,133,50,91.5
+508,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00448022,0,156,56,106
+509,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00449272,0,#N/A,#N/A,#N/A
+510,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00446723,0,#N/A,#N/A,#N/A
+511,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00446999,0,#N/A,#N/A,#N/A
+512,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00440792,0,#N/A,#N/A,#N/A
+513,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00449301,0,217,33,125
+514,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00443397,0,#N/A,#N/A,#N/A
+515,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00445828,0,150,17,83.5
+516,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00443071,0,200,22,111
+517,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00444676,0,#N/A,#N/A,#N/A
+518,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00441999,0,#N/A,#N/A,#N/A
+519,5/17/1978,radford,radford2,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,5,17,1978,USC00443991,0,#N/A,#N/A,#N/A
+520,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00445698,5,272,106,189
+521,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00445414,8,#N/A,#N/A,#N/A
+522,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00445595,0,#N/A,#N/A,#N/A
+523,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00445599,15,#N/A,#N/A,#N/A
+524,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00446199,91,#N/A,#N/A,#N/A
+525,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00442315,46,#N/A,#N/A,#N/A
+526,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00442064,61,#N/A,#N/A,#N/A
+527,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00445756,46,#N/A,#N/A,#N/A
+528,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00443470,173,#N/A,#N/A,#N/A
+529,8/10/1978,staunton,staunton,"Staunton, Highland County, Virginia",38.412343,-79.580604,776,8,10,1978,USC00448062,152,306,150,228
+530,3/31/1979,emporia,emporia,"Emporia, Southampton County, Virginia",36.583207,-77.199968,1705,3,31,1979,USC00442790,0,#N/A,#N/A,#N/A
+531,3/31/1979,emporia,emporia,"Emporia, Southampton County, Virginia",36.583207,-77.199968,1705,3,31,1979,USC00444044,0,267,139,203
+532,3/31/1979,emporia,emporia,"Emporia, Southampton County, Virginia",36.583207,-77.199968,1705,3,31,1979,USC00448129,0,289,167,228
+533,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USC00444044,0,278,100,189
+534,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USC00446054,0,272,144,208
+535,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USC00448192,0,294,139,216.5
+536,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USC00442504,0,#N/A,#N/A,#N/A
+537,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USC00448837,0,#N/A,#N/A,#N/A
+538,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USW00013750,0,239,122,180.5
+539,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USC00442368,0,278,133,205.5
+540,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USW00013737,0,250,128,189
+541,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USW00013702,0,239,111,175
+542,4/1/1979,suffolkcity,suffolkcity1,"Suffolk City, Virginia",36.73283,-76.579002,31,4,1,1979,USW00013769,0,239,106,172.5
+543,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USC00446054,0,139,61,100
+544,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USC00442504,0,#N/A,#N/A,#N/A
+545,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USC00449151,0,150,33,91.5
+546,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USW00013702,0,172,89,130.5
+547,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USW00013750,0,178,72,125
+548,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USC00448192,0,217,56,136.5
+549,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USC00448933,0,#N/A,-6,#N/A
+550,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USC00444044,0,206,-17,94.5
+551,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USC00442368,0,133,56,94.5
+552,4/8/1979,newportnews,newportnews,"Newport News, Isle of Wight County, Virginia",37.057137,-76.674647,7416,4,8,1979,USW00013737,0,178,61,119.5
+553,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00446593,0,#N/A,#N/A,#N/A
+554,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USW00093739,0,139,50,94.5
+555,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00441585,0,211,6,108.5
+556,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00188380,0,217,22,119.5
+557,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00444148,0,#N/A,#N/A,#N/A
+558,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00441955,0,#N/A,#N/A,#N/A
+559,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00187330,0,167,6,86.5
+560,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00446475,0,189,33,111
+561,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00444039,0,#N/A,#N/A,#N/A
+562,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00440243,0,206,44,125
+563,4/21/1979,lynchburg,lynchburg2,"Lynchburg, Charlotte County, Virginia",37.040429,-78.483328,1574,4,21,1979,USC00443375,0,#N/A,#N/A,#N/A
+564,5/4/1979,richmond,richmond15,harrisonburg4,37.958745,-76.758014,301,5,4,1979,USC00444101,5,272,167,219.5
+565,5/4/1979,richmond,richmond15,harrisonburg4,37.958745,-76.758014,301,5,4,1979,USC00442142,18,261,139,200
+566,5/4/1979,richmond,richmond15,harrisonburg4,37.958745,-76.758014,301,5,4,1979,USW00013740,58,278,128,203
+567,5/4/1979,richmond,richmond15,harrisonburg4,37.958745,-76.758014,301,5,4,1979,USC00440327,97,239,150,194.5
+568,5/4/1979,richmond,richmond15,harrisonburg4,37.958745,-76.758014,301,5,4,1979,USC00448829,122,244,144,194
+569,5/4/1979,richmond,richmond15,harrisonburg4,37.958745,-76.758014,301,5,4,1979,USW00013721,76,244,117,180.5
+570,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00440551,0,256,94,175
+571,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USW00013741,0,256,89,172.5
+572,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00441121,0,261,83,172
+573,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00446723,0,#N/A,#N/A,#N/A
+574,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00441999,0,#N/A,#N/A,#N/A
+575,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00446012,0,#N/A,#N/A,#N/A
+576,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00447338,0,228,89,158.5
+577,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00447280,0,#N/A,#N/A,#N/A
+578,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00444148,0,#N/A,#N/A,#N/A
+579,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00440766,0,200,67,133.5
+580,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00446046,0,#N/A,#N/A,#N/A
+581,6/12/1979,roanokecounty,roanokecounty,"Roanoke County, Virginia",37.270969,-79.941429,530,6,12,1979,USC00443071,0,222,50,136
+582,4/23/1980,harrisonburg,harrisonburg4,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,23,1980,USC00440720,0,200,94,147
+583,4/23/1980,harrisonburg,harrisonburg4,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,23,1980,USC00443213,0,#N/A,#N/A,#N/A
+584,4/23/1980,harrisonburg,harrisonburg4,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,23,1980,USC00442208,0,289,89,189
+585,4/23/1980,harrisonburg,harrisonburg4,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,23,1980,USC00445838,0,#N/A,#N/A,#N/A
+586,4/23/1980,harrisonburg,harrisonburg4,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,23,1980,USC00448448,0,306,78,192
+587,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00448084,0,256,89,172.5
+588,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00448396,0,#N/A,#N/A,#N/A
+589,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00440720,0,189,100,144.5
+590,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00181032,0,261,133,197
+591,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00449186,0,267,144,205.5
+592,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00445851,0,211,139,175
+593,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00444909,0,267,178,222.5
+594,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00440670,0,250,117,183.5
+595,8/17/1980,winchester,winchester2,"Winchester, Warren County, Virginia",39,-78.15,301,8,17,1980,USC00445096,0,222,128,175
+596,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00440766,0,156,-11,72.5
+597,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00446999,0,#N/A,#N/A,#N/A
+598,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00443991,0,#N/A,#N/A,#N/A
+599,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00440792,0,#N/A,#N/A,#N/A
+600,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00449301,0,167,-11,78
+601,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00441999,0,#N/A,#N/A,#N/A
+602,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00445828,30,106,28,67
+603,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00443071,0,172,28,100
+604,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00444676,0,#N/A,#N/A,#N/A
+605,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00443397,#N/A,#N/A,#N/A,#N/A
+606,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00446723,0,#N/A,#N/A,#N/A
+607,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00448022,0,172,-11,80.5
+608,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00446046,0,#N/A,#N/A,#N/A
+609,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00446955,0,178,11,94.5
+610,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00449169,0,#N/A,#N/A,#N/A
+611,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00440135,0,#N/A,#N/A,#N/A
+612,3/27/1981,radford,radford1,"Radford, Montgomery County, Virginia",37.131792,-80.576448,641,3,27,1981,USC00449272,0,#N/A,#N/A,#N/A
+613,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00443213,0,#N/A,#N/A,#N/A
+614,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00440720,0,89,-72,8.5
+615,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00442208,0,61,-11,25
+616,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00448448,0,56,-11,22.5
+617,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00442208,0,61,-11,25
+618,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00448448,0,56,-11,22.5
+619,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00448062,0,156,-150,3
+620,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00448975,0,#N/A,#N/A,#N/A
+621,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00440720,0,89,-72,8.5
+622,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00448062,0,156,-150,3
+623,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00448975,0,#N/A,#N/A,#N/A
+624,3/22/1983,harrisonburg,harrisonburg2,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,3,22,1983,USC00443213,0,#N/A,#N/A,#N/A
+625,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446475,0,128,6,67
+626,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446593,20,#N/A,#N/A,#N/A
+627,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00440243,30,122,28,75
+628,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00443375,89,#N/A,#N/A,#N/A
+629,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USW00093739,0,83,39,61
+630,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441585,107,117,33,75
+631,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444148,236,#N/A,#N/A,#N/A
+632,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441955,66,#N/A,#N/A,#N/A
+633,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00187330,0,144,-17,63.5
+634,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00188380,0,139,-22,58.5
+635,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444039,0,#N/A,#N/A,#N/A
+636,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441585,107,117,33,75
+637,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444148,236,#N/A,#N/A,#N/A
+638,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441955,66,#N/A,#N/A,#N/A
+639,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00187330,0,144,-17,63.5
+640,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00188380,0,139,-22,58.5
+641,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444039,0,#N/A,#N/A,#N/A
+642,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00440243,30,122,28,75
+643,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00443375,89,#N/A,#N/A,#N/A
+644,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446475,0,128,6,67
+645,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446593,20,#N/A,#N/A,#N/A
+646,4/10/1984,lynchburg,lynchburg1,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USW00093739,0,83,39,61
+647,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446475,0,128,6,67
+648,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446593,20,#N/A,#N/A,#N/A
+649,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00440243,30,122,28,75
+650,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00443375,89,#N/A,#N/A,#N/A
+651,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USW00093739,0,83,39,61
+652,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441585,107,117,33,75
+653,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444148,236,#N/A,#N/A,#N/A
+654,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441955,66,#N/A,#N/A,#N/A
+655,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00187330,0,144,-17,63.5
+656,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00188380,0,139,-22,58.5
+657,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444039,0,#N/A,#N/A,#N/A
+658,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441585,107,117,33,75
+659,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444148,236,#N/A,#N/A,#N/A
+660,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00441955,66,#N/A,#N/A,#N/A
+661,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00187330,0,144,-17,63.5
+662,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00188380,0,139,-22,58.5
+663,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00444039,0,#N/A,#N/A,#N/A
+664,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00440243,30,122,28,75
+665,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00443375,89,#N/A,#N/A,#N/A
+666,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446475,0,128,6,67
+667,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USC00446593,20,#N/A,#N/A,#N/A
+668,4/10/1984,lynchburg,lynchburg3,"Lynchburg, Campbell County, Virginia",37.233756,-79.289469,301,4,10,1984,USW00093739,0,83,39,61
+669,4/22/1984,harrisonburg,harrisonburg5,"Harrisonburg, Rockingham County, Virginia",38.486234,-78.959752,301,4,22,1984,USC00440720,0,111,-17,47
+670,4/22/1984,harrisonburg,harrisonburg5,"Harrisonburg, Rockingham County, Virginia",38.486234,-78.959752,301,4,22,1984,USC00442208,279,122,6,64
+671,4/22/1984,harrisonburg,harrisonburg5,"Harrisonburg, Rockingham County, Virginia",38.486234,-78.959752,301,4,22,1984,USC00448448,257,144,17,80.5
+672,4/22/1984,harrisonburg,harrisonburg5,"Harrisonburg, Rockingham County, Virginia",38.486234,-78.959752,301,4,22,1984,USC00448062,48,133,22,77.5
+673,4/22/1984,harrisonburg,harrisonburg5,"Harrisonburg, Rockingham County, Virginia",38.486234,-78.959752,301,4,22,1984,USC00448975,145,#N/A,#N/A,#N/A
+674,4/25/1984,harrisonburg,harrisonburg8,"Harrisonburg, Rockingham County, Virginia",38.403968,-78.856954,301,4,25,1984,USC00442208,0,211,72,141.5
+675,4/25/1984,harrisonburg,harrisonburg8,"Harrisonburg, Rockingham County, Virginia",38.403968,-78.856954,301,4,25,1984,USC00448448,0,167,50,108.5
+676,4/25/1984,harrisonburg,harrisonburg8,"Harrisonburg, Rockingham County, Virginia",38.403968,-78.856954,301,4,25,1984,USC00448062,0,133,56,94.5
+677,4/25/1984,harrisonburg,harrisonburg8,"Harrisonburg, Rockingham County, Virginia",38.403968,-78.856954,301,4,25,1984,USC00448975,0,#N/A,#N/A,#N/A
+678,4/25/1984,harrisonburg,harrisonburg8,"Harrisonburg, Rockingham County, Virginia",38.403968,-78.856954,301,4,25,1984,USC00440720,0,78,11,44.5
+679,5/2/1984,harrisonburg,harrisonburg3,"Harrisonburg, Rockingham County, Virginia",38.378572,-78.969529,2380,5,2,1984,USC00448975,0,#N/A,#N/A,#N/A
+680,5/2/1984,harrisonburg,harrisonburg3,"Harrisonburg, Rockingham County, Virginia",38.378572,-78.969529,2380,5,2,1984,USC00448448,0,189,50,119.5
+681,5/2/1984,harrisonburg,harrisonburg3,"Harrisonburg, Rockingham County, Virginia",38.378572,-78.969529,2380,5,2,1984,USC00448062,0,194,33,113.5
+682,5/2/1984,harrisonburg,harrisonburg3,"Harrisonburg, Rockingham County, Virginia",38.378572,-78.969529,2380,5,2,1984,USC00442208,5,183,44,113.5
+683,5/2/1984,harrisonburg,harrisonburg3,"Harrisonburg, Rockingham County, Virginia",38.378572,-78.969529,2380,5,2,1984,USC00440720,3,156,61,108.5
+684,5/11/1999,fredericksburg,fredericksburg2,"Fredericksburg, Westmoreland County, Virginia",38.309875,-77.466316,77,5,11,1999,USC00442009,0,267,78,172.5
+685,5/11/1999,fredericksburg,fredericksburg2,"Fredericksburg, Westmoreland County, Virginia",38.309875,-77.466316,77,5,11,1999,USC00448829,0,278,89,183.5
+686,5/11/1999,fredericksburg,fredericksburg2,"Fredericksburg, Westmoreland County, Virginia",38.309875,-77.466316,77,5,11,1999,USC00443204,0,278,100,189
+687,5/11/1999,fredericksburg,fredericksburg2,"Fredericksburg, Westmoreland County, Virginia",38.309875,-77.466316,77,5,11,1999,USC00441913,0,239,239,239
+688,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USC00444101,0,167,-33,67
+689,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USC00445338,0,122,-22,50
+690,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USR0000VJAM,#N/A,161,-44,58.5
+691,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USW00013702,0,139,-22,58.5
+692,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USC00449151,0,156,-22,67
+693,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USC00449025,0,161,-39,61
+694,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USW00093773,0,150,-22,64
+695,11/18/1999,williamsburg,williamsburg,"Williamsburg City, N/A, Virginia",37.271133,-76.716614,26,11,18,1999,USC00448800,0,156,-39,58.5
+696,4/12/2002,harrisonburg,harrisonburg1,"Harrisonburg, Page County, Virginia",38.449569,-78.868916,404,4,12,2002,USC00448941,0,194,22,108
+697,4/12/2002,harrisonburg,harrisonburg1,"Harrisonburg, Page County, Virginia",38.449569,-78.868916,404,4,12,2002,USC00442208,0,194,0,97
+698,4/12/2002,harrisonburg,harrisonburg1,"Harrisonburg, Page County, Virginia",38.449569,-78.868916,404,4,12,2002,USC00448062,0,194,56,125
+699,4/12/2002,harrisonburg,harrisonburg1,"Harrisonburg, Page County, Virginia",38.449569,-78.868916,404,4,12,2002,USC00443213,0,#N/A,#N/A,#N/A
+700,4/12/2002,harrisonburg,harrisonburg1,"Harrisonburg, Page County, Virginia",38.449569,-78.868916,404,4,12,2002,USC00440720,0,122,39,80.5
+701,4/12/2002,harrisonburg,harrisonburg1,"Harrisonburg, Page County, Virginia",38.449569,-78.868916,404,4,12,2002,USC00442663,0,206,-11,97.5
+702,4/13/2002,harrisonburg,harrisonburg7,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,13,2002,USC00442208,38,172,61,116.5
+703,4/13/2002,harrisonburg,harrisonburg7,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,13,2002,USC00448062,8,167,78,122.5
+704,4/13/2002,harrisonburg,harrisonburg7,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,13,2002,USC00448941,0,150,94,122
+705,4/13/2002,harrisonburg,harrisonburg7,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,13,2002,USC00443213,8,#N/A,#N/A,#N/A
+706,4/13/2002,harrisonburg,harrisonburg7,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,13,2002,USC00440720,20,150,100,125
+707,4/13/2002,harrisonburg,harrisonburg7,"Harrisonburg, Rockingham County, Virginia",38.4333,-78.8667,301,4,13,2002,USC00442663,8,178,39,108.5
+708,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USW00013750,0,222,94,158
+709,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USC00446147,0,222,61,141.5
+710,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USW00013737,0,233,83,158
+711,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USC00443713,0,217,89,153
+712,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USW00013769,0,217,67,142
+713,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USW00093741,0,217,72,144.5
+714,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USC00448192,0,222,72,147
+715,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USR0000VGDR,#N/A,228,44,136
+716,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USR0000VBAC,#N/A,194,67,130.5
+717,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USC00448837,0,#N/A,#N/A,#N/A
+718,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USC00440385,0,206,61,133.5
+719,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USC00444044,0,178,56,117
+720,3/25/2004,norfolk,norfolk7,"Norfolk City, N/A, Virginia",36.883707,-76.306397,301,3,25,2004,USW00003739,0,177,74,125.5
+721,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAIW0002,0,#N/A,#N/A,#N/A
+722,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAPRC002,0,#N/A,#N/A,#N/A
+723,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAIW0001,0,#N/A,#N/A,#N/A
+724,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VASFC005,0,#N/A,#N/A,#N/A
+725,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USW00013769,0,272,78,175
+726,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USC00444044,0,278,156,217
+727,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAPRC003,#N/A,#N/A,#N/A,#N/A
+728,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USC00448837,0,278,144,211
+729,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USW00013762,0,#N/A,#N/A,#N/A
+730,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USW00013737,0,261,72,166.5
+731,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAVBC001,0,#N/A,#N/A,#N/A
+732,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VANNC004,0,#N/A,#N/A,#N/A
+733,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USC00448192,0,272,117,194.5
+734,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VASFC001,0,#N/A,#N/A,#N/A
+735,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USR0000VGDR,#N/A,283,106,194.5
+736,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAHMC004,0,#N/A,#N/A,#N/A
+737,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAHMC007,0,#N/A,#N/A,#N/A
+738,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USC00443713,0,272,161,216.5
+739,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAPQC001,0,#N/A,#N/A,#N/A
+740,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAHMC006,0,#N/A,#N/A,#N/A
+741,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VANRC001,#N/A,#N/A,#N/A,#N/A
+742,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USW00013750,0,272,72,172
+743,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VANNC003,0,#N/A,#N/A,#N/A
+744,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAST0001,0,#N/A,#N/A,#N/A
+745,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAYR0001,0,#N/A,#N/A,#N/A
+746,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USW00093773,0,283,78,180.5
+747,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USC00446147,0,267,83,175
+748,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USW00093741,0,283,106,194.5
+749,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAVBC005,#N/A,#N/A,#N/A,#N/A
+750,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAHMC005,#N/A,#N/A,#N/A,#N/A
+751,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,USC00448800,0,283,72,177.5
+752,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAVBC004,0,#N/A,#N/A,#N/A
+753,3/9/2009,suffolkcity,suffolkcity2,"Suffolk City, N/A, Virginia",36.73283,-76.579002,31,3,9,2009,US1VAVBC002,#N/A,#N/A,#N/A,#N/A
+754,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VABD0003,0,#N/A,#N/A,#N/A
+755,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00187330,#N/A,#N/A,#N/A,#N/A
+756,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VAAC0007,25,#N/A,#N/A,#N/A
+757,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USW00093739,0,144,50,97
+758,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VAAC0006,18,#N/A,#N/A,#N/A
+759,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USR0000VCHI,#N/A,144,56,100
+760,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VAAC0008,5,#N/A,#N/A,#N/A
+761,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00446475,15,144,50,97
+762,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1MDSS0001,15,#N/A,#N/A,#N/A
+763,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00180335,10,150,50,100
+764,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USR0000MASS,#N/A,150,50,100
+765,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00187330,#N/A,#N/A,#N/A,#N/A
+766,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00446593,5,117,22,69.5
+767,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1MDWC0009,#N/A,#N/A,#N/A,#N/A
+768,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VABD0013,#N/A,#N/A,#N/A,#N/A
+769,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VAAC0007,25,#N/A,#N/A,#N/A
+770,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VABD0006,0,#N/A,#N/A,#N/A
+771,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00188380,8,144,33,88.5
+772,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00444148,0,#N/A,#N/A,#N/A
+773,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USW00093739,0,144,50,97
+774,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VACM0005,0,#N/A,#N/A,#N/A
+775,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VACM0003,0,#N/A,#N/A,#N/A
+776,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VAFR0006,0,#N/A,#N/A,#N/A
+777,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00440561,8,#N/A,#N/A,#N/A
+778,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00441955,0,#N/A,#N/A,#N/A
+779,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VABD0008,#N/A,#N/A,#N/A,#N/A
+780,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1MDWC0002,38,#N/A,#N/A,#N/A
+781,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00440243,0,139,22,80.5
+782,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00444039,46,#N/A,#N/A,#N/A
+783,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,US1VAFR0014,#N/A,#N/A,#N/A,#N/A
+784,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00443375,0,117,11,64
+785,4/3/2011,accomac,accomac,"Accomac, Accomack County, Virginia",37.807972,-75.594222,301,4,3,2011,USC00446475,15,144,50,97
+786,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VABD0003,0,#N/A,#N/A,#N/A
+787,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00187330,#N/A,#N/A,#N/A,#N/A
+788,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VAAC0007,25,#N/A,#N/A,#N/A
+789,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USW00093739,0,144,50,97
+790,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VAAC0006,18,#N/A,#N/A,#N/A
+791,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USR0000VCHI,#N/A,144,56,100
+792,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VAAC0008,5,#N/A,#N/A,#N/A
+793,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00446475,15,144,50,97
+794,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1MDSS0001,15,#N/A,#N/A,#N/A
+795,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00180335,10,150,50,100
+796,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USR0000MASS,#N/A,150,50,100
+797,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00187330,#N/A,#N/A,#N/A,#N/A
+798,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00446593,5,117,22,69.5
+799,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1MDWC0009,#N/A,#N/A,#N/A,#N/A
+800,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VABD0013,#N/A,#N/A,#N/A,#N/A
+801,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VAAC0007,25,#N/A,#N/A,#N/A
+802,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VABD0006,0,#N/A,#N/A,#N/A
+803,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00188380,8,144,33,88.5
+804,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00444148,0,#N/A,#N/A,#N/A
+805,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USW00093739,0,144,50,97
+806,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VACM0005,0,#N/A,#N/A,#N/A
+807,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VACM0003,0,#N/A,#N/A,#N/A
+808,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VAFR0006,0,#N/A,#N/A,#N/A
+809,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00440561,8,#N/A,#N/A,#N/A
+810,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00441955,0,#N/A,#N/A,#N/A
+811,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VABD0008,#N/A,#N/A,#N/A,#N/A
+812,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1MDWC0002,38,#N/A,#N/A,#N/A
+813,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00440243,0,139,22,80.5
+814,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00444039,46,#N/A,#N/A,#N/A
+815,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,US1VAFR0014,#N/A,#N/A,#N/A,#N/A
+816,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00443375,0,117,11,64
+817,4/3/2011,lynchburg,lynchburg4,"Lynchburg, Accomack County, Virginia",37.9436527,-75.540227,301,4,3,2011,USC00446475,15,144,50,97
+818,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VAFD0002,5,#N/A,#N/A,#N/A
+819,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00445851,28,156,44,100
+820,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00444909,168,267,67,167
+821,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VAFD0001,20,#N/A,#N/A,#N/A
+822,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VACK0001,69,#N/A,#N/A,#N/A
+823,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USR0000VFVA,#N/A,200,44,122
+824,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VACK0002,0,#N/A,#N/A,#N/A
+825,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VAFD0005,3,#N/A,#N/A,#N/A
+826,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VASH0002,10,#N/A,#N/A,#N/A
+827,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VALD0014,36,#N/A,#N/A,#N/A
+828,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00449186,#N/A,#N/A,#N/A,#N/A
+829,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00445096,0,150,11,80.5
+830,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VARP0004,5,#N/A,#N/A,#N/A
+831,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00448084,33,150,67,108.5
+832,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00443229,33,156,56,106
+833,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00447985,33,167,67,117
+834,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,USC00440720,838,89,-6,41.5
+835,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VAFX0001,64,#N/A,#N/A,#N/A
+836,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1VAFQ0011,48,#N/A,#N/A,#N/A
+837,5/5/2011,winchester,winchester4,"Winchester, Shenandoah County, Virginia",38.8719,-78.5769,301,5,5,2011,US1MDFR0004,51,#N/A,#N/A,#N/A

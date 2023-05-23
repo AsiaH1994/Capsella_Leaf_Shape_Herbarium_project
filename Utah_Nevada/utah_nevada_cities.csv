@@ -1,0 +1,24 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+fallon,fallon,Churchill County_Nevada_Fallon,39.476245,-118.800248,1207,April,20,1978
+welcome,welcome,Elko County_Nevada_Welcome,41.05,-115.1833,1733,May,23,1941
+eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,June,14,2019
+eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,May,24,1995
+eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,May,24,1995
+herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,May,6,1995
+millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,April,13,1967
+moab,moab,"Moab, Grand County, Utah",38.543284,-109.132788,2541.44,September,14,1986
+murray,murray,"Murray, Salt Lake County, Utah",40.666892,-111.887991,4352,May,25,1917
+northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,May,22,1964
+northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,April,18,1998
+pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,April,14,2005
+cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,May,7,1967
+provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,June,13,1967
+provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,April,21,1966
+provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,April,28,1938
+saltlakecity,saltlakecity1,"Salt Lake City, Salt Lake County, Utah",40.760779,-111.891047,1307.2,June,10,1880
+saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,May,6,1995
+saltlakecity,saltlakecity3,"Salt Lake City, Salt Lake County, Utah",40.760779,-111.891047,1307.2,June,10,1880
+saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,May,4,1995
+springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,June,24,2020
+springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,May,22,1932
+tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,May,12,1979

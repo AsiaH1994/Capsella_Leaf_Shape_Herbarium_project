@@ -1,0 +1,470 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,tmax,tmin,prcp,tavg
+1,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00428674,144,6,89,75
+2,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00428119,233,11,89,122
+3,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00427686,167,6,130,86.5
+4,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00425219,100,22,10,61
+5,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00428973,206,22,33,114
+6,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00426724,#N/A,#N/A,23,#N/A
+7,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00423809,128,6,41,67
+8,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00427909,156,11,58,83.5
+9,5/22/1932,springville,springville2,"Springville, Utah County, Utah",40.165234,-111.610753,6287,5,22,1932,11/30/1931,USC00420061,#N/A,#N/A,20,#N/A
+10,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00428119,267,44,0,155.5
+11,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00425219,244,83,0,163.5
+12,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00428973,239,11,0,125
+13,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00426724,#N/A,#N/A,0,#N/A
+14,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00420061,#N/A,#N/A,0,#N/A
+15,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00428674,244,-28,0,108
+16,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00423809,222,-22,0,100
+17,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00428369,#N/A,#N/A,0,#N/A
+18,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00427686,256,39,0,147.5
+19,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00427909,206,-17,0,94.5
+20,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00422418,272,0,0,136
+21,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00427846,133,-56,#N/A,38.5
+22,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00421759,#N/A,#N/A,0,#N/A
+23,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00420716,#N/A,#N/A,0,#N/A
+24,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00425610,267,33,0,150
+25,4/28/1938,provo,provo3,"Provo, Utah County, Utah",40.250851,-111.649281,1368,4,28,1938,10/31/1937,USC00426648,211,11,0,111
+26,5/23/1941,welcome,welcome,Elko County_Nevada_Welcome,41.05,-115.1833,1733,5,23,1941,11/30/1940,USC00268988,239,44,147,141.5
+27,5/23/1941,welcome,welcome,Elko County_Nevada_Welcome,41.05,-115.1833,1733,5,23,1941,11/30/1940,USC00267397,244,72,0,158
+28,5/23/1941,welcome,welcome,Elko County_Nevada_Welcome,41.05,-115.1833,1733,5,23,1941,11/30/1940,USC00261740,244,100,0,172
+29,5/23/1941,welcome,welcome,Elko County_Nevada_Welcome,41.05,-115.1833,1733,5,23,1941,11/30/1940,USC00260438,#N/A,#N/A,0,#N/A
+30,5/23/1941,welcome,welcome,Elko County_Nevada_Welcome,41.05,-115.1833,1733,5,23,1941,11/30/1940,USC00264824,239,61,0,150
+31,5/23/1941,welcome,welcome,Elko County_Nevada_Welcome,41.05,-115.1833,1733,5,23,1941,11/30/1940,USC00264395,289,56,0,172.5
+32,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00424856,239,50,0,144.5
+33,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00423122,283,106,0,194.5
+34,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00421731,222,106,0,164
+35,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00420924,272,144,0,208
+36,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00425186,267,111,0,189
+37,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00425190,250,94,0,172
+38,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00425182,256,106,0,181
+39,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00427271,244,94,0,169
+40,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00425082,267,94,0,180.5
+41,5/22/1964,northlogan,northlogan1,"North Logan, Cache County, Utah",41.769375,-111.804665,4251,5,22,1964,11/30/1963,USC00423671,228,28,0,128
+42,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00427068,83,-11,0,36
+43,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00423183,167,28,0,97.5
+44,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00426919,167,0,0,83.5
+45,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00420449,#N/A,#N/A,0,#N/A
+46,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00421685,#N/A,#N/A,0,#N/A
+47,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00428119,156,-11,0,72.5
+48,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00422057,61,-61,0,0
+49,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00428733,122,11,0,66.5
+50,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00428939,#N/A,#N/A,0,#N/A
+51,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00428973,144,-11,0,66.5
+52,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00426724,#N/A,#N/A,0,#N/A
+53,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00420061,#N/A,#N/A,0,#N/A
+54,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00423809,128,-50,0,39
+55,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00422696,#N/A,#N/A,0,#N/A
+56,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00427686,133,-17,0,58
+57,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00422233,144,28,0,86
+58,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00427909,117,-44,0,36.5
+59,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00422418,156,-6,0,75
+60,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00420072,#N/A,#N/A,0,#N/A
+61,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00427343,139,17,0,78
+62,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00427846,56,-83,0,-13.5
+63,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00428370,28,-83,0,-27.5
+64,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00421759,128,11,0,69.5
+65,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00420716,133,-94,0,19.5
+66,4/21/1966,provo,provo2,"Provo, Utah County, Utah",40.250813,-111.64935,301,4,21,1966,10/31/1965,USC00425610,#N/A,#N/A,0,#N/A
+67,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00421446,#N/A,#N/A,0,#N/A
+68,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00422233,139,28,0,83.5
+69,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00427578,89,39,107,64
+70,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00427846,39,-67,0,-14
+71,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00427343,139,6,5,72.5
+72,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00420072,11,-44,56,-16.5
+73,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00428733,117,6,28,61.5
+74,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00428939,#N/A,#N/A,25,#N/A
+75,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00420699,106,6,13,56
+76,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00422294,#N/A,#N/A,10,#N/A
+77,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00427909,117,-22,0,47.5
+78,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00428973,139,22,13,80.5
+79,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00426919,150,28,23,89
+80,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00420194,156,0,0,78
+81,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00422726,139,28,0,83.5
+82,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00429165,106,-11,0,47.5
+83,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00422057,72,0,5,36
+84,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00420061,#N/A,#N/A,0,#N/A
+85,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00423097,89,44,86,66.5
+86,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00425826,122,-6,0,58
+87,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00423183,144,39,0,91.5
+88,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USW00024120,128,0,0,64
+89,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00422385,111,-11,0,50
+90,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00429346,#N/A,#N/A,3,#N/A
+91,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00421685,#N/A,#N/A,0,#N/A
+92,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USW00024101,111,28,0,69.5
+93,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00423809,122,0,0,61
+94,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00428771,128,6,5,67
+95,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00427608,144,39,0,91.5
+96,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00421759,139,17,0,78
+97,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00428922,106,11,0,58.5
+98,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00425610,#N/A,#N/A,0,#N/A
+99,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USW00024127,150,28,0,89
+100,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00425892,128,-28,0,50
+101,4/13/1967,millcreek,millcreek,"Millcreek, Salt Lake County, Utah",40.680199,-111.859254,1337.6,4,13,1967,10/31/1966,USC00428631,#N/A,#N/A,0,#N/A
+102,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00425186,167,61,0,114
+103,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00425182,200,56,0,128
+104,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00425190,206,72,0,139
+105,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00423671,189,17,0,103
+106,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00427271,206,72,0,139
+107,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00423122,167,39,0,103
+108,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00420924,233,72,0,152.5
+109,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00425082,167,50,0,108.5
+110,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00424856,178,39,0,108.5
+111,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00420506,217,72,0,144.5
+112,5/7/1967,cache,cache,"Providence, Cache County, Utah",41.693452,-111.797191,1428.8,5,7,1967,11/30/1966,USC00426869,194,-22,0,86
+113,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00427068,156,61,81,108.5
+114,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00423183,167,100,117,133.5
+115,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00426919,167,67,66,117
+116,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00420449,#N/A,#N/A,137,#N/A
+117,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00421685,#N/A,#N/A,150,#N/A
+118,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00428119,156,89,157,122.5
+119,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00422057,161,61,107,111
+120,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00428733,128,78,132,103
+121,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00428939,#N/A,#N/A,193,#N/A
+122,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00428973,150,89,99,119.5
+123,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00426724,#N/A,#N/A,89,#N/A
+124,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00420061,#N/A,#N/A,71,#N/A
+125,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00423809,128,44,145,86
+126,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00422696,144,72,185,108
+127,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00427686,189,56,168,122.5
+128,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00422233,189,78,66,133.5
+129,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00427909,150,39,137,94.5
+130,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00422418,200,39,152,119.5
+131,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00427343,167,83,97,125
+132,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00427846,56,0,157,28
+133,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00428370,144,-17,102,63.5
+134,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00421759,161,61,109,111
+135,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00420716,133,39,64,86
+136,6/13/1967,provo,provo1,"Provo, Utah County, Utah",40.238632,-111.704036,969,6,13,1967,12/31/1966,USC00425610,#N/A,#N/A,74,#N/A
+137,4/20/1978,fallon,fallon,Churchill County_Nevada_Fallon,39.476245,-118.800248,1207,4,20,1978,10/31/1977,USC00262780,128,-6,0,61
+138,4/20/1978,fallon,fallon,Churchill County_Nevada_Fallon,39.476245,-118.800248,1207,4,20,1978,10/31/1977,USW00093102,150,39,0,94.5
+139,4/20/1978,fallon,fallon,Churchill County_Nevada_Fallon,39.476245,-118.800248,1207,4,20,1978,10/31/1977,USC00264349,206,17,0,111.5
+140,4/20/1978,fallon,fallon,Churchill County_Nevada_Fallon,39.476245,-118.800248,1207,4,20,1978,10/31/1977,USC00268838,133,-11,0,61
+141,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00423348,#N/A,#N/A,0,#N/A
+142,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00421149,217,-11,0,103
+143,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00424362,189,17,0,103
+144,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00428771,206,67,0,136.5
+145,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00420700,178,44,0,111
+146,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00423097,161,83,0,122
+147,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00422257,217,28,0,122.5
+148,5/12/1979,tooele,tooele,"Tooele, Tooele County, Utah",40.5167,-112.6167,1915.2,5,12,1979,11/30/1978,USC00429133,194,-17,0,88.5
+149,9/14/1986,moab,moab,"Moab, Grand County, Utah",38.543284,-109.132788,2541.44,9,14,1986,3/31/1986,USS0009L03S,#N/A,#N/A,0,#N/A
+150,9/14/1986,moab,moab,"Moab, Grand County, Utah",38.543284,-109.132788,2541.44,9,14,1986,3/31/1986,USC00421241,278,56,0,167
+151,9/14/1986,moab,moab,"Moab, Grand County, Utah",38.543284,-109.132788,2541.44,9,14,1986,3/31/1986,USC00424947,217,78,0,147.5
+152,9/14/1986,moab,moab,"Moab, Grand County, Utah",38.543284,-109.132788,2541.44,9,14,1986,3/31/1986,USC00422150,294,72,0,183
+153,9/14/1986,moab,moab,"Moab, Grand County, Utah",38.543284,-109.132788,2541.44,9,14,1986,3/31/1986,USC00425733,311,133,0,222
+154,9/14/1986,moab,moab,"Moab, Grand County, Utah",38.543284,-109.132788,2541.44,9,14,1986,3/31/1986,USC00420336,278,194,0,236
+155,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00427655,211,50,0,130.5
+156,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00421446,#N/A,#N/A,0,#N/A
+157,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USW00024127,217,61,0,139
+158,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USR0000ENSI,178,84,#N/A,131
+159,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00420820,144,61,0,102.5
+160,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00421759,211,83,0,147
+161,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J37S,#N/A,#N/A,0,#N/A
+162,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00427606,217,78,0,147.5
+163,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J65S,#N/A,#N/A,0,#N/A
+164,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00420072,106,-33,0,36.5
+165,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00423097,222,94,0,158
+166,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J11S,#N/A,#N/A,25,#N/A
+167,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J42S,#N/A,#N/A,76,#N/A
+168,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00426644,133,-6,0,63.5
+169,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J56S,#N/A,#N/A,25,#N/A
+170,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00427942,156,-6,20,75
+171,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00422235,211,28,0,119.5
+172,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00427846,72,-50,0,11
+173,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00420819,206,56,0,131
+174,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0012J09S,#N/A,#N/A,0,#N/A
+175,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J57S,#N/A,#N/A,25,#N/A
+176,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00425826,200,6,0,103
+177,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00420061,206,17,0,111.5
+178,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J64S,#N/A,#N/A,25,#N/A
+179,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00429346,#N/A,#N/A,0,#N/A
+180,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USW00024120,189,-22,0,83.5
+181,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J52S,#N/A,#N/A,0,#N/A
+182,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00427909,161,-22,5,69.5
+183,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00422726,211,50,0,130.5
+184,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00429165,172,-33,23,69.5
+185,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00428733,183,22,0,102.5
+186,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0011J21S,#N/A,#N/A,51,#N/A
+187,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USR0000BUES,#N/A,#N/A,#N/A,#N/A
+188,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00426919,211,39,0,125
+189,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00422385,167,-22,0,72.5
+190,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00422696,206,0,0,103
+191,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USS0012J06S,#N/A,#N/A,0,#N/A
+192,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00428771,206,17,0,111.5
+193,5/4/1995,saltlakecity,saltlakecity4,"Salt Lake City, Salt Lake County, Utah",40.762113,-111.824769,1532.16,5,4,1995,11/30/1994,USC00423809,178,-11,0,83.5
+194,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00422235,150,50,91,100
+195,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0012J06S,#N/A,#N/A,203,#N/A
+196,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00428771,139,6,3,72.5
+197,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0012J09S,#N/A,#N/A,0,#N/A
+198,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J42S,#N/A,#N/A,178,#N/A
+199,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00426919,133,33,94,83
+200,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00421446,#N/A,#N/A,0,#N/A
+201,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420072,17,-39,135,-11
+202,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420820,183,56,38,119.5
+203,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J65S,#N/A,#N/A,102,#N/A
+204,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J21S,#N/A,#N/A,229,#N/A
+205,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00426538,#N/A,#N/A,25,#N/A
+206,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427846,67,-39,152,14
+207,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J57S,#N/A,#N/A,152,#N/A
+208,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420819,144,39,38,91.5
+209,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00426455,139,33,89,86
+210,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J52S,#N/A,#N/A,51,#N/A
+211,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J64S,#N/A,#N/A,25,#N/A
+212,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J56S,#N/A,#N/A,0,#N/A
+213,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J37S,#N/A,#N/A,102,#N/A
+214,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427909,117,0,157,58.5
+215,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00422057,172,6,211,89
+216,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427942,94,-44,20,25
+217,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0012J07S,#N/A,#N/A,102,#N/A
+218,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427064,139,50,33,94.5
+219,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00426644,67,-11,64,28
+220,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427655,150,33,5,91.5
+221,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00421446,#N/A,#N/A,0,#N/A
+222,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USW00024127,150,61,0,105.5
+223,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USR0000ENSI,108,26,#N/A,67
+224,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420820,183,56,38,119.5
+225,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00421759,133,44,23,88.5
+226,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J37S,#N/A,#N/A,102,#N/A
+227,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427606,150,56,20,103
+228,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J65S,#N/A,#N/A,102,#N/A
+229,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00423097,161,67,20,114
+230,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00421759,133,44,23,88.5
+231,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420061,128,33,130,80.5
+232,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USW00024127,150,61,0,105.5
+233,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427606,150,56,20,103
+234,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427655,150,33,5,91.5
+235,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USR0000ENSI,108,26,#N/A,67
+236,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00428733,106,6,305,56
+237,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00422696,144,39,8,91.5
+238,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420819,144,39,38,91.5
+239,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0012J09S,#N/A,#N/A,0,#N/A
+240,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J57S,#N/A,#N/A,152,#N/A
+241,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00425826,189,17,3,103
+242,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420061,128,33,130,80.5
+243,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J64S,#N/A,#N/A,25,#N/A
+244,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00429346,#N/A,#N/A,48,#N/A
+245,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USW00024120,128,28,28,78
+246,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J52S,#N/A,#N/A,51,#N/A
+247,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427909,117,0,157,58.5
+248,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00422726,144,28,23,86
+249,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00429165,150,-28,20,61
+250,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00428733,106,6,305,56
+251,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J21S,#N/A,#N/A,229,#N/A
+252,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USR0000BUES,#N/A,#N/A,#N/A,#N/A
+253,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00426919,133,33,94,83
+254,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00422385,111,28,10,69.5
+255,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00422696,144,39,8,91.5
+256,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0012J06S,#N/A,#N/A,203,#N/A
+257,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00428771,139,6,3,72.5
+258,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00423809,117,11,53,64
+259,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J42S,#N/A,#N/A,178,#N/A
+260,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00426644,67,-11,64,28
+261,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J56S,#N/A,#N/A,0,#N/A
+262,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427942,94,-44,20,25
+263,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00422235,150,50,91,100
+264,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00427846,67,-39,152,14
+265,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00420072,17,-39,135,-11
+266,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USC00423097,161,67,20,114
+267,5/6/1995,herriman,herriman,"Herriman, Salt Lake County, Utah",40.544199,-112.053113,1532.16,5,6,1995,11/30/1994,USS0011J11S,#N/A,#N/A,152,#N/A
+268,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00422235,150,50,91,100
+269,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0012J06S,#N/A,#N/A,203,#N/A
+270,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00428771,139,6,3,72.5
+271,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0012J09S,#N/A,#N/A,0,#N/A
+272,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J42S,#N/A,#N/A,178,#N/A
+273,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00426919,133,33,94,83
+274,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00421446,#N/A,#N/A,0,#N/A
+275,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420072,17,-39,135,-11
+276,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420820,183,56,38,119.5
+277,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J65S,#N/A,#N/A,102,#N/A
+278,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J21S,#N/A,#N/A,229,#N/A
+279,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00426538,#N/A,#N/A,25,#N/A
+280,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427846,67,-39,152,14
+281,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J57S,#N/A,#N/A,152,#N/A
+282,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420819,144,39,38,91.5
+283,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00426455,139,33,89,86
+284,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J52S,#N/A,#N/A,51,#N/A
+285,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J64S,#N/A,#N/A,25,#N/A
+286,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J56S,#N/A,#N/A,0,#N/A
+287,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J37S,#N/A,#N/A,102,#N/A
+288,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427909,117,0,157,58.5
+289,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00422057,172,6,211,89
+290,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427942,94,-44,20,25
+291,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0012J07S,#N/A,#N/A,102,#N/A
+292,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427064,139,50,33,94.5
+293,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00426644,67,-11,64,28
+294,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427655,150,33,5,91.5
+295,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00421446,#N/A,#N/A,0,#N/A
+296,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USW00024127,150,61,0,105.5
+297,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USR0000ENSI,108,26,#N/A,67
+298,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420820,183,56,38,119.5
+299,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00421759,133,44,23,88.5
+300,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J37S,#N/A,#N/A,102,#N/A
+301,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427606,150,56,20,103
+302,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J65S,#N/A,#N/A,102,#N/A
+303,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00423097,161,67,20,114
+304,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00421759,133,44,23,88.5
+305,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420061,128,33,130,80.5
+306,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USW00024127,150,61,0,105.5
+307,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427606,150,56,20,103
+308,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427655,150,33,5,91.5
+309,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USR0000ENSI,108,26,#N/A,67
+310,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00428733,106,6,305,56
+311,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00422696,144,39,8,91.5
+312,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420819,144,39,38,91.5
+313,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0012J09S,#N/A,#N/A,0,#N/A
+314,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J57S,#N/A,#N/A,152,#N/A
+315,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00425826,189,17,3,103
+316,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420061,128,33,130,80.5
+317,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J64S,#N/A,#N/A,25,#N/A
+318,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00429346,#N/A,#N/A,48,#N/A
+319,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USW00024120,128,28,28,78
+320,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J52S,#N/A,#N/A,51,#N/A
+321,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427909,117,0,157,58.5
+322,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00422726,144,28,23,86
+323,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00429165,150,-28,20,61
+324,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00428733,106,6,305,56
+325,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J21S,#N/A,#N/A,229,#N/A
+326,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USR0000BUES,#N/A,#N/A,#N/A,#N/A
+327,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00426919,133,33,94,83
+328,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00422385,111,28,10,69.5
+329,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00422696,144,39,8,91.5
+330,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0012J06S,#N/A,#N/A,203,#N/A
+331,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00428771,139,6,3,72.5
+332,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00423809,117,11,53,64
+333,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J42S,#N/A,#N/A,178,#N/A
+334,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00426644,67,-11,64,28
+335,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J56S,#N/A,#N/A,0,#N/A
+336,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427942,94,-44,20,25
+337,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00422235,150,50,91,100
+338,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00427846,67,-39,152,14
+339,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00420072,17,-39,135,-11
+340,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USC00423097,161,67,20,114
+341,5/6/1995,saltlakecity,saltlakecity2,"Salt Lake City, Salt Lake County, Utah",40.674854,-112.09187,1425.76,5,6,1995,11/30/1994,USS0011J11S,#N/A,#N/A,152,#N/A
+342,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000VERN,167,67,#N/A,117
+343,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000SIMP,178,78,#N/A,128
+344,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USS0012K01S,#N/A,#N/A,152,#N/A
+345,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000MUDS,161,56,#N/A,108.5
+346,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00429133,172,61,86,116.5
+347,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00422257,217,89,58,153
+348,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00425138,239,78,30,158.5
+349,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000CEDM,156,67,#N/A,111.5
+350,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00424362,133,56,213,94.5
+351,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USS0012K01S,#N/A,#N/A,152,#N/A
+352,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000MUDS,161,56,#N/A,108.5
+353,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00429133,172,61,86,116.5
+354,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00422257,217,89,58,153
+355,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00425138,239,78,30,158.5
+356,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000CEDM,156,67,#N/A,111.5
+357,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00424362,133,56,213,94.5
+358,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000VERN,167,67,#N/A,117
+359,5/24/1995,eureka,eureka2,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000SIMP,178,78,#N/A,128
+360,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000VERN,167,67,#N/A,117
+361,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000SIMP,178,78,#N/A,128
+362,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USS0012K01S,#N/A,#N/A,152,#N/A
+363,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000MUDS,161,56,#N/A,108.5
+364,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00429133,172,61,86,116.5
+365,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00422257,217,89,58,153
+366,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00425138,239,78,30,158.5
+367,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000CEDM,156,67,#N/A,111.5
+368,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00424362,133,56,213,94.5
+369,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USS0012K01S,#N/A,#N/A,152,#N/A
+370,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000MUDS,161,56,#N/A,108.5
+371,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00429133,172,61,86,116.5
+372,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00422257,217,89,58,153
+373,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00425138,239,78,30,158.5
+374,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000CEDM,156,67,#N/A,111.5
+375,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USC00424362,133,56,213,94.5
+376,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000VERN,167,67,#N/A,117
+377,5/24/1995,eureka,eureka3,"Eureka, Toole County, Utah",40.019617,-112.41202,1813.968,5,24,1995,11/30/1994,USR0000SIMP,178,78,#N/A,128
+378,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00425186,78,-28,13,25
+379,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00425182,83,-33,0,25
+380,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00425194,89,-28,13,30.5
+381,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00427271,122,-50,8,36
+382,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USS0011H36S,#N/A,#N/A,0,#N/A
+383,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00428828,89,-39,0,25
+384,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00428817,150,-11,3,69.5
+385,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00426938,#N/A,#N/A,0,#N/A
+386,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00420928,106,-6,0,50
+387,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USS0011H37S,81,-106,25,-12.5
+388,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00421731,111,28,0,69.5
+389,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USS0011H25S,#N/A,#N/A,25,#N/A
+390,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00424856,117,-44,0,36.5
+391,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USC00420487,72,-67,#N/A,2.5
+392,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USS0011H57S,#N/A,#N/A,0,#N/A
+393,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USS0011H55S,33,-105,0,-36
+394,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USS0011H08S,58,-80,51,-11
+395,4/18/1998,northlogan,northlogan2,"North Logan, Cache County, Utah",41.75,-111.78333,1459.2,4,18,1998,10/31/1997,USS0011H30S,#N/A,#N/A,0,#N/A
+396,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00426919,228,0,0,114
+397,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USR0000PLGV,106,11,#N/A,58.5
+398,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00428733,133,0,0,66.5
+399,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00420061,111,11,0,61
+400,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J21S,#N/A,#N/A,0,#N/A
+401,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00426538,228,33,0,130.5
+402,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00428465,122,-22,0,50
+403,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00422235,233,0,0,116.5
+404,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J70S,40,-40,0,0
+405,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00427064,211,22,0,116.5
+406,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00422057,206,-17,0,94.5
+407,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J42S,1,-74,0,-36.5
+408,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00420072,111,-33,0,39
+409,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00421759,222,6,0,114
+410,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00427909,106,-33,0,36.5
+411,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00427846,100,28,0,64
+412,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J57S,#N/A,#N/A,0,#N/A
+413,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00423809,200,0,0,100
+414,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J65S,12,-65,0,-26.5
+415,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00422696,100,-33,0,33.5
+416,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J56S,28,-78,0,-25
+417,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00426644,128,-33,0,47.5
+418,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00428119,233,0,0,116.5
+419,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00427942,#N/A,#N/A,0,#N/A
+420,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00425892,#N/A,#N/A,0,#N/A
+421,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0012J09S,43,-48,0,-2.5
+422,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0012J06S,28,-72,0,-22
+423,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J52S,56,-47,0,4.5
+424,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J23S,60,-43,0,8.5
+425,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00427606,#N/A,#N/A,0,#N/A
+426,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USW00024127,100,11,0,55.5
+427,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00421446,217,-28,0,94.5
+428,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00427686,228,-28,0,100
+429,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USS0011J69S,#N/A,#N/A,0,#N/A
+430,4/14/2005,pleasantgrove,pleasantgrove,"Pleasant Grove, Utah County, Utah",40.390555,-111.756388,1388.064,4,14,2005,10/31/2004,USC00424467,172,-44,0,64
+431,6/14/2019,eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,6,14,2019,12/31/2018,USR0000VERN,256,100,#N/A,178
+432,6/14/2019,eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,6,14,2019,12/31/2018,USS0012K01S,198,67,0,132.5
+433,6/14/2019,eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,6,14,2019,12/31/2018,USR0000MUDS,239,100,#N/A,169.5
+434,6/14/2019,eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,6,14,2019,12/31/2018,USC00429133,289,100,8,194.5
+435,6/14/2019,eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,6,14,2019,12/31/2018,USC00425138,322,128,0,225
+436,6/14/2019,eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,6,14,2019,12/31/2018,USR0000CEDM,283,100,#N/A,191.5
+437,6/14/2019,eureka,eureka1,"Eureka, Toole County, Utah",39.93216,-112.71838,1981,6,14,2019,12/31/2018,US1UTTL0008,#N/A,#N/A,13,#N/A
+438,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011J70S,248,150,0,199
+439,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011J23S,244,72,0,158
+440,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011J22S,267,108,0,187.5
+441,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00428119,350,133,0,241.5
+442,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00426919,367,156,0,261.5
+443,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00427064,356,144,0,250
+444,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011K52S,249,104,0,176.5
+445,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00427686,306,128,0,217
+446,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USR0000RAYS,278,100,#N/A,189
+447,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTUT0032,#N/A,#N/A,#N/A,#N/A
+448,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00422057,289,72,0,180.5
+449,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00428973,328,94,0,211
+450,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTWS0006,#N/A,#N/A,0,#N/A
+451,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011K21S,225,94,0,159.5
+452,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011J08S,235,103,0,169
+453,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTUT0019,#N/A,#N/A,0,#N/A
+454,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011J21S,239,104,0,171.5
+455,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTWS0009,#N/A,#N/A,0,#N/A
+456,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0010K02S,247,93,0,170
+457,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00422696,322,56,0,189
+458,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTUT0024,#N/A,#N/A,0,#N/A
+459,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011K22S,260,67,0,163.5
+460,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTUT0034,#N/A,#N/A,0,#N/A
+461,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USR0000PLGV,344,189,#N/A,266.5
+462,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011J42S,214,121,0,167.5
+463,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTWS0008,#N/A,#N/A,0,#N/A
+464,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTSL0060,#N/A,#N/A,0,#N/A
+465,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00420072,228,78,0,153
+466,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USC00420061,328,117,0,222.5
+467,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USS0011J32S,247,34,0,140.5
+468,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,US1UTSL0025,#N/A,#N/A,0,#N/A
+469,6/24/2020,springville,springville1,"Springville, Utah County, Utah",40.1695,-111.36134,2404,6,24,2020,12/31/2019,USR0000HORR,256,139,#N/A,197.5

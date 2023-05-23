@@ -1,0 +1,42 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+albany,albany,"Albany, Green County, Wisconsin",42.707073,-89.436918,245,May,14,1965
+barron,barron,"Barron, Barron County, Wisconsin",45.401347,-91.849063,338,May,10,1888
+beloit,beloit,"Beloit, Rock County, Wisconsin",42.505,-89.0257,273,May,7,1932
+boscobel,boscobel,"Boscobel, Crawford County, Wisconsin",43.21265,-90.814551,969,May,26,1975
+brodhead,brodhead,"Brodhead, Rock County, Wisconsin",42.535823,-89.316819,969,May ,5,1964
+cornell,cornell,"Cornell, Chippewa County, Wisconsin",45.155688,-90.977541,969,July,25,1958
+dodgeville,dodgeville1,"Dodgeville, Iowa County, Wisconsin",43.03927,-90.025078,969,August,14,1970
+dodgeville,dodgeville2,"Dodgeville, Iowa County, Wisconsin",42.958,-90.1253,364,May,13,1958
+elkhom,elkhom,"Elkhorn, Walworth County, Wisconsin",42.72047,-88.454606,969,May,9,1938
+ithica,ithica,"Ithica, Richland County, WIsconsin",43.314811,-90.261808,239,April,27,1969
+jefferson,jefferson,"Jefferson, Jefferson County, Wisconsin",43.005558,-88.807327,244,May,13,1984
+lacrosse,lacrosse,"La Crosse, La Crosse County, Wisconsin",43.776118,-91.199417,969,June,14,1974
+lakemills,lakemills,"Lake Mills, Jeffferson County, Wisconsin",43.116944,-88.843574,969,June,5,1857
+madison,madison1,"Madison, Dane County, Wisconsin",43.046664,-89.400119,239,May,16,1978
+madison,madison2,"Madison, Dane County, Wisconsin",43.046664,-89.400119,239,May,16,1978
+madison,madison4,"Madison, Dane County, Wisconsin",43.073052,-89.40123,16732,May,25,1877
+madison,madison5,"Madison, Dane County, Wisconsin",43.0722,-89.4008,266,June,14,1881
+madison,madison6,"Madison, Dane County, Wisconsin",43.0722,-89.4008,266,May,26,1886
+madison,madison7,"Madison, Dane County, Wisconsin",43.073051,-89.40123,258,June,16,1953
+medford,medford,"Medford, Taylor County, Wisconsin",45.316493,-90.198283,969,July,26,1947
+newlondon,newlondon2,"New London, Outagamie County, Wisconsin",44.334705,-88.638162,2705,June,8,1955
+newlondon,newlondon1,"New London, Outgamie County, Wisconsin",44.279633,-88.70837,969,October,9,1977
+oshkosh,oshkosh,"Oshkosh, Winnebago County, Wisconsin",44.834164,-87.377042,178,May,20,1965
+riverfalls,riverfalls,"River Falls, Pierce County, Wisconsin",44.853522,-92.623439,84,May,5,1972
+rockcounty,rockcounty,"Rock County, Wisconsin",42.6252,89.0179,228,July,12,1889
+saukcity,saukcity1,"Sauk City, Sauk County, Wisconsin",43.199364,-89.94593,969,May,19,1960
+saukcity,saukcity2,"Sauk City, Sauk County, Wisconsin",43.2708,-89.7221,266,May,15,1937
+spirit,spirit,"Spirit, Price County, Wisconsin",45.404067,-90.156147,502,June,6,1947
+stevespoint,stevespoint,"Stevens Point, Portage County, Wisconsin",44.523579,-89.574563,6612,October,19,1981
+sturgeonbay,sturgeonbay,"Sturgeon Bay, Door County, Wisconsin",44.834164,-87.377042,178,October,3-Feb,1959
+tworivers,tworivers,"Two Rivers. Manitowoc County, Wisconsin",44.219011,-87.610158,969,September,27,1964
+union,union,"Union, Rock County, Wisconsin",43.682542,-90.263698,285,May,1,1961
+utica,utica,"Utica, Winnebago County, Wisconsin",43.96016,-88.654254,347,June,20,1956
+verona,verona,"Verona, Dane County, Wisconsin",42.923025,-89.828807,969,December,5,1998
+viroqua,viroqua,"Viroqua, Vernon County, Wisconsin",43.45883,-91.19771,969,May,30,1956
+waukesha,waukesha,"Waukesha, Waukesha County, Wisconsin",43.009976,-88.314851,969,June,10,1959
+waupan,waupan,"Waupan, Fond Du Lac County, Wisconsin",43.655001,-88.855447,969,June,6,1965
+wausau,wausau,"Wausau, Marathon County, Wisconsin",45.03956,-89.522753,969,July,18,1961
+wentbend,wentbend,"Went Bend, Waukesha County, Wisconsin",42.922825,-88.473756,969,May,10,1969
+wetboro,wetboro,"Westboro, Taylor County, Wisconsin",45.360796,-90.293396,449,July,18,1993
+wisconsinrapids,wisconsinrapids,"Wisconsin Rapids, Wood County, Wisconsin",43.7833,-88.85,301,June,3,1891
