@@ -1,0 +1,312 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,prcp,tmax,tmin,tavg
+1,4/3/1929,athens,athens2,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,3,1929,10/31/1928,USC00093712,0,#N/A,#N/A,#N/A
+2,4/3/1929,athens,athens2,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,3,1929,10/31/1928,USC00090430,0,228,100,164
+3,4/3/1929,athens,athens2,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,3,1929,10/31/1928,USC00091601,0,222,106,164
+4,4/3/1929,athens,athens2,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,3,1929,10/31/1928,USC00093899,0,233,94,163.5
+5,4/2/1936,rome,rome1,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,4,2,1936,10/31/1935,USC00097600,1069,178,67,122.5
+6,4/2/1936,rome,rome1,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,4,2,1936,10/31/1935,USC00097430,1250,#N/A,#N/A,#N/A
+7,4/3/1937,milledgeville,milledgeville,"Milledgeville, Baldwin County, Georgia",33.0801429,-83.232099,101,4,3,1937,10/31/1936,USC00095874,0,272,56,164
+8,4/3/1937,milledgeville,milledgeville,"Milledgeville, Baldwin County, Georgia",33.0801429,-83.232099,101,4,3,1937,10/31/1936,USC00098223,0,#N/A,#N/A,#N/A
+9,4/3/1937,milledgeville,milledgeville,"Milledgeville, Baldwin County, Georgia",33.0801429,-83.232099,101,4,3,1937,10/31/1936,USC00095447,0,256,94,175
+10,4/3/1937,milledgeville,milledgeville,"Milledgeville, Baldwin County, Georgia",33.0801429,-83.232099,101,4,3,1937,10/31/1936,USC00095438,0,#N/A,#N/A,#N/A
+11,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00097600,0,256,67,161.5
+12,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00091732,0,233,50,141.5
+13,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00090041,0,#N/A,#N/A,#N/A
+14,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00098600,0,#N/A,#N/A,#N/A
+15,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00098436,0,#N/A,#N/A,#N/A
+16,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00091670,0,#N/A,#N/A,#N/A
+17,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00097430,0,#N/A,#N/A,#N/A
+18,2/12/1938,rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,2,12,1938,8/31/1937,USC00093295,0,#N/A,#N/A,#N/A
+19,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00093836,201,156,117,136.5
+20,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00097808,191,150,117,133.5
+21,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00091340,140,156,117,136.5
+22,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090946,0,189,67,128
+23,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00013878,107,156,122,139
+24,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00094676,81,189,67,128
+25,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090441,0,#N/A,#N/A,#N/A
+26,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00096219,178,178,83,130.5
+27,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00092716,0,#N/A,#N/A,#N/A
+28,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00092716,0,#N/A,#N/A,#N/A
+29,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00093836,201,156,117,136.5
+30,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00097808,191,150,117,133.5
+31,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00091340,140,156,117,136.5
+32,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090946,0,189,67,128
+33,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00013878,107,156,122,139
+34,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00094676,81,189,67,128
+35,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090441,0,#N/A,#N/A,#N/A
+36,3/24/1958,darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00096219,178,178,83,130.5
+37,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00093836,201,156,117,136.5
+38,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00097808,191,150,117,133.5
+39,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00091340,140,156,117,136.5
+40,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090946,0,189,67,128
+41,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00013878,107,156,122,139
+42,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00094676,81,189,67,128
+43,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090441,0,#N/A,#N/A,#N/A
+44,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00096219,178,178,83,130.5
+45,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00092716,0,#N/A,#N/A,#N/A
+46,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00092716,0,#N/A,#N/A,#N/A
+47,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00093836,201,156,117,136.5
+48,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00097808,191,150,117,133.5
+49,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00091340,140,156,117,136.5
+50,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090946,0,189,67,128
+51,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USW00013878,107,156,122,139
+52,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00094676,81,189,67,128
+53,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00090441,0,#N/A,#N/A,#N/A
+54,3/24/1958,darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,3,24,1958,9/30/1957,USC00096219,178,178,83,130.5
+55,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USC00094676,5,233,44,138.5
+56,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USC00097808,0,178,72,125
+57,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USW00093836,0,167,78,122.5
+58,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USC00092716,8,#N/A,#N/A,#N/A
+59,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USC00091340,0,200,72,136
+60,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USC00090946,13,178,72,125
+61,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USW00013878,0,172,78,125
+62,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USC00090441,0,#N/A,#N/A,#N/A
+63,12/29/1959,darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,12,29,1959,6/30/1959,USC00096219,0,200,39,119.5
+64,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00383906,0,244,111,177.5
+65,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00095896,0,#N/A,#N/A,#N/A
+66,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00092799,0,#N/A,#N/A,#N/A
+67,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00387281,13,222,111,166.5
+68,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00096323,0,250,100,175
+69,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00091266,0,256,117,186.5
+70,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00096323,0,250,100,175
+71,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00383906,0,244,111,177.5
+72,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00095896,0,#N/A,#N/A,#N/A
+73,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00092799,0,#N/A,#N/A,#N/A
+74,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00387281,13,222,111,166.5
+75,3/16/1963,statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00091266,0,256,117,186.5
+76,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00383906,0,244,111,177.5
+77,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00095896,0,#N/A,#N/A,#N/A
+78,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00092799,0,#N/A,#N/A,#N/A
+79,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00387281,13,222,111,166.5
+80,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00096323,0,250,100,175
+81,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00091266,0,256,117,186.5
+82,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00096323,0,250,100,175
+83,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00383906,0,244,111,177.5
+84,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00095896,0,#N/A,#N/A,#N/A
+85,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00092799,0,#N/A,#N/A,#N/A
+86,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00387281,13,222,111,166.5
+87,3/16/1963,statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,3,16,1963,9/30/1962,USC00091266,0,256,117,186.5
+88,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00091619,0,#N/A,#N/A,#N/A
+89,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00090430,0,206,33,119.5
+90,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00099466,0,156,67,111.5
+91,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00095971,0,#N/A,#N/A,#N/A
+92,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00092180,0,161,-11,75
+93,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00095633,0,#N/A,#N/A,#N/A
+94,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00091132,0,#N/A,#N/A,#N/A
+95,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00090432,0,200,22,111
+96,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USW00013873,0,211,28,119.5
+97,4/1/1964,athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,4,1,1964,10/31/1963,USC00095165,0,#N/A,#N/A,#N/A
+98,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USC00095696,#N/A,#N/A,#N/A,#N/A
+99,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USW00013860,0,256,167,211.5
+100,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USW00003813,0,267,167,217
+101,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USC00093506,0,261,161,211
+102,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USC00095988,99,267,156,211.5
+103,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USC00095874,0,267,128,197.5
+104,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USC00095438,0,#N/A,#N/A,#N/A
+105,4/11/1965,gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,4,11,1965,10/31/1964,USC00094728,0,#N/A,#N/A,#N/A
+106,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+107,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+108,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+109,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+110,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+111,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+112,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+113,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+114,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+115,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+116,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+117,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+118,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+119,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+120,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+121,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+122,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+123,4/17/1966,quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+124,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+125,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+126,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+127,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+128,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+129,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+130,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+131,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+132,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+133,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+134,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+135,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+136,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+137,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+138,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+139,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+140,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+141,4/17/1966,quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+142,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+143,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+144,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+145,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+146,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+147,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+148,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+149,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+150,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+151,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+152,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+153,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+154,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092966,0,239,78,158.5
+155,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00092266,0,272,111,191.5
+156,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090010,0,#N/A,#N/A,#N/A
+157,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00090406,0,272,117,194.5
+158,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00094170,0,289,72,180.5
+159,4/17/1966,quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,4,17,1966,10/31/1965,USC00093386,0,278,106,192
+160,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USW00003813,3,261,106,183.5
+161,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USC00095438,3,#N/A,#N/A,#N/A
+162,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USW00013860,36,256,139,197.5
+163,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USC00094728,41,#N/A,#N/A,#N/A
+164,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USC00095874,8,283,117,200
+165,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USC00094594,25,272,72,172
+166,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USC00093506,30,239,128,183.5
+167,5/5/1968,dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,5,5,1968,11/30/1967,USC00095988,48,283,122,202.5
+168,3/25/1972,cochran,cochran1,"Cochran, Bleckley County, Georgia",32.386828,-83.35461,104,3,25,1972,9/30/1971,USC00092532,0,#N/A,#N/A,#N/A
+169,3/25/1972,cochran,cochran1,"Cochran, Bleckley County, Georgia",32.386828,-83.35461,104,3,25,1972,9/30/1971,USC00093544,56,#N/A,#N/A,#N/A
+170,3/25/1972,cochran,cochran1,"Cochran, Bleckley County, Georgia",32.386828,-83.35461,104,3,25,1972,9/30/1971,USC00091425,0,#N/A,#N/A,#N/A
+171,3/25/1972,cochran,cochran1,"Cochran, Bleckley County, Georgia",32.386828,-83.35461,104,3,25,1972,9/30/1971,USC00094170,0,217,67,142
+172,3/25/1972,cochran,cochran1,"Cochran, Bleckley County, Georgia",32.386828,-83.35461,104,3,25,1972,9/30/1971,USC00093506,23,139,56,97.5
+173,3/25/1972,cochran,cochran1,"Cochran, Bleckley County, Georgia",32.386828,-83.35461,104,3,25,1972,9/30/1971,USW00003813,33,117,67,92
+174,3/13/1976,colquit,colquit,"Colquit, Miller County, Georgia",31.171294,-84.733253,50.9,3,13,1976,9/30/1975,USC00092153,0,244,94,169
+175,3/13/1976,colquit,colquit,"Colquit, Miller County, Georgia",31.171294,-84.733253,50.9,3,13,1976,9/30/1975,USC00090979,23,244,128,186
+176,3/13/1976,colquit,colquit,"Colquit, Miller County, Georgia",31.171294,-84.733253,50.9,3,13,1976,9/30/1975,USC00092736,8,#N/A,#N/A,#N/A
+177,3/13/1976,colquit,colquit,"Colquit, Miller County, Georgia",31.171294,-84.733253,50.9,3,13,1976,9/30/1975,USC00090581,0,222,178,200
+178,3/13/1976,colquit,colquit,"Colquit, Miller County, Georgia",31.171294,-84.733253,50.9,3,13,1976,9/30/1975,USC00096038,0,233,#N/A,#N/A
+179,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00380165,180,244,#N/A,#N/A
+180,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00094133,76,239,89,164
+181,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00098740,0,206,67,136.5
+182,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00091132,51,#N/A,#N/A,#N/A
+183,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00093060,10,250,78,164
+184,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00092180,0,200,44,122
+185,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00381277,104,272,72,172
+186,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00386423,30,#N/A,#N/A,#N/A
+187,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USW00093846,86,233,67,150
+188,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00380204,66,#N/A,#N/A,#N/A
+189,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00095633,0,#N/A,#N/A,#N/A
+190,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00091619,0,#N/A,#N/A,#N/A
+191,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USC00095165,0,#N/A,#N/A,#N/A
+192,3/25/1978,bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,3,25,1978,9/30/1977,USW00013873,41,206,67,136.5
+193,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USC00095438,0,#N/A,#N/A,#N/A
+194,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USC00094728,0,#N/A,#N/A,#N/A
+195,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USC00093506,0,283,150,216.5
+196,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USW00003813,0,294,183,238.5
+197,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USC00091448,0,283,167,225
+198,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USC00092532,30,#N/A,#N/A,#N/A
+199,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USC00095874,0,278,172,225
+200,10/1/1979,macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,10,1,1979,4/30/1979,USC00094594,0,300,178,239
+201,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USC00093792,0,#N/A,#N/A,#N/A
+202,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USC00098950,0,144,28,86
+203,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USC00092318,0,150,22,86
+204,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USC00095988,0,256,33,144.5
+205,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USC00098064,0,172,22,97
+206,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USW00013873,0,167,50,108.5
+207,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USC00099466,0,167,22,94.5
+208,3/31/1991,madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,3,31,1991,9/30/1990,USC00095165,0,#N/A,#N/A,#N/A
+209,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0005,#N/A,#N/A,#N/A,#N/A
+210,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0007,0,#N/A,#N/A,#N/A
+211,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00094170,0,156,-28,64
+212,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00099124,0,161,-6,77.5
+213,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0005,#N/A,#N/A,#N/A,#N/A
+214,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAPE0001,0,#N/A,#N/A,#N/A
+215,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0002,0,#N/A,#N/A,#N/A
+216,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABL0001,#N/A,#N/A,#N/A,#N/A
+217,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GACR0001,0,#N/A,#N/A,#N/A
+218,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0003,0,#N/A,#N/A,#N/A
+219,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABL0001,#N/A,#N/A,#N/A,#N/A
+220,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GACR0001,0,#N/A,#N/A,#N/A
+221,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0003,0,#N/A,#N/A,#N/A
+222,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0007,0,#N/A,#N/A,#N/A
+223,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00094170,0,156,-28,64
+224,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0005,#N/A,#N/A,#N/A,#N/A
+225,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0005,#N/A,#N/A,#N/A,#N/A
+226,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAPE0001,0,#N/A,#N/A,#N/A
+227,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0002,0,#N/A,#N/A,#N/A
+228,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00099124,0,161,-6,77.5
+229,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0002,#N/A,#N/A,#N/A,#N/A
+230,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0006,0,#N/A,#N/A,#N/A
+231,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GATG0001,0,#N/A,#N/A,#N/A
+232,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GADG0004,#N/A,#N/A,#N/A,#N/A
+233,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USW00003813,0,183,-28,77.5
+234,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0003,0,#N/A,#N/A,#N/A
+235,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GADG0004,#N/A,#N/A,#N/A,#N/A
+236,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0002,#N/A,#N/A,#N/A,#N/A
+237,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0006,0,#N/A,#N/A,#N/A
+238,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GATG0001,0,#N/A,#N/A,#N/A
+239,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USW00003813,0,183,-28,77.5
+240,3/7/2010,cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0003,0,#N/A,#N/A,#N/A
+241,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0005,#N/A,#N/A,#N/A,#N/A
+242,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0007,0,#N/A,#N/A,#N/A
+243,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00094170,0,156,-28,64
+244,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00099124,0,161,-6,77.5
+245,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0005,#N/A,#N/A,#N/A,#N/A
+246,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAPE0001,0,#N/A,#N/A,#N/A
+247,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0002,0,#N/A,#N/A,#N/A
+248,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABL0001,#N/A,#N/A,#N/A,#N/A
+249,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GACR0001,0,#N/A,#N/A,#N/A
+250,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0003,0,#N/A,#N/A,#N/A
+251,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABL0001,#N/A,#N/A,#N/A,#N/A
+252,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GACR0001,0,#N/A,#N/A,#N/A
+253,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0003,0,#N/A,#N/A,#N/A
+254,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0007,0,#N/A,#N/A,#N/A
+255,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00094170,0,156,-28,64
+256,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GABB0005,#N/A,#N/A,#N/A,#N/A
+257,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0005,#N/A,#N/A,#N/A,#N/A
+258,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAPE0001,0,#N/A,#N/A,#N/A
+259,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0002,0,#N/A,#N/A,#N/A
+260,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USC00099124,0,161,-6,77.5
+261,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0002,#N/A,#N/A,#N/A,#N/A
+262,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0006,0,#N/A,#N/A,#N/A
+263,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GATG0001,0,#N/A,#N/A,#N/A
+264,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GADG0004,#N/A,#N/A,#N/A,#N/A
+265,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USW00003813,0,183,-28,77.5
+266,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0003,0,#N/A,#N/A,#N/A
+267,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GADG0004,#N/A,#N/A,#N/A,#N/A
+268,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0002,#N/A,#N/A,#N/A,#N/A
+269,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAHS0006,0,#N/A,#N/A,#N/A
+270,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GATG0001,0,#N/A,#N/A,#N/A
+271,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,USW00003813,0,183,-28,77.5
+272,3/7/2010,cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,3,7,2010,9/30/2009,US1GAJN0003,0,#N/A,#N/A,#N/A
+273,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAGW0031,74,#N/A,#N/A,#N/A
+274,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAHY0018,74,#N/A,#N/A,#N/A
+275,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,USC00095666,114,#N/A,#N/A,#N/A
+276,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAWL0001,58,#N/A,#N/A,#N/A
+277,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GARK0004,0,#N/A,#N/A,#N/A
+278,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAWL0012,76,#N/A,#N/A,#N/A
+279,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAOC0005,61,#N/A,#N/A,#N/A
+280,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0041,#N/A,#N/A,#N/A,#N/A
+281,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0033,64,#N/A,#N/A,#N/A
+282,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GACN0008,79,#N/A,#N/A,#N/A
+283,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAHY0019,117,#N/A,#N/A,#N/A
+284,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GANW0001,89,#N/A,#N/A,#N/A
+285,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GARK0001,46,#N/A,#N/A,#N/A
+286,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAWL0013,76,#N/A,#N/A,#N/A
+287,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAGW0045,84,#N/A,#N/A,#N/A
+288,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,USC00094700,122,261,56,158.5
+289,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0046,#N/A,#N/A,#N/A,#N/A
+290,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0002,104,#N/A,#N/A,#N/A
+291,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0028,102,#N/A,#N/A,#N/A
+292,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0007,79,#N/A,#N/A,#N/A
+293,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,USW00063850,0,157,52,104.5
+294,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0009,84,#N/A,#N/A,#N/A
+295,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAOC0012,91,#N/A,#N/A,#N/A
+296,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAFT0045,122,#N/A,#N/A,#N/A
+297,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAOC0015,56,#N/A,#N/A,#N/A
+298,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0032,51,#N/A,#N/A,#N/A
+299,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAGW0017,157,#N/A,#N/A,#N/A
+300,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAGW0044,#N/A,#N/A,#N/A,#N/A
+301,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAGW0029,74,#N/A,#N/A,#N/A
+302,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0045,117,#N/A,#N/A,#N/A
+303,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAOC0014,#N/A,#N/A,#N/A,#N/A
+304,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0001,79,#N/A,#N/A,#N/A
+305,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GADK0013,109,#N/A,#N/A,#N/A
+306,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAGW0050,69,#N/A,#N/A,#N/A
+307,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAHY0020,#N/A,#N/A,#N/A,#N/A
+308,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAMG0004,#N/A,#N/A,#N/A,#N/A
+309,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAHY0003,84,#N/A,#N/A,#N/A
+310,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAHY0007,66,#N/A,#N/A,#N/A
+311,3/2/2017,newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,3,2,2017,9/30/2016,US1GAGW0016,74,#N/A,#N/A,#N/A

@@ -1,0 +1,26 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+madison,madison,"Madison, Morgan County, Georgia",33.5862,-83.4702,207,March,31,1991
+darien,darien1,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,March,24,1958
+statesboro,statesboro1,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,March,16,1963
+newton,newton,"Newton, Baker County, Georgia ",33.5992,-83.8587,43,March,2,2017
+athens,athens1,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,April,1,1964
+bowman,bowman,"Bowman, Elbert County, Georgia ",34.205388,-83.031139,238,March,25,1978
+athens,athens2,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,April,3,1929
+gray,gray,"Gray, Jones County, Georgia",33.00958,-83.533782,184,April,11,1965
+dalton,dalton,"Dalton, Whitfield County, Georgia",33.0095802,-83.533781,232,May,5,1968
+darien,darien2,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,December,29,1959
+darien,darien3,"Darien, McIntosh County, Georgia",31.375116,-81.436729,9.1,March,24,1958
+milledgeville,milledgeville,"Milledgeville, Baldwin County, Georgia",33.0801429,-83.232099,101,April,3,1937
+athens,athens3,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,April,14,1911
+cochran,cochran1,"Cochran, Bleckley County, Georgia",32.386828,-83.35461,104,March,25,1972
+macon,macon,"Macon, Bibb County, Georgia",32.838131,-83.634705,116,October,1,1979
+cochran,cochran2,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,March,7,2010
+cochran,cochran3,"Cochran, Bleckley County, Georgia",32.710833,-83.721667,104,March,7,2010
+quitman,quitman1,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,April,17,1966
+quitman,quitman2,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,April,17,1966
+quitman,quitman3,"Quitman, Brooks County, Georgia",31.973383,-83.559,57.9,April,17,1966
+statesboro,statesboro2,"Statesboro, Bulloch County, Georgia",32.666667,-81.333333,77.1,March,16,1963
+colquit,colquit,"Colquit, Miller County, Georgia",31.171294,-84.733253,50.9,March,13,1976
+athens,athens4,"Athens, Clarke County, Georgia",33.950001,-83.383331,194,April,1,1917
+rome,rome1,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,April,2,1936
+rome,rome2,"Rome, Floyd County, Georgia",34.257038,-85.164673,187,February,12,1938
