@@ -1,0 +1,96 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,prcp,tmax,tmin,tavg
+1,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00076020,0,161,22,91.5
+2,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00071330,0,156,0,78
+3,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00188000,0,161,17,89
+4,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00075915,0,156,11,83.5
+5,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00188380,0,117,17,67
+6,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00187330,0,161,17,89
+7,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00181385,0,139,139,139
+8,4/14/1927,seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,4,14,1927,10/31/1926,USC00182700,0,150,17,83.5
+9,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00072625,0,228,122,175
+10,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00182860,0,306,111,208.5
+11,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00079600,0,#N/A,#N/A,#N/A
+12,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00079605,0,283,111,197
+13,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00181555,0,294,111,202.5
+14,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00185985,0,300,122,211
+15,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USW00013701,0,300,122,211
+16,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00072730,0,289,111,200
+17,5/7/1932,newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,5,7,1932,11/30/1931,USC00181980,0,283,117,200
+18,5/10/1933,wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,5,10,1933,11/30/1932,USC00079600,102,#N/A,#N/A,#N/A
+19,5/10/1933,wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,5,10,1933,11/30/1932,USC00079605,102,228,94,161
+20,5/10/1933,wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,5,10,1933,11/30/1932,USC00072625,254,250,106,178
+21,5/10/1933,wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,5,10,1933,11/30/1932,USC00186150,163,#N/A,#N/A,#N/A
+22,5/10/1933,wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,5,10,1933,11/30/1932,USC00182860,51,244,106,175
+23,5/10/1933,wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,5,10,1933,11/30/1932,USC00182345,51,250,111,180.5
+24,5/10/1933,wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,5,10,1933,11/30/1932,USC00181555,51,261,100,180.5
+25,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USC00076410,112,89,33,61
+26,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USC00182860,99,89,39,64
+27,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USW00013781,107,78,33,55.5
+28,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USC00079605,137,72,22,47
+29,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USC00075852,84,89,39,64
+30,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USC00182060,86,94,39,66.5
+31,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USC00185985,79,78,44,61
+32,4/19/1965,newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,19,1965,10/31/1964,USC00181980,89,111,44,77.5
+33,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00075852,0,178,11,94.5
+34,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USW00013781,0,178,44,111
+35,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00076410,0,172,39,105.5
+36,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00182860,0,183,39,111
+37,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00079605,0,172,39,105.5
+38,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00185985,0,172,33,102.5
+39,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USW00013701,0,183,50,116.5
+40,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00182060,0,172,56,114
+41,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00072730,0,172,44,108
+42,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USC00181980,0,178,50,114
+43,4/29/1967,delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,4,29,1967,10/31/1966,USW00013707,0,178,39,108.5
+44,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USC00076410,48,228,106,167
+45,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USC00182860,86,233,100,166.5
+46,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USW00013781,71,211,122,166.5
+47,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USC00079605,74,217,122,169.5
+48,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USC00075852,43,239,111,175
+49,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USC00182060,61,222,122,172
+50,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USW00013701,69,211,133,172
+51,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USC00185985,114,239,139,189
+52,4/18/1969,newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,4,18,1969,10/31/1968,USC00181980,64,222,133,177.5
+53,5/2/1980,marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,5,2,1980,11/30/1979,USC00072730,0,217,100,158.5
+54,5/2/1980,marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,5,2,1980,11/30/1979,USC00182523,0,#N/A,#N/A,#N/A
+55,5/2/1980,marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,5,2,1980,11/30/1979,USC00181627,#N/A,189,83,136
+56,5/2/1980,marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,5,2,1980,11/30/1979,USC00181750,102,228,89,158.5
+57,5/2/1980,marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,5,2,1980,11/30/1979,USC00075915,0,222,89,155.5
+58,5/2/1980,marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,5,2,1980,11/30/1979,USC00075852,0,206,89,147.5
+59,5/2/1980,marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,5,2,1980,11/30/1979,USC00071330,0,217,94,155.5
+60,7/17/1984,dover,dover2,"Dover, Kent County, Delaware",39.216223,-75.629372,301,7,17,1984,1/31/1984,USC00072730,0,311,211,261
+61,7/17/1984,dover,dover2,"Dover, Kent County, Delaware",39.216223,-75.629372,301,7,17,1984,1/31/1984,USC00075852,0,306,183,244.5
+62,7/17/1984,dover,dover2,"Dover, Kent County, Delaware",39.216223,-75.629372,301,7,17,1984,1/31/1984,USC00181750,0,317,211,264
+63,7/17/1984,dover,dover2,"Dover, Kent County, Delaware",39.216223,-75.629372,301,7,17,1984,1/31/1984,USC00182523,0,311,194,252.5
+64,7/17/1984,dover,dover2,"Dover, Kent County, Delaware",39.216223,-75.629372,301,7,17,1984,1/31/1984,USC00181627,#N/A,#N/A,#N/A,#N/A
+65,10/22/1984,dover,dover1,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,22,1984,4/30/1984,USC00072730,0,278,200,239
+66,10/22/1984,dover,dover1,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,22,1984,4/30/1984,USC00075852,0,272,189,230.5
+67,10/22/1984,dover,dover1,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,22,1984,4/30/1984,USC00181750,3,278,200,239
+68,10/22/1984,dover,dover1,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,22,1984,4/30/1984,USC00075915,0,300,206,253
+69,10/22/1984,dover,dover1,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,22,1984,4/30/1984,USC00182523,0,278,194,236
+70,10/22/1984,dover,dover1,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,22,1984,4/30/1984,USC00181627,25,278,189,233.5
+71,10/23/1984,dover,dover3,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,23,1984,4/30/1984,USC00072730,8,272,183,227.5
+72,10/23/1984,dover,dover3,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,23,1984,4/30/1984,USC00075852,119,267,161,214
+73,10/23/1984,dover,dover3,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,23,1984,4/30/1984,USC00181750,18,228,133,180.5
+74,10/23/1984,dover,dover3,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,23,1984,4/30/1984,USC00075915,13,261,178,219.5
+75,10/23/1984,dover,dover3,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,23,1984,4/30/1984,USC00182523,38,233,178,205.5
+76,10/23/1984,dover,dover3,"Dover, Kent County, Delaware",39.216223,-75.629372,301,10,23,1984,4/30/1984,USC00181627,20,250,161,205.5
+77,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1MDWR0004,41,#N/A,#N/A,#N/A
+78,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1MDWR0002,#N/A,#N/A,#N/A,#N/A
+79,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,USW00093786,10,211,111,161
+80,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,USW00013764,15,239,78,158.5
+81,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1DESS0003,43,#N/A,#N/A,#N/A
+82,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1DESS0004,#N/A,#N/A,#N/A,#N/A
+83,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1MDWC0009,145,#N/A,#N/A,#N/A
+84,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1DESS0002,53,#N/A,#N/A,#N/A
+85,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1MDWC0004,48,#N/A,#N/A,#N/A
+86,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,USW00093720,13,239,83,161
+87,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,USC00188380,30,233,78,155.5
+88,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,USR0000DPRI,#N/A,239,94,166.5
+89,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1DESS0006,53,#N/A,#N/A,#N/A
+90,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1MDWC0005,23,#N/A,#N/A,#N/A
+91,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,USC00188000,48,233,67,150
+92,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1MDWC0010,46,#N/A,#N/A,#N/A
+93,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1MDWC0002,51,#N/A,#N/A,#N/A
+94,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,US1DESS0007,69,#N/A,#N/A,#N/A
+95,4/23/2011,dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,4,23,2011,10/31/2010,USC00180335,15,178,83,130.5

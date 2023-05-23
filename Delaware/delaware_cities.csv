@@ -1,0 +1,15 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+newark,newark1,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,April,19,1965
+dagsboro,dagsboro,"Dagsboro, Sussex County, Delaware",38.518753,-75.186178,301,April,23,2011
+elsmere,elsmere,"Elsmere, New Castle County, Delaware",39.8215,-75.616596,301,June,24,1868
+wilmington,wilmington1,"Wilmington, New Castle County, Delaware",39.730946,-75.666041,301,May,10,1933
+newcastlecounty,newcastlecounty,"N/A, New Castle County, Delaware",39.57833,-75.638978,38493,May,7,1932
+dover,dover1,"Dover, Kent County, Delaware",39.216223,-75.629372,301,October,22,1984
+wilmington,wilmington2,"Wilmington, New Castle County, Delaware",39.745947,-75.546589,6472,June,3,1898
+dover,dover2,"Dover, Kent County, Delaware",39.216223,-75.629372,301,July,17,1984
+seaford,seaford,"Seaford, Sussex County, Delaware",38.55939,-75.563675,301,April,14,1927
+newark,newark2,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,April,18,1969
+newark,newark3,"Newark, New Castle County, Delaware",39.683723,-75.749657,5102,April,28,1896
+marydel,marydel,"Marydel, Kent County, Delaware",39.099434,-75.739394,301,May,2,1980
+delawarecity,delawarecity,"Delaware City, New Castle County, Delaware",39.555112,-75.650207,301,April,29,1967
+dover,dover3,"Dover, Kent County, Delaware",39.216223,-75.629372,301,October,23,1984
