@@ -1,0 +1,466 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,prcp,tmax,tmin,tavg
+1,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USW00003818,0,278,161,219.5
+2,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081544,0,283,161,222
+3,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00085372,0,283,156,219.5
+4,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081502,0,#N/A,#N/A,#N/A
+5,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00080804,33,300,128,214
+6,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00083230,0,278,144,211
+7,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00089795,0,272,128,200
+8,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00080804,33,300,128,214
+9,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00083230,0,278,144,211
+10,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00092736,0,#N/A,#N/A,#N/A
+11,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00092736,0,#N/A,#N/A,#N/A
+12,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00085372,0,283,156,219.5
+13,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USW00003818,0,278,161,219.5
+14,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081544,0,283,161,222
+15,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00089795,0,272,128,200
+16,2/9/1957,marianna,marianna2,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081502,0,#N/A,#N/A,#N/A
+17,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USW00003818,0,278,161,219.5
+18,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081544,0,283,161,222
+19,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00085372,0,283,156,219.5
+20,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081502,0,#N/A,#N/A,#N/A
+21,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00080804,33,300,128,214
+22,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00083230,0,278,144,211
+23,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00089795,0,272,128,200
+24,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00080804,33,300,128,214
+25,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00083230,0,278,144,211
+26,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00092736,0,#N/A,#N/A,#N/A
+27,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00092736,0,#N/A,#N/A,#N/A
+28,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00085372,0,283,156,219.5
+29,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USW00003818,0,278,161,219.5
+30,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081544,0,283,161,222
+31,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00089795,0,272,128,200
+32,2/9/1957,marianna,marianna1,"Marianna, Jackson, Florida",30.7743596,-85.2268735,51,2,9,1957,8/31/1956,USC00081502,0,#N/A,#N/A,#N/A
+33,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+34,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+35,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+36,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+37,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+38,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+39,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+40,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+41,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+42,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+43,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+44,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+45,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+46,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+47,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+48,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+49,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+50,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+51,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+52,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+53,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+54,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+55,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+56,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+57,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+58,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+59,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+60,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+61,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+62,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+63,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+64,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+65,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+66,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+67,3/14/1957,tallahassee,tallahassee1,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+68,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+69,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+70,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+71,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+72,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+73,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+74,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+75,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+76,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+77,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+78,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+79,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+80,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+81,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+82,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+83,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+84,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+85,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+86,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+87,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+88,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+89,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+90,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+91,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+92,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+93,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+94,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+95,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+96,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+97,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+98,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+99,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+100,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+101,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+102,3/14/1957,tallahassee,tallahassee4,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+103,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+104,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+105,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+106,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+107,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+108,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+109,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+110,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+111,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+112,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+113,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+114,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+115,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+116,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+117,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+118,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+119,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+120,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+121,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+122,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+123,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+124,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+125,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+126,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+127,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+128,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+129,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+130,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+131,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+132,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+133,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+134,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+135,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+136,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+137,3/14/1957,tallahassee,tallahassee2,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+138,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+139,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+140,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+141,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+142,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+143,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+144,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+145,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+146,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+147,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+148,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+149,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+150,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+151,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+152,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+153,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+154,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+155,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+156,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+157,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+158,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+159,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+160,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+161,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+162,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+163,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+164,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+165,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+166,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+167,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+168,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+169,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+170,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+171,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+172,3/14/1957,tallahassee,tallahassee6,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+173,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+174,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+175,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+176,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+177,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+178,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+179,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+180,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+181,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+182,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+183,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+184,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+185,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+186,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+187,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+188,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+189,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+190,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+191,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+192,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+193,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+194,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+195,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+196,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+197,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+198,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+199,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+200,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+201,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087867,0,233,167,200
+202,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085879,0,261,144,202.5
+203,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093805,0,250,156,203
+204,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00087424,0,267,150,208.5
+205,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00085990,10,278,150,214
+206,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USW00093861,10,267,156,211.5
+207,3/14/1957,tallahassee,tallahassee5,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,14,1957,9/30/1956,USC00091463,5,267,144,205.5
+208,3/24/1958,monticello,monticello,"Monticello, Jefferson County, Florida",30.545202,-83.870164,51,3,24,1958,9/30/1957,USC00098666,8,200,111,155.5
+209,3/24/1958,monticello,monticello,"Monticello, Jefferson County, Florida",30.545202,-83.870164,51,3,24,1958,9/30/1957,USW00093861,13,194,128,161
+210,3/24/1958,monticello,monticello,"Monticello, Jefferson County, Florida",30.545202,-83.870164,51,3,24,1958,9/30/1957,USC00091463,18,194,83,138.5
+211,3/24/1958,monticello,monticello,"Monticello, Jefferson County, Florida",30.545202,-83.870164,51,3,24,1958,9/30/1957,USC00097276,23,#N/A,#N/A,#N/A
+212,3/24/1958,monticello,monticello,"Monticello, Jefferson County, Florida",30.545202,-83.870164,51,3,24,1958,9/30/1957,USW00093805,43,189,133,161
+213,3/24/1958,monticello,monticello,"Monticello, Jefferson County, Florida",30.545202,-83.870164,51,3,24,1958,9/30/1957,USC00085275,66,178,128,153
+214,3/24/1958,monticello,monticello,"Monticello, Jefferson County, Florida",30.545202,-83.870164,51,3,24,1958,9/30/1957,USC00085879,36,183,111,147
+215,1/3/1967,gainesville,gainesville1,"Gainesville, Alachua County, Florida",29.651634,-82.324829,54,1,3,1967,7/31/1966,USC00085622,305,222,156,189
+216,1/3/1967,gainesville,gainesville1,"Gainesville, Alachua County, Florida",29.651634,-82.324829,54,1,3,1967,7/31/1966,USC00088527,71,172,139,155.5
+217,1/3/1967,gainesville,gainesville1,"Gainesville, Alachua County, Florida",29.651634,-82.324829,54,1,3,1967,7/31/1966,USC00083956,356,183,139,161
+218,1/3/1967,gainesville,gainesville1,"Gainesville, Alachua County, Florida",29.651634,-82.324829,54,1,3,1967,7/31/1966,USC00084327,8,#N/A,#N/A,#N/A
+219,1/3/1967,gainesville,gainesville1,"Gainesville, Alachua County, Florida",29.651634,-82.324829,54,1,3,1967,7/31/1966,USC00083321,226,228,161,194.5
+220,1/3/1967,gainesville,gainesville1,"Gainesville, Alachua County, Florida",29.651634,-82.324829,54,1,3,1967,7/31/1966,USW00012816,338,200,150,175
+221,3/2/1967,tallahassee,tallahassee3,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,2,1967,9/30/1966,USC00085879,0,178,33,105.5
+222,3/2/1967,tallahassee,tallahassee3,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,2,1967,9/30/1966,USW00093805,0,228,39,133.5
+223,3/2/1967,tallahassee,tallahassee3,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,2,1967,9/30/1966,USC00087867,0,194,56,125
+224,3/2/1967,tallahassee,tallahassee3,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,2,1967,9/30/1966,USC00091463,0,233,39,136
+225,3/2/1967,tallahassee,tallahassee3,"Tallahassee, Leon County, Florida",30.455,-84.253334,61,3,2,1967,9/30/1966,USC00087424,0,217,44,130.5
+226,1/30/1975,pensacola,pensacola1,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,30,1975,7/31/1974,USW00013899,5,228,178,203
+227,1/30/1975,pensacola,pensacola1,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,30,1975,7/31/1974,USW00003855,3,222,172,197
+228,1/30/1975,pensacola,pensacola1,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,30,1975,7/31/1974,USW00093841,0,233,167,200
+229,1/30/1975,pensacola,pensacola1,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,30,1975,7/31/1974,USC00085793,0,233,172,202.5
+230,1/30/1975,pensacola,pensacola1,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,30,1975,7/31/1974,USC00016988,5,250,172,211
+231,2/19/1977,pensacola,pensacola2,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,19,1977,8/31/1976,USW00013899,13,222,111,166.5
+232,2/19/1977,pensacola,pensacola2,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,19,1977,8/31/1976,USW00003855,18,222,106,164
+233,2/19/1977,pensacola,pensacola2,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,19,1977,8/31/1976,USW00093841,38,217,106,161.5
+234,2/19/1977,pensacola,pensacola2,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,19,1977,8/31/1976,USC00085793,0,206,111,158.5
+235,2/19/1977,pensacola,pensacola2,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,19,1977,8/31/1976,USC00016988,0,206,122,164
+236,3/3/1979,gainesville,gainesville2,"Gainesville, Alachua, Florida",29.651634,-82.324829,54,3,3,1979,9/30/1978,USC00083321,0,272,156,214
+237,3/3/1979,gainesville,gainesville2,"Gainesville, Alachua, Florida",29.651634,-82.324829,54,3,3,1979,9/30/1978,USC00088527,0,267,122,194.5
+238,3/3/1979,gainesville,gainesville2,"Gainesville, Alachua, Florida",29.651634,-82.324829,54,3,3,1979,9/30/1978,USC00084327,0,#N/A,#N/A,#N/A
+239,3/3/1979,gainesville,gainesville2,"Gainesville, Alachua, Florida",29.651634,-82.324829,54,3,3,1979,9/30/1978,USC00083956,0,#N/A,106,#N/A
+240,3/3/1986,pensacola,pensacola11,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,3,1986,9/30/1985,USW00013899,0,222,139,180.5
+241,3/3/1986,pensacola,pensacola11,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,3,1986,9/30/1985,USW00003855,0,228,161,194.5
+242,3/3/1986,pensacola,pensacola11,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,3,1986,9/30/1985,USW00093841,25,239,111,175
+243,3/3/1986,pensacola,pensacola11,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,3,1986,9/30/1985,USC00085793,0,178,-11,83.5
+244,3/3/1986,pensacola,pensacola11,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,3,1986,9/30/1985,USC00016988,0,161,-17,72
+245,1/29/1989,pensacola,pensacola10,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,29,1989,7/31/1988,USW00013899,0,222,106,164
+246,1/29/1989,pensacola,pensacola10,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,29,1989,7/31/1988,USW00003855,0,233,83,158
+247,1/29/1989,pensacola,pensacola10,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,29,1989,7/31/1988,USW00093841,0,239,61,150
+248,1/29/1989,pensacola,pensacola10,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,29,1989,7/31/1988,USC00085793,0,222,44,133
+249,1/29/1989,pensacola,pensacola10,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,1,29,1989,7/31/1988,USC00016988,0,217,39,128
+250,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00080478,43,300,189,244.5
+251,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00087205,0,311,178,244.5
+252,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00084707,5,311,144,227.5
+253,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USW00012842,0,294,189,241.5
+254,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00089707,10,328,161,244.5
+255,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00087851,0,311,172,241.5
+256,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00083153,140,#N/A,#N/A,#N/A
+257,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USW00012883,0,317,189,253
+258,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00083986,0,#N/A,#N/A,#N/A
+259,4/4/1989,plantcity,plantcity,"Plant City, Hillsborough County, Florida",28.018632,-82.112864,40,4,4,1989,10/31/1988,USC00088782,0,306,178,242
+260,2/17/1990,pensacola,pensacola9,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,17,1990,8/31/1989,USW00013899,3,167,122,144.5
+261,2/17/1990,pensacola,pensacola9,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,17,1990,8/31/1989,USW00003855,0,172,128,150
+262,2/17/1990,pensacola,pensacola9,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,17,1990,8/31/1989,USW00093841,0,156,111,133.5
+263,2/17/1990,pensacola,pensacola9,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,17,1990,8/31/1989,USC00085793,257,239,117,178
+264,2/17/1990,pensacola,pensacola9,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,17,1990,8/31/1989,USC00016988,406,233,111,172
+265,2/24/1990,milton,milton,"Milton, Santa Rosa County, Florida",30.641904,-87.058418,10,2,24,1990,8/31/1989,USW00093841,0,222,17,119.5
+266,2/24/1990,milton,milton,"Milton, Santa Rosa County, Florida",30.641904,-87.058418,10,2,24,1990,8/31/1989,USC00085793,0,167,17,92
+267,2/24/1990,milton,milton,"Milton, Santa Rosa County, Florida",30.641904,-87.058418,10,2,24,1990,8/31/1989,USW00013899,0,228,28,128
+268,2/24/1990,milton,milton,"Milton, Santa Rosa County, Florida",30.641904,-87.058418,10,2,24,1990,8/31/1989,USW00003855,0,211,28,119.5
+269,2/24/1990,milton,milton,"Milton, Santa Rosa County, Florida",30.641904,-87.058418,10,2,24,1990,8/31/1989,USC00011084,0,206,6,106
+270,3/1/1992,pensacola,pensacola3,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,1,1992,9/30/1991,USW00013899,0,233,89,161
+271,3/1/1992,pensacola,pensacola3,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,1,1992,9/30/1991,USW00003855,0,222,89,155.5
+272,3/1/1992,pensacola,pensacola3,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,1,1992,9/30/1991,USW00093841,0,239,94,166.5
+273,3/1/1992,pensacola,pensacola3,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,1,1992,9/30/1991,USC00016988,0,256,78,167
+274,3/1/1992,pensacola,pensacola3,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,1,1992,9/30/1991,USC00085793,0,244,61,152.5
+275,3/17/1996,pensacola,pensacola8,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,17,1996,9/30/1995,USW00013899,91,244,161,202.5
+276,3/17/1996,pensacola,pensacola8,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,17,1996,9/30/1995,USW00003855,66,244,167,205.5
+277,3/17/1996,pensacola,pensacola8,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,17,1996,9/30/1995,USW00093841,76,244,161,202.5
+278,3/17/1996,pensacola,pensacola8,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,17,1996,9/30/1995,USC00085793,51,250,200,225
+279,3/17/1996,pensacola,pensacola8,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,17,1996,9/30/1995,USC00016988,0,261,183,222
+280,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00081306,0,#N/A,#N/A,#N/A
+281,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012839,3,317,239,278
+282,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087760,0,322,228,275
+283,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012859,0,317,256,286.5
+284,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012839,3,317,239,278
+285,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00083909,0,328,189,258.5
+286,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00086406,0,300,228,264
+287,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00088780,0,322,261,291.5
+288,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087020,0,300,217,258.5
+289,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00084095,0,294,#N/A,#N/A
+290,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FTEN,#N/A,311,228,269.5
+291,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012859,0,317,256,286.5
+292,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00081306,0,#N/A,#N/A,#N/A
+293,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00083909,0,328,189,258.5
+294,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00086406,0,300,228,264
+295,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087020,0,300,217,258.5
+296,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FRAC,#N/A,294,233,263.5
+297,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FTEN,#N/A,311,228,269.5
+298,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087760,0,322,228,275
+299,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00088780,0,322,261,291.5
+300,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00084095,0,294,#N/A,#N/A
+301,11/2/1997,homestead,homestead4,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FRAC,#N/A,294,233,263.5
+302,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00081306,0,#N/A,#N/A,#N/A
+303,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012839,3,317,239,278
+304,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087760,0,322,228,275
+305,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012859,0,317,256,286.5
+306,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012839,3,317,239,278
+307,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00083909,0,328,189,258.5
+308,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00086406,0,300,228,264
+309,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00088780,0,322,261,291.5
+310,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087020,0,300,217,258.5
+311,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00084095,0,294,#N/A,#N/A
+312,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FTEN,#N/A,311,228,269.5
+313,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USW00012859,0,317,256,286.5
+314,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00081306,0,#N/A,#N/A,#N/A
+315,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00083909,0,328,189,258.5
+316,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00086406,0,300,228,264
+317,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087020,0,300,217,258.5
+318,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FRAC,#N/A,294,233,263.5
+319,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FTEN,#N/A,311,228,269.5
+320,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00087760,0,322,228,275
+321,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00088780,0,322,261,291.5
+322,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USC00084095,0,294,#N/A,#N/A
+323,11/2/1997,homestead,homestead2,"Homestead, Dade County, Florida",25.57361,-80.66972,1,11,2,1997,5/31/1997,USR0000FRAC,#N/A,294,233,263.5
+324,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00087020,0,250,128,189
+325,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USW00012859,0,239,167,203
+326,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00081306,0,#N/A,#N/A,#N/A
+327,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00086406,0,256,189,222.5
+328,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00084095,0,256,133,194.5
+329,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00088780,0,261,150,205.5
+330,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00083909,0,261,206,233.5
+331,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USR0000FRAC,#N/A,261,144,202.5
+332,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USW00012839,0,256,156,206
+333,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00083909,0,261,206,233.5
+334,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00086406,0,256,189,222.5
+335,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USR0000FTEN,#N/A,261,156,208.5
+336,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00088780,0,261,150,205.5
+337,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USW00012859,0,239,167,203
+338,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USR0000FTEN,#N/A,261,156,208.5
+339,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USW00012839,0,256,156,206
+340,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00084095,0,256,133,194.5
+341,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USR0000FRAC,#N/A,261,144,202.5
+342,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00087020,0,250,128,189
+343,12/2/1997,homestead,homestead1,"Homestead, Dade County, Florida",25.468721,-80.477554,1,12,2,1997,6/30/1997,USC00081306,0,#N/A,#N/A,#N/A
+344,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00087020,0,250,128,189
+345,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USW00012859,0,239,167,203
+346,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00081306,0,#N/A,#N/A,#N/A
+347,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00086406,0,256,189,222.5
+348,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00084095,0,256,133,194.5
+349,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00088780,0,261,150,205.5
+350,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00083909,0,261,206,233.5
+351,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USR0000FRAC,#N/A,261,144,202.5
+352,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USW00012839,0,256,156,206
+353,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00083909,0,261,206,233.5
+354,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00086406,0,256,189,222.5
+355,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USR0000FTEN,#N/A,261,156,208.5
+356,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00088780,0,261,150,205.5
+357,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USW00012859,0,239,167,203
+358,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USR0000FTEN,#N/A,261,156,208.5
+359,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USW00012839,0,256,156,206
+360,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00084095,0,256,133,194.5
+361,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USR0000FRAC,#N/A,261,144,202.5
+362,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00087020,0,250,128,189
+363,12/2/1997,homestead,homestead3,"Homestead, Dade County, Florida",25.57361,-80.66972,1,12,2,1997,6/30/1997,USC00081306,0,#N/A,#N/A,#N/A
+364,2/28/1999,pensacola,pensacola7,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,28,1999,8/31/1998,USW00013899,104,217,111,164
+365,2/28/1999,pensacola,pensacola7,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,28,1999,8/31/1998,USC00085793,0,211,128,169.5
+366,2/28/1999,pensacola,pensacola7,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,2,28,1999,8/31/1998,USC00016988,89,233,106,169.5
+367,4/2/2001,pensacola,pensacola4,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,4,2,2001,10/31/2000,USW00013899,0,206,78,142
+368,4/2/2001,pensacola,pensacola4,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,4,2,2001,10/31/2000,USC00086999,0,200,83,141.5
+369,4/2/2001,pensacola,pensacola4,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,4,2,2001,10/31/2000,USC00085793,0,244,44,144
+370,4/2/2001,pensacola,pensacola4,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,4,2,2001,10/31/2000,USC00016988,0,228,44,136
+371,4/2/2001,pensacola,pensacola4,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,4,2,2001,10/31/2000,USW00003855,0,222,83,152.5
+372,4/2/2001,pensacola,pensacola4,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,4,2,2001,10/31/2000,USW00093841,0,239,44,141.5
+373,3/13/2002,gainesville,gainesville3,"Gainesville, Alachua, Florida",29.60945,-82.40537,54,3,13,2002,9/30/2001,USC00088529,107,278,56,167
+374,3/13/2002,gainesville,gainesville3,"Gainesville, Alachua, Florida",29.60945,-82.40537,54,3,13,2002,9/30/2001,USC00084723,102,278,100,189
+375,3/13/2002,gainesville,gainesville3,"Gainesville, Alachua, Florida",29.60945,-82.40537,54,3,13,2002,9/30/2001,USC00086618,221,300,133,216.5
+376,3/13/2002,gainesville,gainesville3,"Gainesville, Alachua, Florida",29.60945,-82.40537,54,3,13,2002,9/30/2001,USC00083956,64,272,128,200
+377,3/13/2002,gainesville,gainesville3,"Gainesville, Alachua, Florida",29.60945,-82.40537,54,3,13,2002,9/30/2001,USW00012816,36,250,122,186
+378,12/20/2002,pensacola,pensacola6,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,12,20,2002,6/30/2002,USW00013899,0,161,39,100
+379,12/20/2002,pensacola,pensacola6,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,12,20,2002,6/30/2002,USC00086999,0,156,61,108.5
+380,12/20/2002,pensacola,pensacola6,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,12,20,2002,6/30/2002,USW00003855,0,167,39,103
+381,12/20/2002,pensacola,pensacola6,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,12,20,2002,6/30/2002,USW00093841,0,161,78,119.5
+382,12/20/2002,pensacola,pensacola6,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,12,20,2002,6/30/2002,USC00085793,241,222,78,150
+383,2/9/2003,jacksonville,jacksonville,"Jacksonville, Duval County, Florida",30.332184,-81.655647,5,2,9,2003,8/31/2002,USW00093837,122,89,72,80.5
+384,2/9/2003,jacksonville,jacksonville,"Jacksonville, Duval County, Florida",30.332184,-81.655647,5,2,9,2003,8/31/2002,USW00053860,145,94,50,72
+385,2/9/2003,jacksonville,jacksonville,"Jacksonville, Duval County, Florida",30.332184,-81.655647,5,2,9,2003,8/31/2002,USW00013889,132,83,44,63.5
+386,2/9/2003,jacksonville,jacksonville,"Jacksonville, Duval County, Florida",30.332184,-81.655647,5,2,9,2003,8/31/2002,USW00003853,150,100,67,83.5
+387,2/9/2003,jacksonville,jacksonville,"Jacksonville, Duval County, Florida",30.332184,-81.655647,5,2,9,2003,8/31/2002,USC00084366,89,111,72,91.5
+388,2/9/2003,jacksonville,jacksonville,"Jacksonville, Duval County, Florida",30.332184,-81.655647,5,2,9,2003,8/31/2002,USC00085705,38,89,50,69.5
+389,2/9/2003,jacksonville,jacksonville,"Jacksonville, Duval County, Florida",30.332184,-81.655647,5,2,9,2003,8/31/2002,USC00082944,102,161,61,111
+390,4/14/2004,staugustine,staugustine,"St. Augustine, St. Johns County, Florida",29.90805,-81.3189,1.5,4,14,2004,10/31/2003,USC00082915,0,211,72,141.5
+391,4/14/2004,staugustine,staugustine,"St. Augustine, St. Johns County, Florida",29.90805,-81.3189,1.5,4,14,2004,10/31/2003,USC00086753,0,228,61,144.5
+392,4/14/2004,staugustine,staugustine,"St. Augustine, St. Johns County, Florida",29.90805,-81.3189,1.5,4,14,2004,10/31/2003,USW00093837,0,189,72,130.5
+393,4/14/2004,staugustine,staugustine,"St. Augustine, St. Johns County, Florida",29.90805,-81.3189,1.5,4,14,2004,10/31/2003,USC00086767,0,244,67,155.5
+394,4/14/2004,staugustine,staugustine,"St. Augustine, St. Johns County, Florida",29.90805,-81.3189,1.5,4,14,2004,10/31/2003,USC00084366,0,194,78,136
+395,4/14/2004,staugustine,staugustine,"St. Augustine, St. Johns County, Florida",29.90805,-81.3189,1.5,4,14,2004,10/31/2003,USC00087826,0,239,72,155.5
+396,4/14/2004,staugustine,staugustine,"St. Augustine, St. Johns County, Florida",29.90805,-81.3189,1.5,4,14,2004,10/31/2003,USC00083874,0,233,61,147
+397,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USR0000FSUM,#N/A,250,67,158.5
+398,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USR0000FSAN,#N/A,261,50,155.5
+399,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,US1FLGD0001,#N/A,#N/A,#N/A,#N/A
+400,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USW00003818,0,211,50,130.5
+401,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,US1FLCN0001,#N/A,#N/A,#N/A,#N/A
+402,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USR0000FBLO,#N/A,244,50,147
+403,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USC00081601,0,250,61,155.5
+404,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USC00081022,0,228,44,136
+405,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,US1FLLB0001,0,#N/A,#N/A,#N/A
+406,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USC00085377,#N/A,#N/A,#N/A,#N/A
+407,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USR0000FWIL,#N/A,239,67,153
+408,2/24/2008,blountstown,blountstown,"Blountstown, Calhoun County, Florida",30.3897,-85.13029,19,2,24,2008,8/31/2007,USC00089566,0,261,111,186
+409,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USW00013899,0,272,200,236
+410,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLES0005,0,#N/A,#N/A,#N/A
+411,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLES0002,0,#N/A,#N/A,#N/A
+412,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLES0004,0,#N/A,#N/A,#N/A
+413,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1ALBW0019,#N/A,#N/A,#N/A,#N/A
+414,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0004,0,#N/A,#N/A,#N/A
+415,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USW00053848,0,272,206,239
+416,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLES0016,0,#N/A,#N/A,#N/A
+417,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLES0013,#N/A,#N/A,#N/A,#N/A
+418,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USC00086999,0,272,200,236
+419,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USW00003855,0,272,211,241.5
+420,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USR0000FNAV,#N/A,267,206,236.5
+421,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0009,#N/A,#N/A,#N/A,#N/A
+422,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0005,#N/A,#N/A,#N/A,#N/A
+423,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0016,0,#N/A,#N/A,#N/A
+424,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1ALBW0053,#N/A,#N/A,#N/A,#N/A
+425,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USW00093841,0,289,189,239
+426,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1ALBW0009,0,#N/A,#N/A,#N/A
+427,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1ALBW0031,0,#N/A,#N/A,#N/A
+428,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USC00016988,0,267,189,228
+429,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0002,0,#N/A,#N/A,#N/A
+430,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0013,#N/A,#N/A,#N/A,#N/A
+431,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1ALBW0011,0,#N/A,#N/A,#N/A
+432,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0012,0,#N/A,#N/A,#N/A
+433,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1ALBW0027,0,#N/A,#N/A,#N/A
+434,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1FLSR0008,0,#N/A,#N/A,#N/A
+435,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,US1ALBW0035,#N/A,#N/A,#N/A,#N/A
+436,3/23/2011,pensacola,pensacola5,"Pensacola, Escambia County, Florida",30.433283,-87.240372,31,3,23,2011,9/30/2010,USW00053847,3,278,194,236
+437,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,USC00083956,0,156,6,81
+438,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0017,0,#N/A,#N/A,#N/A
+439,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLGC0003,#N/A,#N/A,#N/A,#N/A
+440,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLGC0001,#N/A,#N/A,#N/A,#N/A
+441,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0031,0,#N/A,#N/A,#N/A
+442,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0041,#N/A,#N/A,#N/A,#N/A
+443,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0014,#N/A,#N/A,#N/A,#N/A
+444,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLGC0005,0,#N/A,#N/A,#N/A
+445,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0010,0,#N/A,#N/A,#N/A
+446,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0032,#N/A,#N/A,#N/A,#N/A
+447,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0037,0,#N/A,#N/A,#N/A
+448,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0040,0,#N/A,#N/A,#N/A
+449,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,USC00080598,0,144,6,75
+450,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0043,#N/A,#N/A,#N/A,#N/A
+451,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0007,0,#N/A,#N/A,#N/A
+452,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLGC0008,0,#N/A,#N/A,#N/A
+453,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0004,#N/A,#N/A,#N/A,#N/A
+454,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0026,0,#N/A,#N/A,#N/A
+455,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0029,0,#N/A,#N/A,#N/A
+456,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,USW00012816,0,133,6,69.5
+457,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0002,0,#N/A,#N/A,#N/A
+458,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLLV0009,0,#N/A,#N/A,#N/A
+459,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLAL0018,0,#N/A,#N/A,#N/A
+460,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,USC00084731,0,144,28,86
+461,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLLV0004,0,#N/A,#N/A,#N/A
+462,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,USR0000FOLU,#N/A,122,-6,58
+463,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLLV0002,#N/A,#N/A,#N/A,#N/A
+464,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,USC00088529,0,167,44,105.5
+465,3/2/2013,highsprings,highsprings,"High Springs, Alachua County, Florida",29.82205,-82.60472,21,3,2,2013,9/30/2012,US1FLLV0010,0,#N/A,#N/A,#N/A
