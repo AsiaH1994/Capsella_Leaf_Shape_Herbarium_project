@@ -1,0 +1,769 @@
+﻿,date,id.x,id2,city_county_state,latitude,longitude,elevation,month,day,year,previous6mon,id.y,prcp,tmax,tmin,tavg
+1,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00028489,28,172,122,147
+2,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00028494,196,167,117,142
+3,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00021161,0,194,83,138.5
+4,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00025467,300,161,89,125
+5,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00021511,224,161,94,127.5
+6,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00023573,343,200,117,158.5
+7,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00026476,150,156,89,122.5
+8,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00023621,81,228,72,150
+9,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00024977,91,161,106,133.5
+10,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00025282,335,233,33,133
+11,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00027370,3,206,122,164
+12,2/9/1932,tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,9,1932,8/31/1931,USC00025700,150,183,117,150
+13,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00028489,0,200,-11,94.5
+14,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00028494,0,#N/A,322,#N/A
+15,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00021161,0,211,28,119.5
+16,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00029015,0,194,0,97
+17,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00025467,0,200,-6,97
+18,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USW00023183,10,206,44,125
+19,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00023573,0,211,11,111
+20,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00022927,0,200,22,111
+21,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USW00093140,8,200,33,116.5
+22,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00026476,0,#N/A,#N/A,#N/A
+23,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00022462,0,200,-6,97
+24,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00024829,0,206,28,117
+25,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00020104,0,217,0,108.5
+26,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00023621,0,206,33,119.5
+27,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USW00023104,30,200,17,108.5
+28,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00021365,0,#N/A,#N/A,#N/A
+29,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00021514,0,206,61,133.5
+30,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00024977,0,206,-6,100
+31,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00028214,0,#N/A,#N/A,#N/A
+32,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00025282,0,200,11,105.5
+33,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00027370,0,200,11,105.5
+34,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USW00093105,0,194,28,111
+35,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00025700,0,189,50,119.5
+36,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00028356,0,194,106,150
+37,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00021361,13,172,28,100
+38,1/16/1951,tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,1,16,1951,7/31/1950,USC00020660,0,#N/A,#N/A,#N/A
+39,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00024508,0,178,28,103
+40,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USW00003103,0,128,-39,44.5
+41,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00027708,0,206,44,125
+42,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00023160,0,133,-72,30.5
+43,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00029156,0,#N/A,#N/A,#N/A
+44,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00025708,0,128,6,67
+45,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00021101,0,156,17,86.5
+46,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00022193,0,239,56,147.5
+47,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00027131,0,#N/A,#N/A,#N/A
+48,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00020670,0,228,56,142
+49,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00024453,0,178,72,125
+50,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00029359,0,128,39,83.5
+51,5/6/1961,sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,5,6,1961,11/30/1960,USC00025635,0,256,61,158.5
+52,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00028499,0,156,11,83.5
+53,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00028489,0,144,28,86
+54,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00021161,0,183,39,111
+55,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00025467,0,172,33,102.5
+56,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USW00023183,0,161,39,100
+57,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00021511,0,#N/A,#N/A,#N/A
+58,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00026244,0,156,56,106
+59,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00028112,0,167,0,83.5
+60,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00022927,0,172,17,94.5
+61,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USW00093140,0,144,56,100
+62,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00026476,0,#N/A,#N/A,#N/A
+63,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00022462,0,156,17,86.5
+64,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00024829,0,178,6,92
+65,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00020104,0,178,33,105.5
+66,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00023621,0,144,17,80.5
+67,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00028598,0,#N/A,#N/A,#N/A
+68,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00021365,0,#N/A,#N/A,#N/A
+69,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00025270,0,183,6,94.5
+70,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00021514,56,167,44,105.5
+71,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00024977,0,178,6,92
+72,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00028214,0,139,22,80.5
+73,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00025282,0,172,6,89
+74,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USW00023111,0,150,22,86
+75,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00027370,0,167,0,83.5
+76,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00025700,0,128,33,80.5
+77,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00021363,0,128,22,75
+78,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00028356,0,150,56,103
+79,2/23/1962,tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,2,23,1962,8/31/1961,USC00020660,0,#N/A,#N/A,#N/A
+80,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00028273,0,#N/A,#N/A,#N/A
+81,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00027081,0,300,100,200
+82,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00020632,0,317,139,228
+83,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00020625,0,#N/A,#N/A,#N/A
+84,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00024182,0,#N/A,#N/A,#N/A
+85,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00023448,0,#N/A,#N/A,#N/A
+86,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00028214,0,328,106,217
+87,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00021282,0,283,122,202.5
+88,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00027281,0,300,117,208.5
+89,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USW00093139,0,317,-11,153
+90,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00026320,0,239,-44,97.5
+91,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00023621,0,311,94,202.5
+92,3/19/1972,sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,3,19,1972,9/30/1971,USC00027876,0,256,111,183.5
+93,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00026840,0,261,122,191.5
+94,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00023448,0,#N/A,#N/A,#N/A
+95,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00026653,0,206,67,136.5
+96,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00027876,0,217,106,161.5
+97,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00028273,0,#N/A,#N/A,#N/A
+98,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USW00093139,0,194,72,133
+99,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00027281,0,256,128,192
+100,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00020632,198,267,100,183.5
+101,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00028650,0,#N/A,#N/A,#N/A
+102,3/21/1978,sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,3,21,1978,9/30/1977,USC00024182,0,#N/A,#N/A,#N/A
+103,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USW00093140,0,272,139,205.5
+104,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00026479,0,194,167,180.5
+105,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00024829,0,228,111,169.5
+106,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00028598,0,#N/A,#N/A,#N/A
+107,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00022462,0,233,94,163.5
+108,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USW00023183,0,244,128,186
+109,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00028489,0,278,111,194.5
+110,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00028499,0,228,83,155.5
+111,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00028112,0,256,94,175
+112,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00029634,0,267,111,189
+113,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00024977,0,278,100,189
+114,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00025467,0,272,117,194.5
+115,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00021511,0,222,78,150
+116,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00020632,0,228,94,161
+117,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00023702,0,#N/A,#N/A,#N/A
+118,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00021514,0,278,111,194.5
+119,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00021026,0,289,106,197.5
+120,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00020306,0,256,56,156
+121,3/9/1979,phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,3,9,1979,9/30/1978,USC00027370,0,278,89,183.5
+122,4/13/1979,wikieup,wikieup,Mohave County_Arizona_Wikieup,34.695569,-113.573823,609,4,13,1979,10/31/1978,USC00029309,0,244,17,130.5
+123,4/13/1979,wikieup,wikieup,Mohave County_Arizona_Wikieup,34.695569,-113.573823,609,4,13,1979,10/31/1978,USC00020584,0,228,39,133.5
+124,5/18/1986,wheatfields,wheatfields,"Apache County_Arizona_Lukachukai, Tsaile, Wheatfields",36.4112,-109.103,2221,5,18,1986,11/30/1985,USC00025129,0,139,28,83.5
+125,5/18/1986,wheatfields,wheatfields,"Apache County_Arizona_Lukachukai, Tsaile, Wheatfields",36.4112,-109.103,2221,5,18,1986,11/30/1985,USC00021248,0,6,233,119.5
+126,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00026840,0,239,67,153
+127,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00020632,3,250,117,183.5
+128,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00024182,0,#N/A,#N/A,#N/A
+129,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00023448,8,#N/A,#N/A,#N/A
+130,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00025700,0,244,106,175
+131,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00028214,0,250,56,153
+132,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00023190,0,272,128,200
+133,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00021282,0,250,111,180.5
+134,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00027281,0,256,94,175
+135,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USW00093139,15,206,-6,100
+136,4/3/1990,sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,4,3,1990,10/31/1989,USC00020288,0,289,111,200
+137,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00027593,0,161,39,100
+138,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00023668,0,#N/A,#N/A,#N/A
+139,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00026282,0,#N/A,#N/A,#N/A
+140,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00028865,0,206,-17,94.5
+141,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00028815,0,228,78,153
+142,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00025924,0,189,-11,89
+143,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00028800,0,200,28,114
+144,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00021231,0,167,-22,72.5
+145,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00028795,0,72,194,133
+146,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USR0000AEMP,#N/A,144,-6,69
+147,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00020380,0,#N/A,#N/A,#N/A
+148,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USC00028998,0,#N/A,#N/A,#N/A
+149,3/5/1993,tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,3,5,1993,9/30/1992,USW00023160,0,228,44,136
+150,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USR0000AROO,#N/A,200,28,114
+151,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00027281,0,172,44,108
+152,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USS0010S01S,0,117,11,64
+153,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00026840,0,206,6,106
+154,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00025700,0,#N/A,#N/A,#N/A
+155,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00025512,0,206,39,122.5
+156,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00028214,0,244,83,163.5
+157,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00020288,0,233,78,155.5
+158,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00028348,0,222,111,166.5
+159,12/6/2000,roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,12,6,2000,6/30/2000,USC00023505,0,178,0,89
+160,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00028348,0,106,28,67
+161,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00020498,#N/A,#N/A,#N/A,#N/A
+162,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00025512,0,#N/A,#N/A,#N/A
+163,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00024590,0,#N/A,#N/A,#N/A
+164,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00023027,0,167,22,94.5
+165,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00023505,18,100,-22,39
+166,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00020288,0,150,17,83.5
+167,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00025700,0,#N/A,#N/A,#N/A
+168,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00027281,0,139,22,80.5
+169,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USR0000AROO,#N/A,161,6,83.5
+170,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00021314,0,139,6,72.5
+171,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00028214,0,200,11,105.5
+172,2/16/2001,queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,2,16,2001,8/31/2000,USC00021514,0,#N/A,#N/A,#N/A
+173,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USR0000ACRO,#N/A,117,11,64
+174,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USR0000AHUM,#N/A,94,28,61
+175,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USC00022109,0,128,-17,55.5
+176,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USR0000ASUN,#N/A,139,11,75
+177,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USC00029166,0,#N/A,#N/A,#N/A
+178,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USC00021353,0,183,17,100
+179,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USC00026796,0,83,-22,30.5
+180,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USR0000ASTA,#N/A,139,50,94.5
+181,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USR0000AIRO,#N/A,106,-44,31
+182,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USW00023184,0,122,-33,44.5
+183,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USR0000ACHE,#N/A,117,-44,36.5
+184,12/31/2002,crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,12,31,2002,6/30/2002,USC00029287,0,183,-22,80.5
+185,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USC00020775,0,244,128,186
+186,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USC00025418,0,#N/A,#N/A,#N/A
+187,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USW00093026,0,300,117,208.5
+188,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USC00029562,0,#N/A,#N/A,#N/A
+189,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USC00028619,0,289,106,197.5
+190,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USC00022140,0,250,122,186
+191,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USR0000ACAA,#N/A,256,89,172.5
+192,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USC00027880,0,267,78,172.5
+193,4/13/2003,cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,4,13,2003,10/31/2002,USC00022659,0,294,111,202.5
+194,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00021282,0,272,139,205.5
+195,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00026603,0,256,128,192
+196,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USW00003184,0,283,94,188.5
+197,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USW00003192,0,283,106,194.5
+198,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00024182,0,#N/A,#N/A,#N/A
+199,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00020632,0,283,94,188.5
+200,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00021353,0,283,89,186
+201,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00029634,0,294,106,200
+202,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USR0000ASUN,#N/A,267,83,175
+203,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USR0000AHUM,#N/A,206,94,150
+204,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USW00023183,0,300,122,211
+205,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00028499,0,306,72,189
+206,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00025467,0,#N/A,#N/A,#N/A
+207,3/21/2008,prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,3,21,2008,9/30/2007,USC00028214,0,300,67,183.5
+208,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USC00020871,0,78,-17,30.5
+209,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USC00023828,0,11,-78,-33.5
+210,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USS0011R05S,76,42,-22,10
+211,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USR0000APRO,#N/A,39,-39,0
+212,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USS0011R10S,127,33,-13,10
+213,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USS0011R06S,178,51,-4,23.5
+214,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USR0000AMOL,#N/A,94,-44,25
+215,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,US1AZGL0004,102,#N/A,#N/A,#N/A
+216,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,USW00023194,3,117,0,58.5
+217,2/28/2010,cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,2,28,2010,8/31/2009,US1AZGL0005,107,#N/A,#N/A,#N/A
+218,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0259,0,#N/A,#N/A,#N/A
+219,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0082,0,#N/A,#N/A,#N/A
+220,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0220,0,#N/A,#N/A,#N/A
+221,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0058,#N/A,#N/A,#N/A,#N/A
+222,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0264,0,#N/A,#N/A,#N/A
+223,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0113,#N/A,#N/A,#N/A,#N/A
+224,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0024,0,#N/A,#N/A,#N/A
+225,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0025,0,#N/A,#N/A,#N/A
+226,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0334,0,#N/A,#N/A,#N/A
+227,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0198,#N/A,#N/A,#N/A,#N/A
+228,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0353,0,#N/A,#N/A,#N/A
+229,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0138,0,#N/A,#N/A,#N/A
+230,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0140,0,#N/A,#N/A,#N/A
+231,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0131,0,#N/A,#N/A,#N/A
+232,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0211,0,#N/A,#N/A,#N/A
+233,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0343,0,#N/A,#N/A,#N/A
+234,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0057,0,#N/A,#N/A,#N/A
+235,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0352,0,#N/A,#N/A,#N/A
+236,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00024829,0,183,100,141.5
+237,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0356,0,#N/A,#N/A,#N/A
+238,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0027,0,#N/A,#N/A,#N/A
+239,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0111,0,#N/A,#N/A,#N/A
+240,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0015,0,#N/A,#N/A,#N/A
+241,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0039,0,#N/A,#N/A,#N/A
+242,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0267,#N/A,#N/A,#N/A,#N/A
+243,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0203,0,#N/A,#N/A,#N/A
+244,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0064,0,#N/A,#N/A,#N/A
+245,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0379,0,#N/A,#N/A,#N/A
+246,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0070,0,#N/A,#N/A,#N/A
+247,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0242,0,#N/A,#N/A,#N/A
+248,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0246,0,#N/A,#N/A,#N/A
+249,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0071,0,#N/A,#N/A,#N/A
+250,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0046,0,#N/A,#N/A,#N/A
+251,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0244,0,#N/A,#N/A,#N/A
+252,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0255,0,#N/A,#N/A,#N/A
+253,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0382,#N/A,#N/A,#N/A,#N/A
+254,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00028598,0,#N/A,#N/A,#N/A
+255,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0226,0,#N/A,#N/A,#N/A
+256,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0368,0,#N/A,#N/A,#N/A
+257,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USW00023183,0,189,111,150
+258,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0207,0,#N/A,#N/A,#N/A
+259,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0260,0,#N/A,#N/A,#N/A
+260,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0292,0,#N/A,#N/A,#N/A
+261,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0274,#N/A,#N/A,#N/A,#N/A
+262,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0375,0,#N/A,#N/A,#N/A
+263,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0350,#N/A,#N/A,#N/A,#N/A
+264,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0045,0,#N/A,#N/A,#N/A
+265,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0048,0,#N/A,#N/A,#N/A
+266,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0017,0,#N/A,#N/A,#N/A
+267,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00028499,0,189,67,128
+268,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0197,0,#N/A,#N/A,#N/A
+269,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0344,0,#N/A,#N/A,#N/A
+270,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0271,0,#N/A,#N/A,#N/A
+271,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0158,0,#N/A,#N/A,#N/A
+272,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0160,0,#N/A,#N/A,#N/A
+273,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0372,0,#N/A,#N/A,#N/A
+274,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0384,0,#N/A,#N/A,#N/A
+275,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USW00003192,0,172,89,130.5
+276,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0221,0,#N/A,#N/A,#N/A
+277,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0232,0,#N/A,#N/A,#N/A
+278,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0161,0,#N/A,#N/A,#N/A
+279,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0075,0,#N/A,#N/A,#N/A
+280,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0034,0,#N/A,#N/A,#N/A
+281,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0222,0,#N/A,#N/A,#N/A
+282,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0209,0,#N/A,#N/A,#N/A
+283,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0013,0,#N/A,#N/A,#N/A
+284,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0022,0,#N/A,#N/A,#N/A
+285,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0035,0,#N/A,#N/A,#N/A
+286,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0108,0,#N/A,#N/A,#N/A
+287,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0132,0,#N/A,#N/A,#N/A
+288,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00029634,0,183,83,133
+289,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0326,0,#N/A,#N/A,#N/A
+290,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USW00053156,0,168,69,118.5
+291,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00024977,0,189,72,130.5
+292,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USW00003184,0,172,67,119.5
+293,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00025467,0,#N/A,#N/A,#N/A
+294,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0261,0,#N/A,#N/A,#N/A
+295,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0258,#N/A,#N/A,#N/A,#N/A
+296,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0164,#N/A,#N/A,#N/A,#N/A
+297,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0010,0,#N/A,#N/A,#N/A
+298,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0373,0,#N/A,#N/A,#N/A
+299,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0032,0,#N/A,#N/A,#N/A
+300,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0103,0,#N/A,#N/A,#N/A
+301,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0228,0,#N/A,#N/A,#N/A
+302,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0130,0,#N/A,#N/A,#N/A
+303,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0068,0,#N/A,#N/A,#N/A
+304,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0377,0,#N/A,#N/A,#N/A
+305,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0289,0,#N/A,#N/A,#N/A
+306,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0359,0,#N/A,#N/A,#N/A
+307,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0026,0,#N/A,#N/A,#N/A
+308,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0218,0,#N/A,#N/A,#N/A
+309,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0234,0,#N/A,#N/A,#N/A
+310,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0386,#N/A,#N/A,#N/A,#N/A
+311,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0096,0,#N/A,#N/A,#N/A
+312,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0313,0,#N/A,#N/A,#N/A
+313,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0319,#N/A,#N/A,#N/A,#N/A
+314,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0162,0,#N/A,#N/A,#N/A
+315,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0170,0,#N/A,#N/A,#N/A
+316,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0157,0,#N/A,#N/A,#N/A
+317,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0147,0,#N/A,#N/A,#N/A
+318,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0016,0,#N/A,#N/A,#N/A
+319,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0047,0,#N/A,#N/A,#N/A
+320,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00023190,0,178,78,128
+321,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00026603,0,144,67,105.5
+322,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0061,0,#N/A,#N/A,#N/A
+323,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0005,0,#N/A,#N/A,#N/A
+324,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0105,0,#N/A,#N/A,#N/A
+325,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0341,0,#N/A,#N/A,#N/A
+326,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0245,0,#N/A,#N/A,#N/A
+327,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0338,0,#N/A,#N/A,#N/A
+328,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0042,0,#N/A,#N/A,#N/A
+329,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0349,0,#N/A,#N/A,#N/A
+330,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0041,0,#N/A,#N/A,#N/A
+331,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0153,#N/A,#N/A,#N/A,#N/A
+332,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00022782,0,172,72,122
+333,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0339,#N/A,#N/A,#N/A,#N/A
+334,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0239,0,#N/A,#N/A,#N/A
+335,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00020632,#N/A,#N/A,#N/A,#N/A
+336,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0342,0,#N/A,#N/A,#N/A
+337,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0337,0,#N/A,#N/A,#N/A
+338,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0288,0,#N/A,#N/A,#N/A
+339,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,USC00021282,0,161,44,102.5
+340,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0008,0,#N/A,#N/A,#N/A
+341,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0031,0,#N/A,#N/A,#N/A
+342,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0278,0,#N/A,#N/A,#N/A
+343,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0006,0,#N/A,#N/A,#N/A
+344,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0378,0,#N/A,#N/A,#N/A
+345,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZPN0020,0,#N/A,#N/A,#N/A
+346,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0100,#N/A,#N/A,#N/A,#N/A
+347,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZPN0027,0,#N/A,#N/A,#N/A
+348,2/1/2014,phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,2,1,2014,8/31/2013,US1AZMR0357,0,#N/A,#N/A,#N/A
+349,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00028499,0,278,67,172.5
+350,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0267,0,#N/A,#N/A,#N/A
+351,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0161,0,#N/A,#N/A,#N/A
+352,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0347,#N/A,#N/A,#N/A,#N/A
+353,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0071,0,#N/A,#N/A,#N/A
+354,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0207,0,#N/A,#N/A,#N/A
+355,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0048,0,#N/A,#N/A,#N/A
+356,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0352,0,#N/A,#N/A,#N/A
+357,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0375,0,#N/A,#N/A,#N/A
+358,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0032,0,#N/A,#N/A,#N/A
+359,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0255,0,#N/A,#N/A,#N/A
+360,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00025467,0,#N/A,#N/A,#N/A
+361,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0023,#N/A,#N/A,#N/A,#N/A
+362,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0368,#N/A,#N/A,#N/A,#N/A
+363,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0282,#N/A,#N/A,#N/A,#N/A
+364,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0343,0,#N/A,#N/A,#N/A
+365,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0221,0,#N/A,#N/A,#N/A
+366,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0272,#N/A,#N/A,#N/A,#N/A
+367,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USW00023183,0,272,117,194.5
+368,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0260,0,#N/A,#N/A,#N/A
+369,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0244,0,#N/A,#N/A,#N/A
+370,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0155,#N/A,#N/A,#N/A,#N/A
+371,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0228,0,#N/A,#N/A,#N/A
+372,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0052,#N/A,#N/A,#N/A,#N/A
+373,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0246,0,#N/A,#N/A,#N/A
+374,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0197,0,#N/A,#N/A,#N/A
+375,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0033,#N/A,#N/A,#N/A,#N/A
+376,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0261,0,#N/A,#N/A,#N/A
+377,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0280,#N/A,#N/A,#N/A,#N/A
+378,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0341,0,#N/A,#N/A,#N/A
+379,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0096,0,#N/A,#N/A,#N/A
+380,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0075,0,#N/A,#N/A,#N/A
+381,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0410,0,#N/A,#N/A,#N/A
+382,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0353,#N/A,#N/A,#N/A,#N/A
+383,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0373,0,#N/A,#N/A,#N/A
+384,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0057,0,#N/A,#N/A,#N/A
+385,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0382,0,#N/A,#N/A,#N/A
+386,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0025,0,#N/A,#N/A,#N/A
+387,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0047,0,#N/A,#N/A,#N/A
+388,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0068,0,#N/A,#N/A,#N/A
+389,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0039,0,#N/A,#N/A,#N/A
+390,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0198,0,#N/A,#N/A,#N/A
+391,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0243,#N/A,#N/A,#N/A,#N/A
+392,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0131,0,#N/A,#N/A,#N/A
+393,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0140,0,#N/A,#N/A,#N/A
+394,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0110,#N/A,#N/A,#N/A,#N/A
+395,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0392,#N/A,#N/A,#N/A,#N/A
+396,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0010,0,#N/A,#N/A,#N/A
+397,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0386,#N/A,#N/A,#N/A,#N/A
+398,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0326,0,#N/A,#N/A,#N/A
+399,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0242,0,#N/A,#N/A,#N/A
+400,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0058,0,#N/A,#N/A,#N/A
+401,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0024,0,#N/A,#N/A,#N/A
+402,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0034,0,#N/A,#N/A,#N/A
+403,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0070,0,#N/A,#N/A,#N/A
+404,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0203,0,#N/A,#N/A,#N/A
+405,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0313,0,#N/A,#N/A,#N/A
+406,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0072,#N/A,#N/A,#N/A,#N/A
+407,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0278,0,#N/A,#N/A,#N/A
+408,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0213,#N/A,#N/A,#N/A,#N/A
+409,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0339,#N/A,#N/A,#N/A,#N/A
+410,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0218,0,#N/A,#N/A,#N/A
+411,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00024829,0,267,94,180.5
+412,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0082,0,#N/A,#N/A,#N/A
+413,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0359,0,#N/A,#N/A,#N/A
+414,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0350,0,#N/A,#N/A,#N/A
+415,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0356,0,#N/A,#N/A,#N/A
+416,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0269,#N/A,#N/A,#N/A,#N/A
+417,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0157,0,#N/A,#N/A,#N/A
+418,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0164,0,#N/A,#N/A,#N/A
+419,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0188,#N/A,#N/A,#N/A,#N/A
+420,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0409,#N/A,#N/A,#N/A,#N/A
+421,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USW00003192,0,256,94,175
+422,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0387,0,#N/A,#N/A,#N/A
+423,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0384,0,#N/A,#N/A,#N/A
+424,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0111,0,#N/A,#N/A,#N/A
+425,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0211,0,#N/A,#N/A,#N/A
+426,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0357,0,#N/A,#N/A,#N/A
+427,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0113,#N/A,#N/A,#N/A,#N/A
+428,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0105,0,#N/A,#N/A,#N/A
+429,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0319,#N/A,#N/A,#N/A,#N/A
+430,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0153,#N/A,#N/A,#N/A,#N/A
+431,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0220,0,#N/A,#N/A,#N/A
+432,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0334,0,#N/A,#N/A,#N/A
+433,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0226,#N/A,#N/A,#N/A,#N/A
+434,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0222,0,#N/A,#N/A,#N/A
+435,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0046,0,#N/A,#N/A,#N/A
+436,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0378,0,#N/A,#N/A,#N/A
+437,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0335,#N/A,#N/A,#N/A,#N/A
+438,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0259,0,#N/A,#N/A,#N/A
+439,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00022782,0,267,67,167
+440,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0049,#N/A,#N/A,#N/A,#N/A
+441,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0379,0,#N/A,#N/A,#N/A
+442,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0078,#N/A,#N/A,#N/A,#N/A
+443,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00028598,0,#N/A,#N/A,#N/A
+444,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00023190,0,278,106,192
+445,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0264,0,#N/A,#N/A,#N/A
+446,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0209,0,#N/A,#N/A,#N/A
+447,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0206,#N/A,#N/A,#N/A,#N/A
+448,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0022,#N/A,#N/A,#N/A,#N/A
+449,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0020,0,#N/A,#N/A,#N/A
+450,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0160,0,#N/A,#N/A,#N/A
+451,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0338,0,#N/A,#N/A,#N/A
+452,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USW00003184,0,250,100,175
+453,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0138,0,#N/A,#N/A,#N/A
+454,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0288,0,#N/A,#N/A,#N/A
+455,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0016,0,#N/A,#N/A,#N/A
+456,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0271,0,#N/A,#N/A,#N/A
+457,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0342,0,#N/A,#N/A,#N/A
+458,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00026603,0,261,122,191.5
+459,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0265,#N/A,#N/A,#N/A,#N/A
+460,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0027,#N/A,#N/A,#N/A,#N/A
+461,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0035,0,#N/A,#N/A,#N/A
+462,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00029634,0,261,94,177.5
+463,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0344,0,#N/A,#N/A,#N/A
+464,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0017,#N/A,#N/A,#N/A,#N/A
+465,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0292,0,#N/A,#N/A,#N/A
+466,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0045,0,#N/A,#N/A,#N/A
+467,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0232,0,#N/A,#N/A,#N/A
+468,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00024977,0,261,94,177.5
+469,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0016,0,#N/A,#N/A,#N/A
+470,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00028214,#N/A,#N/A,#N/A,#N/A
+471,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0274,#N/A,#N/A,#N/A,#N/A
+472,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0008,0,#N/A,#N/A,#N/A
+473,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0362,#N/A,#N/A,#N/A,#N/A
+474,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0017,0,#N/A,#N/A,#N/A
+475,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0024,0,#N/A,#N/A,#N/A
+476,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0287,0,#N/A,#N/A,#N/A
+477,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0007,0,#N/A,#N/A,#N/A
+478,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0234,0,#N/A,#N/A,#N/A
+479,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0289,0,#N/A,#N/A,#N/A
+480,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0035,0,#N/A,#N/A,#N/A
+481,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00020288,0,256,100,178
+482,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0377,0,#N/A,#N/A,#N/A
+483,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0053,#N/A,#N/A,#N/A,#N/A
+484,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0192,#N/A,#N/A,#N/A,#N/A
+485,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0132,0,#N/A,#N/A,#N/A
+486,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0411,#N/A,#N/A,#N/A,#N/A
+487,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0010,0,#N/A,#N/A,#N/A
+488,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0103,0,#N/A,#N/A,#N/A
+489,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0398,0,#N/A,#N/A,#N/A
+490,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0158,0,#N/A,#N/A,#N/A
+491,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0372,0,#N/A,#N/A,#N/A
+492,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0349,0,#N/A,#N/A,#N/A
+493,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00025700,#N/A,#N/A,#N/A,#N/A
+494,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0162,0,#N/A,#N/A,#N/A
+495,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,USC00021282,0,261,106,183.5
+496,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0031,0,#N/A,#N/A,#N/A
+497,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0245,0,#N/A,#N/A,#N/A
+498,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0006,0,#N/A,#N/A,#N/A
+499,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZPN0025,0,#N/A,#N/A,#N/A
+500,2/7/2015,tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,2,7,2015,8/31/2014,US1AZMR0100,#N/A,#N/A,#N/A,#N/A
+501,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0109,0,#N/A,#N/A,#N/A
+502,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00023668,0,#N/A,#N/A,#N/A
+503,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0323,0,#N/A,#N/A,#N/A
+504,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0269,0,#N/A,#N/A,#N/A
+505,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0013,0,#N/A,#N/A,#N/A
+506,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00027990,0,239,89,164
+507,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0118,0,#N/A,#N/A,#N/A
+508,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00026282,0,#N/A,#N/A,#N/A
+509,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0105,0,#N/A,#N/A,#N/A
+510,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0001,0,#N/A,#N/A,#N/A
+511,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0038,0,#N/A,#N/A,#N/A
+512,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0318,0,#N/A,#N/A,#N/A
+513,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0194,0,#N/A,#N/A,#N/A
+514,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0010,0,#N/A,#N/A,#N/A
+515,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0172,0,#N/A,#N/A,#N/A
+516,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0311,#N/A,#N/A,#N/A,#N/A
+517,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028865,0,278,56,167
+518,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0272,0,#N/A,#N/A,#N/A
+519,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0248,0,#N/A,#N/A,#N/A
+520,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0010,0,#N/A,#N/A,#N/A
+521,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0145,0,#N/A,#N/A,#N/A
+522,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0204,0,#N/A,#N/A,#N/A
+523,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0103,0,#N/A,#N/A,#N/A
+524,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0016,0,#N/A,#N/A,#N/A
+525,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0113,0,#N/A,#N/A,#N/A
+526,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0333,#N/A,#N/A,#N/A,#N/A
+527,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0127,0,#N/A,#N/A,#N/A
+528,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00025924,0,294,28,161
+529,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0313,0,#N/A,#N/A,#N/A
+530,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0210,0,#N/A,#N/A,#N/A
+531,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0044,0,#N/A,#N/A,#N/A
+532,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0261,0,#N/A,#N/A,#N/A
+533,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0148,0,#N/A,#N/A,#N/A
+534,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0124,0,#N/A,#N/A,#N/A
+535,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0328,0,#N/A,#N/A,#N/A
+536,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0304,0,#N/A,#N/A,#N/A
+537,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0106,0,#N/A,#N/A,#N/A
+538,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0326,0,#N/A,#N/A,#N/A
+539,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0013,0,#N/A,#N/A,#N/A
+540,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0072,0,#N/A,#N/A,#N/A
+541,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0024,0,#N/A,#N/A,#N/A
+542,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0193,0,#N/A,#N/A,#N/A
+543,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0049,0,#N/A,#N/A,#N/A
+544,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0202,0,#N/A,#N/A,#N/A
+545,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028795,0,300,122,211
+546,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AHPK,#N/A,233,94,163.5
+547,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0244,0,#N/A,#N/A,#N/A
+548,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0294,0,#N/A,#N/A,#N/A
+549,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028590,0,294,100,197
+550,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AEMP,#N/A,272,61,166.5
+551,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0003,0,#N/A,#N/A,#N/A
+552,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0206,0,#N/A,#N/A,#N/A
+553,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0265,0,#N/A,#N/A,#N/A
+554,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00053146,0,272,72,172
+555,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000ARIN,#N/A,200,50,125
+556,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0022,0,#N/A,#N/A,#N/A
+557,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0214,0,#N/A,#N/A,#N/A
+558,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00020380,0,#N/A,#N/A,#N/A
+559,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0069,0,#N/A,#N/A,#N/A
+560,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0112,0,#N/A,#N/A,#N/A
+561,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0141,0,#N/A,#N/A,#N/A
+562,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0215,0,#N/A,#N/A,#N/A
+563,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028998,0,#N/A,#N/A,#N/A
+564,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0039,0,#N/A,#N/A,#N/A
+565,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00023160,0,317,122,219.5
+566,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0111,0,#N/A,#N/A,#N/A
+567,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0162,0,#N/A,#N/A,#N/A
+568,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0109,0,#N/A,#N/A,#N/A
+569,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00023668,0,#N/A,#N/A,#N/A
+570,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0323,0,#N/A,#N/A,#N/A
+571,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0269,0,#N/A,#N/A,#N/A
+572,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0013,0,#N/A,#N/A,#N/A
+573,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00027990,0,239,89,164
+574,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0118,0,#N/A,#N/A,#N/A
+575,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00026282,0,#N/A,#N/A,#N/A
+576,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0105,0,#N/A,#N/A,#N/A
+577,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0001,0,#N/A,#N/A,#N/A
+578,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0038,0,#N/A,#N/A,#N/A
+579,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0318,0,#N/A,#N/A,#N/A
+580,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0194,0,#N/A,#N/A,#N/A
+581,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0010,0,#N/A,#N/A,#N/A
+582,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0172,0,#N/A,#N/A,#N/A
+583,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0311,#N/A,#N/A,#N/A,#N/A
+584,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028865,0,278,56,167
+585,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0272,0,#N/A,#N/A,#N/A
+586,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0248,0,#N/A,#N/A,#N/A
+587,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0010,0,#N/A,#N/A,#N/A
+588,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0145,0,#N/A,#N/A,#N/A
+589,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0204,0,#N/A,#N/A,#N/A
+590,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0103,0,#N/A,#N/A,#N/A
+591,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0016,0,#N/A,#N/A,#N/A
+592,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0113,0,#N/A,#N/A,#N/A
+593,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0333,#N/A,#N/A,#N/A,#N/A
+594,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0127,0,#N/A,#N/A,#N/A
+595,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00025924,0,294,28,161
+596,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0313,0,#N/A,#N/A,#N/A
+597,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0210,0,#N/A,#N/A,#N/A
+598,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0044,0,#N/A,#N/A,#N/A
+599,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0261,0,#N/A,#N/A,#N/A
+600,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0148,0,#N/A,#N/A,#N/A
+601,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0124,0,#N/A,#N/A,#N/A
+602,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0328,0,#N/A,#N/A,#N/A
+603,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0304,0,#N/A,#N/A,#N/A
+604,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0106,0,#N/A,#N/A,#N/A
+605,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0326,0,#N/A,#N/A,#N/A
+606,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0013,0,#N/A,#N/A,#N/A
+607,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0072,0,#N/A,#N/A,#N/A
+608,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0024,0,#N/A,#N/A,#N/A
+609,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0193,0,#N/A,#N/A,#N/A
+610,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0049,0,#N/A,#N/A,#N/A
+611,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0202,0,#N/A,#N/A,#N/A
+612,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028795,0,300,122,211
+613,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AHPK,#N/A,233,94,163.5
+614,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0244,0,#N/A,#N/A,#N/A
+615,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0294,0,#N/A,#N/A,#N/A
+616,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028590,0,294,100,197
+617,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AEMP,#N/A,272,61,166.5
+618,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0003,0,#N/A,#N/A,#N/A
+619,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0206,0,#N/A,#N/A,#N/A
+620,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0265,0,#N/A,#N/A,#N/A
+621,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00053146,0,272,72,172
+622,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000ARIN,#N/A,200,50,125
+623,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0022,0,#N/A,#N/A,#N/A
+624,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0214,0,#N/A,#N/A,#N/A
+625,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00020380,0,#N/A,#N/A,#N/A
+626,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0069,0,#N/A,#N/A,#N/A
+627,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0112,0,#N/A,#N/A,#N/A
+628,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0141,0,#N/A,#N/A,#N/A
+629,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0215,0,#N/A,#N/A,#N/A
+630,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028998,0,#N/A,#N/A,#N/A
+631,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0039,0,#N/A,#N/A,#N/A
+632,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00023160,0,317,122,219.5
+633,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0111,0,#N/A,#N/A,#N/A
+634,4/4/2018,tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0162,0,#N/A,#N/A,#N/A
+635,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0109,0,#N/A,#N/A,#N/A
+636,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00023668,0,#N/A,#N/A,#N/A
+637,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0323,0,#N/A,#N/A,#N/A
+638,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0269,0,#N/A,#N/A,#N/A
+639,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0013,0,#N/A,#N/A,#N/A
+640,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00027990,0,239,89,164
+641,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0118,0,#N/A,#N/A,#N/A
+642,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00026282,0,#N/A,#N/A,#N/A
+643,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0105,0,#N/A,#N/A,#N/A
+644,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0001,0,#N/A,#N/A,#N/A
+645,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0038,0,#N/A,#N/A,#N/A
+646,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0318,0,#N/A,#N/A,#N/A
+647,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0194,0,#N/A,#N/A,#N/A
+648,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0010,0,#N/A,#N/A,#N/A
+649,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0172,0,#N/A,#N/A,#N/A
+650,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0311,#N/A,#N/A,#N/A,#N/A
+651,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028865,0,278,56,167
+652,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0272,0,#N/A,#N/A,#N/A
+653,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0248,0,#N/A,#N/A,#N/A
+654,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0010,0,#N/A,#N/A,#N/A
+655,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0145,0,#N/A,#N/A,#N/A
+656,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0204,0,#N/A,#N/A,#N/A
+657,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0103,0,#N/A,#N/A,#N/A
+658,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0016,0,#N/A,#N/A,#N/A
+659,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0113,0,#N/A,#N/A,#N/A
+660,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0333,#N/A,#N/A,#N/A,#N/A
+661,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0127,0,#N/A,#N/A,#N/A
+662,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00025924,0,294,28,161
+663,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0313,0,#N/A,#N/A,#N/A
+664,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0210,0,#N/A,#N/A,#N/A
+665,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0044,0,#N/A,#N/A,#N/A
+666,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0261,0,#N/A,#N/A,#N/A
+667,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0148,0,#N/A,#N/A,#N/A
+668,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0124,0,#N/A,#N/A,#N/A
+669,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0328,0,#N/A,#N/A,#N/A
+670,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0304,0,#N/A,#N/A,#N/A
+671,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0106,0,#N/A,#N/A,#N/A
+672,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0326,0,#N/A,#N/A,#N/A
+673,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0013,0,#N/A,#N/A,#N/A
+674,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0072,0,#N/A,#N/A,#N/A
+675,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0024,0,#N/A,#N/A,#N/A
+676,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0193,0,#N/A,#N/A,#N/A
+677,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0049,0,#N/A,#N/A,#N/A
+678,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0202,0,#N/A,#N/A,#N/A
+679,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028795,0,300,122,211
+680,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AHPK,#N/A,233,94,163.5
+681,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0244,0,#N/A,#N/A,#N/A
+682,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0294,0,#N/A,#N/A,#N/A
+683,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028590,0,294,100,197
+684,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AEMP,#N/A,272,61,166.5
+685,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0003,0,#N/A,#N/A,#N/A
+686,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0206,0,#N/A,#N/A,#N/A
+687,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0265,0,#N/A,#N/A,#N/A
+688,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00053146,0,272,72,172
+689,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000ARIN,#N/A,200,50,125
+690,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0022,0,#N/A,#N/A,#N/A
+691,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0214,0,#N/A,#N/A,#N/A
+692,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00020380,0,#N/A,#N/A,#N/A
+693,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0069,0,#N/A,#N/A,#N/A
+694,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0112,0,#N/A,#N/A,#N/A
+695,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0141,0,#N/A,#N/A,#N/A
+696,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0215,0,#N/A,#N/A,#N/A
+697,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028998,0,#N/A,#N/A,#N/A
+698,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0039,0,#N/A,#N/A,#N/A
+699,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00023160,0,317,122,219.5
+700,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0111,0,#N/A,#N/A,#N/A
+701,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0162,0,#N/A,#N/A,#N/A
+702,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0109,0,#N/A,#N/A,#N/A
+703,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00023668,0,#N/A,#N/A,#N/A
+704,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0323,0,#N/A,#N/A,#N/A
+705,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0269,0,#N/A,#N/A,#N/A
+706,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0013,0,#N/A,#N/A,#N/A
+707,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00027990,0,239,89,164
+708,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0118,0,#N/A,#N/A,#N/A
+709,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00026282,0,#N/A,#N/A,#N/A
+710,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0105,0,#N/A,#N/A,#N/A
+711,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0001,0,#N/A,#N/A,#N/A
+712,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0038,0,#N/A,#N/A,#N/A
+713,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0318,0,#N/A,#N/A,#N/A
+714,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0194,0,#N/A,#N/A,#N/A
+715,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0010,0,#N/A,#N/A,#N/A
+716,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0172,0,#N/A,#N/A,#N/A
+717,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0311,#N/A,#N/A,#N/A,#N/A
+718,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028865,0,278,56,167
+719,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0272,0,#N/A,#N/A,#N/A
+720,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0248,0,#N/A,#N/A,#N/A
+721,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0010,0,#N/A,#N/A,#N/A
+722,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0145,0,#N/A,#N/A,#N/A
+723,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0204,0,#N/A,#N/A,#N/A
+724,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0103,0,#N/A,#N/A,#N/A
+725,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0016,0,#N/A,#N/A,#N/A
+726,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0113,0,#N/A,#N/A,#N/A
+727,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0333,#N/A,#N/A,#N/A,#N/A
+728,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0127,0,#N/A,#N/A,#N/A
+729,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00025924,0,294,28,161
+730,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0313,0,#N/A,#N/A,#N/A
+731,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0210,0,#N/A,#N/A,#N/A
+732,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0044,0,#N/A,#N/A,#N/A
+733,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0261,0,#N/A,#N/A,#N/A
+734,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0148,0,#N/A,#N/A,#N/A
+735,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0124,0,#N/A,#N/A,#N/A
+736,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0328,0,#N/A,#N/A,#N/A
+737,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0304,0,#N/A,#N/A,#N/A
+738,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0106,0,#N/A,#N/A,#N/A
+739,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0326,0,#N/A,#N/A,#N/A
+740,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZSC0013,0,#N/A,#N/A,#N/A
+741,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0072,0,#N/A,#N/A,#N/A
+742,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0024,0,#N/A,#N/A,#N/A
+743,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0193,0,#N/A,#N/A,#N/A
+744,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0049,0,#N/A,#N/A,#N/A
+745,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0202,0,#N/A,#N/A,#N/A
+746,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028795,0,300,122,211
+747,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AHPK,#N/A,233,94,163.5
+748,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0244,0,#N/A,#N/A,#N/A
+749,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0294,0,#N/A,#N/A,#N/A
+750,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028590,0,294,100,197
+751,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000AEMP,#N/A,272,61,166.5
+752,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0003,0,#N/A,#N/A,#N/A
+753,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0206,0,#N/A,#N/A,#N/A
+754,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0265,0,#N/A,#N/A,#N/A
+755,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00053146,0,272,72,172
+756,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USR0000ARIN,#N/A,200,50,125
+757,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0022,0,#N/A,#N/A,#N/A
+758,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0214,0,#N/A,#N/A,#N/A
+759,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00020380,0,#N/A,#N/A,#N/A
+760,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0069,0,#N/A,#N/A,#N/A
+761,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0112,0,#N/A,#N/A,#N/A
+762,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0141,0,#N/A,#N/A,#N/A
+763,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0215,0,#N/A,#N/A,#N/A
+764,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USC00028998,0,#N/A,#N/A,#N/A
+765,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZCH0039,0,#N/A,#N/A,#N/A
+766,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,USW00023160,0,317,122,219.5
+767,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0111,0,#N/A,#N/A,#N/A
+768,4/4/2018,tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,4,4,2018,10/31/2017,US1AZPM0162,0,#N/A,#N/A,#N/A

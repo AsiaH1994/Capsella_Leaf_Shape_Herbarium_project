@@ -1,0 +1,22 @@
+﻿id,id2,city_county_state,latitude,longitude,elevation,month,day,year
+tucson,tucson1,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,April,4,2018
+tucson,tucson2,Santa Cruz County_Arizona_Tuscon,31.7,-110.84983,2524,April,4,2018
+tucson,tucson3,Pima County_Arizona_Tuscon,31.999525,-110.951202,728,March,5,1993
+crownking,crownking,Yavapai County_Arizona_Crown King,34.2333,-112.3167,1415,December,31,2002
+sunflower,sunflower1,"Gila County_Arizona_Chandler, Sunflower",33.86532,-111.465413,1249,April,3,1990
+tempe,tempe1,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,February,9,1932
+tempe,tempe2,Maricopa County_Arizona_Tempe,33.4,-111.9,347.27,February,23,1962
+sedona,sedona,Coconine County_Arizona_Sedona,35.0333,-111.75,1330,May,6,1961
+cottonwood,cottonwood,Yavapai County_Arizona_Cottonwood,34.68823,-111.05148,1236,February,28,2010
+wheatfields,wheatfields,"Apache County_Arizona_Lukachukai, Tsaile, Wheatfields",36.4112,-109.103,2221,May,18,1986
+roosevelt,roosevelt,Gila County_Arizona_Roosevelt,33.667548,-111.134289,675,December,6,2000
+phoenix,phoenix1,Maricopa County_Arizona_Phoenix,33.4333,-112.0667,331,February,1,2014
+queencreek,queencreek,"Maricopa County_Arizona_Chandler, Superior, Queen Creek",33.25,-111.15,712,February,16,2001
+tempe,tempe3,"Maricopa County_Arizona_Phoenix, Tempe",33.430673,-111.940977,347.27,February,7,2015
+prescott,prescott,"Maricopa County_Arizona_Cave Creek, Prescott",33.8333,-111.95,702,March,21,2008
+cochise,cochise,Cochise County_Arizona_Cochise,31.446766,-109.915908,1287,April,13,2003
+wikieup,wikieup,Mohave County_Arizona_Wikieup,34.695569,-113.573823,609,April,13,1979
+phoenix,phoenix2,Maricopa County_Arizona_Phoenix,33.598652,-112.030426,331,March,9,1979
+sunflower,sunflower2,Gila County_Arizona_Sunflower,33.864209,-111.467635,1038,March,19,1972
+tempe,tempe4,Maricopa County_Arizona_Tempe,33.422281,-111.934475,347.27,January,16,1951
+sierraanchas,sierraanchas,Gila County_Arizona_Sierra Anchas,33.957543,-111.186796,1082,March,21,1978
